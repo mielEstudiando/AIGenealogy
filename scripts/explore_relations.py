@@ -90,7 +90,7 @@ def exact_matches(df: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
                 "largest_group_repos": int(g.n_repos.max()),
             }
         )
-    groups = pd.concat(groups).sort_values(["level", "n_repos"], ascending=[True, False])
+    groups = pd.concat(groups).sort_values(["level", "n_repos", "hash"], ascending=[True, False, True], kind="stable")
     return groups, pd.DataFrame(summary)
 
 
@@ -159,7 +159,7 @@ def shared_imports(files: pd.DataFrame) -> pd.DataFrame:
         .rename(columns={"imports": "import_target"})
     )
     out["remote"] = out.import_target.str.count("/").ge(3) & out.import_target.str.contains("@")
-    return out[out.n_files > 1].sort_values(["n_owners", "n_repos"], ascending=False)
+    return out[out.n_files > 1].sort_values(["n_owners", "n_repos", "import_target"], ascending=[False, False, True], kind="stable")
 
 
 def source_validation(files: pd.DataFrame, sim: np.ndarray) -> pd.DataFrame:
@@ -195,7 +195,8 @@ def shared_fragments(df: pd.DataFrame) -> pd.DataFrame:
         [(f, len(h), len(r), len(o)) for f, (h, r, o) in where.items() if len(h) > 1],
         columns=["fragment", "n_histories", "n_repos", "n_owners"],
     )
-    return out.sort_values(["n_owners", "n_repos"], ascending=False)
+    # tiebreak on the text: set iteration order (hash randomization) would otherwise reorder ties between runs
+    return out.sort_values(["n_owners", "n_repos", "fragment"], ascending=[False, False, True], kind="stable")
 
 
 def version_changes(df: pd.DataFrame) -> pd.DataFrame:
