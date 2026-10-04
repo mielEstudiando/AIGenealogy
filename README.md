@@ -31,6 +31,7 @@ notebooks/         exploratory and analysis notebooks
 results/           tables, metrics and figures data reported in the paper
 scripts/           entry-point scripts (download, analysis steps)
 src/ghaw_relations/  reusable code (data loading, similarity, ...)
+upstream/          upstream GH-AW templates (not in GHAW-H): fetch, attribution and scenario scripts, data, results
 ```
 
 ## Reproducing
@@ -43,12 +44,19 @@ uv run python scripts/download_data.py     # fetch GHAW-H tables into data/raw/ 
 uv run python scripts/language_filter.py   # report repo languages; non-English/Spanish repos are excluded -> results/language/
 uv run python scripts/explore_relations.py # exploratory relation analysis -> results/exploration/
 uv run python scripts/trace_evolution.py   # version-level evolution analysis -> results/evolution/
+uv run python upstream/attribute_parents.py # files vs. the upstream templates they relate to -> upstream/results/
+uv run python upstream/detect_scenarios.py  # partial copies, collages, AI-prompt skeleton -> upstream/results/
+uv run python upstream/emoji_tally.py       # emoji use by location, inherited or added -> upstream/results/
 ```
 
 | Step | Output | Description |
 | --- | --- | --- |
 | `language_filter.py` | `results/language/repo_languages.csv` | Language of each repository's instructions. `load_snapshots()` excludes repos that are mostly not English or Spanish (3 repos), so all later steps use 259 repos |
 | `explore_relations.py` | `results/exploration/*.csv` | Exact matches, body similarity, shared fragments, `source:` validation, version changes, shared imports |
+| `upstream/fetch_upstream.py` | `upstream/data/*.parquet` | Fetches the templates GHAW-H files declare or import. The data is committed; rerun only to refresh (it downloads newer commits too) |
+| `upstream/attribute_parents.py` | `upstream/results/` | Each file's closest earlier template, declared vs. undeclared copies, change at adoption, whether files follow template updates, siblings vs. direct copies |
+| `upstream/detect_scenarios.py` | `upstream/results/` | Paragraph reuse (partial copy, collage), similar-meaning pairs, gh-aw creator-prompt skeleton |
+| `upstream/emoji_tally.py` | `upstream/results/` | Emoji use by location, and whether copies inherited it from the template |
 | `trace_evolution.py` | `results/evolution/*.csv` | Evolution within each file history, earlier relatives across files (same repo / same owner / other owner), whether copies follow or drift from their relative |
 
 ## Implementation status
@@ -60,6 +68,7 @@ uv run python scripts/trace_evolution.py   # version-level evolution analysis ->
 | Exploratory relation analysis (exact, near, fragment, declared source, imports) | done (exploratory) |
 | Version-level evolution tracing | done (exploratory) |
 | Language filter (English/Spanish only, for manual checking) | done |
+| Upstream templates: fetch, attribution, scenarios, emoji tally | done (exploratory; relation cutoff checked by hand) |
 | Calibrated relation classification | partial: relation cutoff checked by hand on a small sample (see Thresholds) |
 | RQ1 results (tables, figures) | pending |
 
@@ -67,7 +76,8 @@ uv run python scripts/trace_evolution.py   # version-level evolution analysis ->
 
 Similarity thresholds are provisional and **may still change**.
 
-- **Relation cutoff (0.3):** the minimum body cosine for two files to count as related. It was lowered from 0.5 after a manual check of a small stratified sample (87 cases, one coder, 2026-10-04). In that check, adapted rewrites at cosine 0.36–0.40 were judged related and files at 0.21 or below were not. The new cutoff also sits in the gap of the bimodal nearest-neighbour distribution (0.2–0.3). In this repository it is `ORIGIN_THRESHOLD` in `scripts/trace_evolution.py`.
+- **Relation cutoff (0.3):** the minimum body cosine for two files to count as related. It was lowered from 0.5 after a manual check of a small stratified sample (87 cases, one coder, 2026-10-04). In that check, adapted rewrites at cosine 0.36–0.40 were judged related and files at 0.21 or below were not. The new cutoff also sits in the gap of the bimodal nearest-neighbour distribution (0.2–0.3). It is `ORIGIN_THRESHOLD` in `scripts/trace_evolution.py` and `RELATED` in `upstream/attribute_parents.py`.
+- **Partial copy (≥ 33% from one source)** and **identical = same normalized text** (`upstream/`) come from the same manual check.
 - **Other values (0.9 near-identical, 0.1 drift, 20-word stubs):** still unvalidated placeholders.
 
 A second coder and a check against declared sources (`source:`) are planned before the thresholds are fixed.
@@ -85,5 +95,7 @@ Different parts of this repository are under different licenses:
 | Code (`src/`, `scripts/`, `notebooks/`), docs and configuration | [CC0 1.0](LICENSE) |
 | `results/`, `data/processed/` | Derived from GHAW-H, which is CC-BY-4.0. Our own contribution is CC0 1.0, but reuse must still credit GHAW-H. See [`results/LICENSE.md`](results/LICENSE.md). |
 | `data/raw/` (not committed) | GHAW-H, CC-BY-4.0. Content from each source repository keeps its original license. |
+| `upstream/data/*.parquet` | Third-party template content under its original licenses: MIT (agentics, gh-aw, Pulumi) and Apache-2.0 (Alfresco). License texts and the statement of changes are in [`upstream/licenses/`](upstream/licenses/) and [`upstream/README.md`](upstream/README.md#licensing). |
+| `upstream/results/` | Like `results/`: CC0 for our contribution, credit GHAW-H and the template repositories. |
 
 CC-BY-4.0 has no share-alike clause, so CC0 is allowed for our own work. Attribution to GHAW-H still applies to anything derived from it, whatever license we put on our part.

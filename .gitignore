@@ -13,3 +13,6 @@ data/raw/*
 .DS_Store
 .vscode/
 .idea/
+
+# Upstream template clones (re-created by upstream/fetch_upstream.py)
+upstream/repos/

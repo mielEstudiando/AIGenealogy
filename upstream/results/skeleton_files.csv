@@ -1,0 +1,471 @@
+history_id,repo,owner,filename,committed_at,attribution,skeleton_headings,skeleton_opener,skeleton_full,period
+2,apache/cloudstack,apache,daily-repo-status.md,2026-02-17 15:11:01+00:00,"declared, confirmed",0,False,False,after skeleton
+11,Dedac/Beam,Dedac,weekly-improvements.md,2026-04-22 14:44:20+00:00,no upstream parent,2,False,False,after skeleton
+12,mono/SkiaSharp,mono,auto-skia-sync.md,2026-05-08 19:55:22+00:00,no upstream parent,0,False,False,after skeleton
+13,mono/SkiaSharp,mono,auto-triage.md,2026-04-21 00:24:36+00:00,no upstream parent,0,False,False,after skeleton
+597,microsoft/AI-Engineering-Coach,microsoft,issue-triage.md,2026-06-07 18:40:49+00:00,"declared, confirmed",0,False,False,after skeleton
+598,drasi-project/drasi-server,drasi-project,pr-correctness-reviewer.md,2026-06-05 16:40:00+00:00,no upstream parent,0,False,False,after skeleton
+599,drasi-project/drasi-server,drasi-project,pr-design-reviewer.md,2026-06-05 16:40:00+00:00,no upstream parent,0,False,False,after skeleton
+402,ZSWatch/ZSWatch,ZSWatch,docs-pr-analyze.md,2026-02-18 12:36:14+00:00,no upstream parent,1,False,False,after skeleton
+602,drasi-project/drasi-server,drasi-project,pr-security-reviewer.md,2026-06-05 16:40:00+00:00,no upstream parent,0,False,False,after skeleton
+587,Azure/git-ape,Azure,issue-triage-agent.md,2026-05-06 10:49:25+00:00,"declared, confirmed",0,False,False,after skeleton
+588,Azure-Samples/octocat-supply,Azure-Samples,auto-analyze-failures.md,2026-03-05 23:41:27+00:00,no upstream parent,0,False,False,after skeleton
+589,Azure-Samples/octocat-supply,Azure-Samples,daily-repo-activity-summary.md,2026-03-05 23:41:27+00:00,no upstream parent,0,False,False,after skeleton
+590,microsoft/apm-action,microsoft,apm-demo.md,2026-03-05 22:35:04+00:00,no upstream parent,1,False,False,after skeleton
+591,DanWahlin/github-azure-agentic-journeys,DanWahlin,journey-e2e-test.md,2026-04-11 23:27:32+00:00,no upstream parent,0,False,False,after skeleton
+3,brunoborges/fx2048,brunoborges,create-sample-issue.md,2026-02-09 22:57:17+00:00,no upstream parent,0,False,False,after skeleton
+4,vaadin/flow,vaadin,doc-bot.md,2026-06-04 08:47:29+00:00,no upstream parent,0,False,False,after skeleton
+502,github/copilot-sdk,github,sdk-consistency-review.md,2026-01-23 11:14:12+00:00,no upstream parent,2,False,False,after skeleton
+503,natnew/Awesome-Data-Science,natnew,issue-triage-agent.md,2026-02-18 09:37:05+00:00,"declared, confirmed",0,False,False,after skeleton
+398,bob-collective/bob,bob-collective,openapi-docs-sync.md,2026-03-20 17:29:39+00:00,no upstream parent,0,False,False,after skeleton
+604,drasi-project/drasi-server,drasi-project,validate-yaml-snippets.md,2026-01-15 23:14:12+00:00,no upstream parent,2,True,False,after skeleton
+8,duckduckgo/Android,duckduckgo,drift-audit.md,2026-06-16 20:42:59+00:00,no upstream parent,1,False,False,after skeleton
+9,executeautomation/ExecuteAutomationWebApp,executeautomation,daily-repo-status.md,2026-03-03 02:01:05+00:00,"declared, confirmed",0,False,False,after skeleton
+10,Dedac/Beam,Dedac,fix-top-improvement.md,2026-04-22 14:47:40+00:00,no upstream parent,2,False,False,after skeleton
+592,oboapp/oboapp,oboapp,ci-failure-fix.md,2026-04-17 16:13:54+00:00,no upstream parent,0,False,False,after skeleton
+596,fqfqgo/clash-verge-rev,fqfqgo,pr-ai-slop-review.md,2026-03-17 18:07:27+00:00,no upstream parent,0,False,False,after skeleton
+14,mono/SkiaSharp,mono,update-release-notes.md,2026-04-28 02:39:23+00:00,no upstream parent,0,False,False,after skeleton
+15,uxsoft/AppleWirelessKeyboard,uxsoft,repo-assist.md,2026-04-22 19:02:05+00:00,"declared, confirmed",1,False,False,after skeleton
+16,dotnet/maui,dotnet,agentic-labeler.md,2026-05-15 15:33:58+00:00,no upstream parent,0,False,False,after skeleton
+400,dotnet/macios,dotnet,code-radiator.md,2026-05-07 06:08:21+00:00,no upstream parent,0,False,False,after skeleton
+401,dotnet/macios,dotnet,macios-reviewer.md,2026-04-23 06:11:53+00:00,no upstream parent,0,False,False,after skeleton
+6,duckduckgo/Android,duckduckgo,android-maintenance-worker.md,2026-03-31 20:48:50+00:00,no upstream parent,1,False,False,after skeleton
+1,apache/cloudstack,apache,daily-issue-triage.md,2026-06-17 18:15:03+00:00,"declared, confirmed",0,False,False,after skeleton
+399,dotnet/macios,dotnet,ci-postmortem.md,2026-05-20 13:40:11+00:00,no upstream parent,0,False,False,after skeleton
+22,dotnet/maui,dotnet,copilot-review-tests.md,2026-06-08 21:58:57+00:00,no upstream parent,0,False,False,after skeleton
+23,dotnet/maui,dotnet,daily-repo-status.md,2026-02-13 16:15:34+00:00,"declared, confirmed",0,False,False,after skeleton
+24,dotnet/maui,dotnet,rerun-review-scanner.md,2026-06-08 21:10:53+00:00,no upstream parent,0,False,False,after skeleton
+378,ohcnetwork/care_fe,ohcnetwork,daily-playwright-improver.md,2026-02-07 22:12:14+00:00,no upstream parent,0,True,False,after skeleton
+379,ohcnetwork/care_fe,ohcnetwork,thank-you-note.md,2026-02-07 22:32:19+00:00,no upstream parent,0,True,False,after skeleton
+380,IgniteUI/igniteui-xplat-docs,IgniteUI,sync-jp-docs.md,2026-03-20 15:38:03+00:00,no upstream parent,0,False,False,after skeleton
+381,alexandru/social-publish,alexandru,code-simplifier.md,2026-04-26 16:48:25+00:00,"declared, confirmed",0,False,False,after skeleton
+199,anweiss/cddl,anweiss,ci-doctor.md,2026-04-06 18:55:50+00:00,"declared, confirmed",0,False,False,after skeleton
+207,adoptium/api.adoptium.net,adoptium,production-branch-checker.md,2026-05-29 15:25:37+00:00,no upstream parent,0,False,False,after skeleton
+210,pulumi/pulumi-cdk,pulumi,cdk-pr-rereview.md,2026-03-11 13:16:30+00:00,"declared, confirmed",0,False,False,after skeleton
+506,neverinfamous/memory-journal-mcp,neverinfamous,wiki-drift-detector.md,2026-03-23 20:49:27+00:00,no upstream parent,0,False,False,after skeleton
+507,microsoft/skills,microsoft,update-llms-txt.md,2026-01-19 18:07:27+00:00,no upstream parent,0,False,False,after skeleton
+200,r12f/rnp,r12f,daily-repo-status.md,2026-02-03 01:18:33+00:00,"declared, confirmed",0,False,False,after skeleton
+201,guitarrapc/githubactions-lab,guitarrapc,monthly-oss-repo-status.md,2026-04-01 08:01:37+00:00,no upstream parent,0,False,False,after skeleton
+202,Azure/azure-sdk-for-rust,Azure,issue-triage.md,2026-03-10 03:21:00+00:00,"declared, confirmed",0,False,False,after skeleton
+29,dotnet/machinelearning,dotnet,repo-health-groom.md,2026-03-06 19:18:46+00:00,no upstream parent,0,False,False,after skeleton
+30,dotnet/machinelearning,dotnet,repo-health-investigate.md,2026-03-06 19:18:46+00:00,no upstream parent,0,False,False,after skeleton
+31,npgsql/efcore.pg,npgsql,sync-to-latest-ef.md,2026-02-16 09:27:59+00:00,no upstream parent,0,False,False,after skeleton
+33,microsoft/vstest,microsoft,build-failure-analysis.md,2026-06-19 12:08:15+00:00,no upstream parent,0,False,False,after skeleton
+376,foxminchan/BookWorm,foxminchan,issue-triage.md,2026-02-13 07:42:07+00:00,no upstream parent,3,True,True,after skeleton
+203,prowler-cloud/prowler,prowler-cloud,issue-triage.md,2026-02-23 15:09:35+00:00,no upstream parent,0,False,False,after skeleton
+204,microsoft/vscode-pylint,microsoft,check-python-versions.md,2026-02-17 21:42:37+00:00,no upstream parent,2,True,False,after skeleton
+213,microsoft/vscode-black-formatter,microsoft,extension-template-sync.md,2026-02-25 18:46:34+00:00,no upstream parent,1,True,False,after skeleton
+214,microsoft/vscode-black-formatter,microsoft,issue-triage.md,2026-02-25 17:54:32+00:00,no upstream parent,1,True,False,after skeleton
+186,elastic/terraform-provider-elasticstack,elastic,schema-coverage-rotation.md,2026-03-05 00:38:50+00:00,no upstream parent,0,False,False,after skeleton
+187,elastic/terraform-provider-elasticstack,elastic,security-role-docs-drift.md,2026-05-27 10:51:51+00:00,no upstream parent,0,False,False,after skeleton
+188,elastic/terraform-provider-elasticstack,elastic,semantic-function-refactor.md,2026-05-04 23:22:27+00:00,undeclared template copy,0,False,False,after skeleton
+504,neverinfamous/memory-journal-mcp,neverinfamous,ci-health-monitor.md,2026-03-12 12:39:35+00:00,no upstream parent,0,False,False,after skeleton
+505,neverinfamous/memory-journal-mcp,neverinfamous,docs-drift-detector.md,2026-03-12 12:39:35+00:00,no upstream parent,0,False,False,after skeleton
+205,microsoft/vscode-pylint,microsoft,extension-template-sync.md,2026-02-25 18:46:09+00:00,no upstream parent,1,True,False,after skeleton
+377,foxminchan/BookWorm,foxminchan,pr-triage.md,2026-02-13 12:13:47+00:00,no upstream parent,3,True,True,after skeleton
+511,chrisreddington/flight-school,chrisreddington,daily-qa.md,2026-02-23 14:58:36+00:00,"declared, confirmed",0,False,False,after skeleton
+211,pulumi/pulumi-cdk,pulumi,cdk-pr-review.md,2026-03-11 13:16:30+00:00,"declared, confirmed",0,False,False,after skeleton
+370,Azure/typespec-azure,Azure,docs-sync.md,2026-02-26 21:34:27+00:00,no upstream parent,3,False,True,after skeleton
+34,microsoft/vstest,microsoft,code-simplifier.md,2026-06-19 12:08:15+00:00,undeclared template copy,0,False,False,after skeleton
+35,microsoft/vstest,microsoft,daily-file-diet.md,2026-06-19 12:08:15+00:00,undeclared template copy,0,False,False,after skeleton
+36,microsoft/vstest,microsoft,daily-qa.md,2026-05-12 10:14:48+00:00,no upstream parent,0,False,False,after skeleton
+37,microsoft/vstest,microsoft,efficiency-improver.md,2026-06-19 12:08:15+00:00,undeclared template copy,1,False,False,after skeleton
+38,microsoft/vstest,microsoft,http-link-checker.md,2026-06-10 13:26:11+00:00,undeclared template copy,0,False,False,after skeleton
+39,microsoft/vstest,microsoft,issue-repro-triage.md,2026-05-12 10:14:48+00:00,no upstream parent,0,False,False,after skeleton
+372,fedixyz/fedi,fedixyz,weekly-doc-updater.md,2026-06-01 10:33:41+00:00,no upstream parent,0,False,False,after skeleton
+373,meshery/schemas,meshery,first-time-contributor.md,2026-05-12 12:09:46+00:00,no upstream parent,1,False,False,after skeleton
+374,foxminchan/BookWorm,foxminchan,contribution-guidelines-checker.md,2026-02-13 13:42:01+00:00,"declared, confirmed",0,False,False,after skeleton
+25,dotnet/machinelearning,dotnet,ci-scan-feedback.agent.md,2026-06-08 07:52:26+00:00,no upstream parent,0,False,False,after skeleton
+26,dotnet/machinelearning,dotnet,ci-scan.agent.md,2026-06-08 07:52:26+00:00,no upstream parent,0,False,False,after skeleton
+27,dotnet/machinelearning,dotnet,issue-triage.agent.md,2026-03-20 19:22:44+00:00,no upstream parent,0,False,False,after skeleton
+28,dotnet/machinelearning,dotnet,repo-health-check.md,2026-03-06 19:18:46+00:00,no upstream parent,0,False,False,after skeleton
+406,svenjacobs/lokksmith,svenjacobs,update-dependency-matrix.md,2026-03-20 08:22:36+00:00,no upstream parent,0,False,False,after skeleton
+375,foxminchan/BookWorm,foxminchan,daily-repo-status.md,2026-02-18 00:16:01+00:00,no upstream parent,3,True,True,after skeleton
+40,microsoft/vstest,microsoft,malicious-code-scan.md,2026-06-19 12:08:15+00:00,undeclared template copy,0,False,False,after skeleton
+41,microsoft/vstest,microsoft,markdown-linter.md,2026-06-19 12:08:15+00:00,undeclared template copy,1,False,False,after skeleton
+42,microsoft/vstest,microsoft,md-link-checker.md,2026-06-10 13:26:11+00:00,undeclared template copy,0,False,False,after skeleton
+44,microsoft/vstest,microsoft,pr-expert-reviewer.md,2026-05-12 10:14:48+00:00,no upstream parent,0,False,False,after skeleton
+45,microsoft/vstest,microsoft,pr-iteration.md,2026-05-12 15:02:20+00:00,no upstream parent,0,False,False,after skeleton
+368,carlkidcrypto/ezsnmp,carlkidcrypto,update_docker_python_versions.md,2026-03-21 21:31:27+00:00,no upstream parent,0,False,False,after skeleton
+369,Azure/typespec-azure,Azure,doc-update.md,2026-03-30 07:52:19+00:00,no upstream parent,0,False,False,after skeleton
+206,microsoft/vscode-pylint,microsoft,issue-triage.md,2026-02-25 01:01:26+00:00,no upstream parent,1,True,False,after skeleton
+216,microsoft/vscode-isort,microsoft,check-python-versions.md,2026-02-17 21:32:22+00:00,no upstream parent,2,True,False,after skeleton
+217,microsoft/vscode-isort,microsoft,extension-template-sync.md,2026-02-25 18:46:40+00:00,no upstream parent,1,True,False,after skeleton
+218,microsoft/vscode-isort,microsoft,issue-triage.md,2026-02-25 17:54:23+00:00,no upstream parent,1,True,False,after skeleton
+508,copilot-community-sdk/copilot-sdk-java,copilot-community-sdk,weekly-upstream-sync.md,2026-02-09 21:54:12+00:00,no upstream parent,0,False,False,after skeleton
+509,chrisreddington/flight-school,chrisreddington,daily-accessibility-review.md,2026-02-23 14:58:36+00:00,"declared, body diverged from declared template",0,False,False,after skeleton
+510,chrisreddington/flight-school,chrisreddington,daily-perf-improver.md,2026-02-23 14:58:36+00:00,no upstream parent,0,False,False,after skeleton
+47,dotnet/SqlClient,dotnet,issue-triage.md,2026-05-12 21:12:23+00:00,no upstream parent,0,False,False,after skeleton
+48,Shazwazza/Articulate,Shazwazza,efficiency-improver.md,2026-05-25 19:05:39+00:00,"declared, confirmed",1,False,False,after skeleton
+49,dotnet/msbuild,dotnet,close-stale-prs.agent.md,2026-03-17 11:02:00+00:00,no upstream parent,0,False,False,after skeleton
+366,carlkidcrypto/ezsnmp,carlkidcrypto,triage_incoming_bug_reports.md,2026-03-22 21:51:05+00:00,no upstream parent,0,False,False,after skeleton
+367,carlkidcrypto/ezsnmp,carlkidcrypto,update_docker_netsnmp_versions.md,2026-03-22 21:51:05+00:00,no upstream parent,0,False,False,after skeleton
+405,elastic/opentelemetry-collector-components,elastic,pr-review.md,2026-02-14 02:16:17+00:00,no upstream parent,0,False,False,after skeleton
+212,microsoft/vscode-black-formatter,microsoft,check-python-versions.md,2026-02-20 22:33:27+00:00,no upstream parent,2,True,False,after skeleton
+221,NikiforovAll/keycloak-authorization-services-dotnet,NikiforovAll,keybot.md,2026-03-29 13:12:27+00:00,"declared, confirmed",1,False,False,after skeleton
+222,getindata/kedro-vertexai,getindata,dependabot-fix.md,2026-03-19 11:59:13+00:00,no upstream parent,0,False,False,after skeleton
+223,getindata/kedro-vertexai,getindata,dependabot-review.md,2026-03-25 12:49:11+00:00,no upstream parent,0,True,False,after skeleton
+224,baizhiheizi/quill,baizhiheizi,accessibility-review.md,2026-06-09 21:44:54+00:00,"declared, confirmed",0,False,False,after skeleton
+225,baizhiheizi/quill,baizhiheizi,agentic-wiki-writer.md,2026-06-09 21:44:54+00:00,"declared, confirmed",0,False,False,after skeleton
+513,chrisreddington/flight-school,chrisreddington,issue-triage.md,2026-01-24 00:54:10+00:00,"declared, confirmed",0,False,False,after skeleton
+514,f/prompts.chat,f,spam-check.md,2026-02-18 17:29:04+00:00,no upstream parent,0,False,False,after skeleton
+516,microsoft/GitHub-Copilot-for-Azure,microsoft,issue-triage.md,2026-02-20 23:28:32+00:00,no upstream parent,1,False,False,after skeleton
+517,microsoft/GitHub-Copilot-for-Azure,microsoft,weekly-repo-status.md,2026-02-20 19:20:59+00:00,"declared, confirmed",0,False,False,after skeleton
+528,doggy8088/Apptopia,doggy8088,issue-auto-labeler.md,2026-02-17 08:17:56+00:00,no upstream parent,0,False,False,after skeleton
+184,elastic/terraform-provider-elasticstack,elastic,reproducer-factory-issue.md,2026-05-14 02:35:56+00:00,no upstream parent,0,False,False,after skeleton
+185,elastic/terraform-provider-elasticstack,elastic,research-factory-issue.md,2026-05-08 12:38:15+00:00,no upstream parent,0,False,False,after skeleton
+512,chrisreddington/flight-school,chrisreddington,daily-test-improver.md,2026-02-23 14:58:36+00:00,"declared, body diverged from declared template",0,False,False,after skeleton
+360,carlkidcrypto/ezsnmp,carlkidcrypto,auto_change_log.md,2026-03-22 21:51:05+00:00,no upstream parent,0,False,False,after skeleton
+407,czlonkowski/n8n-mcp,czlonkowski,issue-triage.md,2026-04-27 13:54:10+00:00,"declared, confirmed",0,False,False,after skeleton
+408,github/awesome-copilot,github,cli-for-beginners-sync.md,2026-03-25 22:03:21+00:00,no upstream parent,1,False,False,after skeleton
+409,github/awesome-copilot,github,codeowner-update.md,2026-03-03 23:22:10+00:00,no upstream parent,0,False,False,after skeleton
+50,dotnet/msbuild,dotnet,flaky-test-detector.agent.md,2026-06-02 10:25:29+00:00,no upstream parent,0,False,False,after skeleton
+51,dotnet/msbuild,dotnet,flaky-test-fixer.agent.md,2026-06-05 12:02:21+00:00,no upstream parent,0,False,False,after skeleton
+54,Azure/azure-sdk-for-net,Azure,issue-triage.md,2026-03-10 16:56:29+00:00,undeclared template copy,0,False,False,after skeleton
+362,carlkidcrypto/ezsnmp,carlkidcrypto,coverage_autofix_every_3_days.md,2026-03-21 21:31:27+00:00,no upstream parent,0,False,False,after skeleton
+363,carlkidcrypto/ezsnmp,carlkidcrypto,docs_continuous_improvement_every_3_days.md,2026-03-22 04:23:00+00:00,no upstream parent,0,False,False,after skeleton
+364,carlkidcrypto/ezsnmp,carlkidcrypto,python_version_watcher.md,2026-05-03 22:02:58+00:00,no upstream parent,0,False,False,after skeleton
+371,fedixyz/fedi,fedixyz,daily-e2e-coverage-check.md,2026-06-01 10:33:29+00:00,no upstream parent,0,False,False,after skeleton
+46,microsoft/vstest,microsoft,repository-quality-improver.md,2026-06-19 12:08:15+00:00,undeclared template copy,0,False,False,after skeleton
+526,intent-integrity-chain/kit,intent-integrity-chain,review-anthropic.md,2026-05-22 16:45:51+00:00,no upstream parent,0,False,False,after skeleton
+226,baizhiheizi/quill,baizhiheizi,code-simplifier.md,2026-06-09 21:44:54+00:00,"declared, confirmed",0,False,False,after skeleton
+227,baizhiheizi/quill,baizhiheizi,discussion-task-miner.md,2026-06-14 14:09:42+00:00,"declared, confirmed",0,False,False,after skeleton
+228,baizhiheizi/quill,baizhiheizi,efficiency-improver.md,2026-06-09 21:44:54+00:00,"declared, confirmed",1,False,False,after skeleton
+354,dotnet/java-interop,dotnet,java-interop-reviewer.md,2026-05-06 15:23:44+00:00,no upstream parent,0,False,False,after skeleton
+365,carlkidcrypto/ezsnmp,carlkidcrypto,sync_open_prs_with_main.md,2026-03-22 04:23:00+00:00,no upstream parent,0,False,False,after skeleton
+582,iamnbutler/gpui-unofficial,iamnbutler,ci-fix.md,2026-04-03 01:30:15+00:00,no upstream parent,1,False,False,after skeleton
+583,githubnext/autoloop,githubnext,autoloop.md,2026-04-03 06:23:35+00:00,"declared, unresolvable",1,False,False,after skeleton
+584,UbiHome/UbiHome,UbiHome,pr-documentation-check.md,2026-05-16 23:06:57+00:00,no upstream parent,1,False,False,after skeleton
+585,Azure/git-ape,Azure,daily-repo-status.md,2026-05-06 10:02:56+00:00,"declared, confirmed",0,False,False,after skeleton
+586,Azure/git-ape,Azure,git-ape-workshop-content-updater.md,2026-06-15 05:32:27+00:00,no upstream parent,0,False,False,after skeleton
+359,timrogers/iata-code-decoder-api,timrogers,daily-repo-status.md,2026-05-19 21:15:10+00:00,"declared, confirmed",0,False,False,after skeleton
+215,py-why/dowhy,py-why,repo-assist.md,2026-03-18 16:54:27+00:00,"declared, confirmed",1,False,False,after skeleton
+230,baizhiheizi/quill,baizhiheizi,malicious-code-scan.md,2026-06-09 21:44:54+00:00,"declared, confirmed",0,False,False,after skeleton
+231,baizhiheizi/quill,baizhiheizi,perf-improver.md,2026-05-30 13:46:11+00:00,"declared, confirmed",1,False,False,after skeleton
+527,intent-integrity-chain/kit,intent-integrity-chain,review-openai.md,2026-05-22 16:45:51+00:00,no upstream parent,0,False,False,after skeleton
+413,github/awesome-copilot,github,resource-staleness-report.md,2026-02-18 23:19:17+00:00,no upstream parent,2,True,False,after skeleton
+361,carlkidcrypto/ezsnmp,carlkidcrypto,auto_release_notes.md,2026-03-24 14:21:04+00:00,no upstream parent,0,False,False,after skeleton
+55,Azure/azure-sdk-for-net,Azure,mgmt-review.md,2026-05-27 03:38:03+00:00,no upstream parent,0,False,False,after skeleton
+56,OpenMS/OpenMS,OpenMS,changelog-sync.md,2026-03-16 14:33:14+00:00,no upstream parent,1,False,False,after skeleton
+57,OpenMS/OpenMS,OpenMS,doc-sync.md,2026-03-04 10:15:43+00:00,no upstream parent,1,False,False,after skeleton
+356,dotnet/android,dotnet,nightly-fix-finder.md,2026-05-19 21:27:49+00:00,no upstream parent,0,False,False,after skeleton
+357,dotnet/android-tools,dotnet,android-tools-reviewer.md,2026-04-28 07:44:58+00:00,no upstream parent,0,False,False,after skeleton
+358,erigontech/erigon,erigontech,daily-repo-status.md,2026-02-16 13:57:58+00:00,"declared, confirmed",0,False,False,after skeleton
+420,microsoft/wassette,microsoft,ci-doctor.md,2025-10-09 01:08:25+00:00,no upstream parent,0,False,False,before skeleton
+353,mongodb-js/devtools-shared,mongodb-js,security-quality-agent.md,2026-04-16 15:48:08+00:00,no upstream parent,1,False,False,after skeleton
+520,influxdata/docs-v2,influxdata,weekly-repo-status.md,2026-03-29 19:00:13+00:00,"declared, confirmed",0,False,False,after skeleton
+521,Flare-Animate/Flare,Flare-Animate,agentic-auto-fix.md,2026-03-05 08:24:42+00:00,no upstream parent,0,False,False,after skeleton
+522,vbuch/oboapp,vbuch,ci-failure-fix.md,2026-04-17 16:13:54+00:00,no upstream parent,0,False,False,after skeleton
+523,shanselman/winget-tui,shanselman,repo-assist.md,2026-03-17 06:08:31+00:00,"declared, confirmed",1,False,False,after skeleton
+524,chimon2000/good_first_issue,chimon2000,code-simplifier.md,2026-02-12 17:56:24+00:00,"declared, confirmed",0,False,False,after skeleton
+525,chimon2000/good_first_issue,chimon2000,duplicate-code-detector.md,2026-02-12 18:02:39+00:00,"declared, confirmed",0,False,False,after skeleton
+424,microsoft/wassette,microsoft,release-doctor.md,2025-11-02 23:53:32+00:00,no upstream parent,0,False,False,before skeleton
+355,dotnet/android,dotnet,android-reviewer.md,2026-04-17 19:48:42+00:00,no upstream parent,0,False,False,after skeleton
+58,ReactiveX/RxPY,ReactiveX,repo-assist.md,2026-04-17 15:48:15+00:00,undeclared template copy,1,False,False,after skeleton
+580,dotnet/skills,dotnet,markdown-linter.md,2026-04-23 13:57:45+00:00,undeclared template copy,1,False,False,after skeleton
+581,dotnet/skills,dotnet,pr-malicious-scan.agent.md,2026-06-03 20:01:19+00:00,no upstream parent,0,False,False,after skeleton
+410,github/awesome-copilot,github,duplicate-resource-detector.md,2026-02-19 04:43:54+00:00,no upstream parent,2,True,False,after skeleton
+411,github/awesome-copilot,github,learning-hub-updater.md,2026-03-17 03:18:58+00:00,no upstream parent,0,False,False,after skeleton
+412,github/awesome-copilot,github,pr-duplicate-check.md,2026-03-12 22:42:56+00:00,no upstream parent,2,True,False,after skeleton
+229,baizhiheizi/quill,baizhiheizi,large-file-simplifier.md,2026-06-09 21:44:54+00:00,"declared, confirmed",0,False,False,after skeleton
+233,baizhiheizi/quill,baizhiheizi,repo-assist.md,2026-06-08 01:51:27+00:00,"declared, confirmed",1,False,False,after skeleton
+234,baizhiheizi/quill,baizhiheizi,repository-quality-improver.md,2026-06-09 21:44:54+00:00,"declared, confirmed",0,False,False,after skeleton
+235,baizhiheizi/quill,baizhiheizi,sub-issue-closer.md,2026-06-09 21:44:54+00:00,"declared, confirmed",0,False,False,after skeleton
+236,baizhiheizi/quill,baizhiheizi,test-improver.md,2026-06-01 07:14:08+00:00,"declared, confirmed",1,False,False,after skeleton
+237,baizhiheizi/quill,baizhiheizi,unbloat-docs.md,2026-06-09 21:44:54+00:00,"declared, confirmed",2,False,False,after skeleton
+181,elastic/terraform-provider-elasticstack,elastic,issue-classifier.md,2026-05-14 11:20:15+00:00,no upstream parent,0,False,False,after skeleton
+182,elastic/terraform-provider-elasticstack,elastic,kibana-spec-impact.md,2026-04-17 07:52:22+00:00,no upstream parent,0,False,False,after skeleton
+431,githubnext/agentics,githubnext,import-workflow.md,2026-02-17 04:14:13+00:00,no upstream parent,0,False,False,after skeleton
+418,microsoft/wassette,microsoft,changelog-fragment.md,2025-11-02 18:06:05+00:00,no upstream parent,0,False,False,before skeleton
+419,microsoft/wassette,microsoft,changelog-pr-link.md,2025-10-22 06:07:20+00:00,no upstream parent,0,False,False,before skeleton
+65,Azure/azure-sdk-for-python,Azure,doc-consistency-check.md,2026-04-27 23:39:28+00:00,no upstream parent,0,False,False,after skeleton
+66,taosdata/TDengine,taosdata,issue-triage.md,2026-02-24 10:10:48+00:00,"declared, confirmed",0,False,False,after skeleton
+67,taosdata/TDengine,taosdata,weekly-report.md,2026-03-08 06:59:17+00:00,no upstream parent,0,False,False,after skeleton
+68,openvinotoolkit/openvino,openvinotoolkit,ci-doctor-mq.md,2026-05-19 13:49:39+00:00,"declared, confirmed",0,False,False,after skeleton
+69,openvinotoolkit/openvino,openvinotoolkit,ci-doctor.md,2026-04-20 10:39:52+00:00,"declared, confirmed",0,False,False,after skeleton
+423,microsoft/wassette,microsoft,pr-triage.md,2025-10-22 06:06:27+00:00,undeclared template copy,0,False,False,before skeleton
+183,elastic/terraform-provider-elasticstack,elastic,openspec-verify-label.md,2026-03-25 03:52:09+00:00,no upstream parent,0,False,False,after skeleton
+252,talk2MeGooseman/stream_closed_captioner_phoenix,talk2MeGooseman,daily-test-improver.md,2026-01-19 00:55:04+00:00,"declared, confirmed",0,False,False,after skeleton
+529,PureWeen/PolyPilot,PureWeen,agent-fix.md,2026-04-22 22:02:25+00:00,no upstream parent,0,False,False,after skeleton
+530,PureWeen/PolyPilot,PureWeen,dep-update.md,2026-04-18 21:05:49+00:00,no upstream parent,0,False,False,after skeleton
+238,baizhiheizi/quill,baizhiheizi,weekly-research.md,2026-06-09 21:44:54+00:00,"declared, confirmed",0,False,False,after skeleton
+239,microsoft/security-devops-action,microsoft,ci-doctor.md,2026-03-16 15:21:02+00:00,no upstream parent,1,False,False,after skeleton
+240,microsoft/security-devops-action,microsoft,msdo-breach-monitor.md,2026-03-21 10:10:44+00:00,no upstream parent,1,False,False,after skeleton
+426,kaito-project/aikit,kaito-project,daily-test-improver.md,2025-10-24 21:55:28+00:00,"declared, confirmed",0,False,False,before skeleton
+427,kaito-project/aikit,kaito-project,issue-triage.md,2025-10-24 18:03:50+00:00,"declared, confirmed",0,False,False,before skeleton
+428,Azure/AppConfiguration-KubernetesProvider,Azure,issue-triage.md,2026-03-05 06:35:15+00:00,no upstream parent,1,False,False,after skeleton
+429,githubnext/agentics,githubnext,daily-repo-goals.md,2026-02-13 01:55:08+00:00,no upstream parent,0,False,False,after skeleton
+70,internetarchive/openlibrary,internetarchive,issue_refinement.md,2026-02-28 03:03:53+00:00,no upstream parent,0,False,False,after skeleton
+71,dotnet/runtime,dotnet,breaking-change-doc.md,2026-04-04 00:41:47+00:00,no upstream parent,0,False,False,after skeleton
+72,dotnet/runtime,dotnet,ci-failure-fix.md,2026-06-09 09:37:11+00:00,no upstream parent,0,False,False,after skeleton
+73,dotnet/runtime,dotnet,ci-failure-scan-feedback.md,2026-05-28 10:59:24+00:00,no upstream parent,0,False,False,after skeleton
+241,microsoft/security-devops-action,microsoft,msdo-issue-assistant.md,2026-02-19 06:00:48+00:00,no upstream parent,1,False,False,after skeleton
+232,baizhiheizi/quill,baizhiheizi,pr-fix.md,2026-06-09 22:14:23+00:00,"declared, confirmed",0,False,False,after skeleton
+263,microsoft/vscode-mypy,microsoft,check-python-versions.md,2026-02-17 21:37:12+00:00,no upstream parent,2,True,False,after skeleton
+264,microsoft/vscode-mypy,microsoft,extension-template-sync.md,2026-02-26 00:08:33+00:00,no upstream parent,1,True,False,after skeleton
+265,microsoft/vscode-mypy,microsoft,issue-triage.md,2026-02-25 17:55:18+00:00,no upstream parent,1,True,False,after skeleton
+532,PureWeen/PolyPilot,PureWeen,fix-review-findings.md,2026-04-28 16:58:41+00:00,no upstream parent,0,False,False,after skeleton
+180,elastic/terraform-provider-elasticstack,elastic,flaky-test-catcher.md,2026-05-05 10:47:45+00:00,no upstream parent,0,False,False,after skeleton
+242,Azure/azure-dev,Azure,extension-pr-labeler.md,2026-05-20 17:36:39+00:00,no upstream parent,0,False,False,after skeleton
+282,Azure/LogicAppsUX,Azure,issue-triage-feedback.md,2026-04-01 20:57:27+00:00,no upstream parent,0,False,False,after skeleton
+283,microsoft/typespec,microsoft,bump-tcgc-csharp.md,2026-04-27 20:50:06+00:00,no upstream parent,0,False,False,after skeleton
+534,PureWeen/PolyPilot,PureWeen,instruction-drift.agent.md,2026-04-21 18:54:21+00:00,no upstream parent,0,False,False,after skeleton
+536,PureWeen/PolyPilot,PureWeen,review-retro.agent.md,2026-04-22 03:16:04+00:00,no upstream parent,0,False,False,after skeleton
+537,jurre/huebar,jurre,code-review.md,2026-02-15 20:51:58+00:00,no upstream parent,0,False,False,after skeleton
+179,elastic/terraform-provider-elasticstack,elastic,duplicate-code-detector.md,2026-04-23 04:06:45+00:00,undeclared template copy,0,False,False,after skeleton
+434,microsoft/mcp,microsoft,doc-gap-detector.md,2026-05-06 21:16:07+00:00,no upstream parent,0,False,False,after skeleton
+350,opsmill/infrahub,opsmill,bug-agent-test.md,2026-04-24 06:38:07+00:00,no upstream parent,0,False,False,after skeleton
+421,microsoft/wassette,microsoft,issue-triage.md,2025-10-03 20:05:08+00:00,undeclared template copy,0,False,False,before skeleton
+422,microsoft/wassette,microsoft,plan.md,2025-11-12 06:26:09+00:00,no upstream parent,0,False,False,before skeleton
+74,dotnet/runtime,dotnet,ci-failure-scan.md,2026-05-06 16:36:33+00:00,no upstream parent,0,False,False,after skeleton
+75,dotnet/runtime,dotnet,code-review.md,2026-03-25 01:40:14+00:00,no upstream parent,0,False,False,after skeleton
+76,dotnet/runtime,dotnet,copilot-echo.md,2026-03-25 00:53:09+00:00,no upstream parent,1,False,False,after skeleton
+77,dgreif/ring,dgreif,issue-triage.md,2026-06-06 11:44:57+00:00,no upstream parent,0,False,False,after skeleton
+348,opsmill/infrahub,opsmill,bug-agent-fix.md,2026-04-24 06:38:07+00:00,no upstream parent,0,False,False,after skeleton
+425,microsoft/wassette,microsoft,scout.md,2025-10-08 21:59:28+00:00,no upstream parent,0,False,False,before skeleton
+543,zircote/rlm-rs,zircote,issue-triage.md,2026-02-17 02:34:33+00:00,"declared, confirmed",0,False,False,after skeleton
+544,brunoborges/jairosvg,brunoborges,effort-labeler.md,2026-03-05 04:02:37+00:00,no upstream parent,0,True,False,after skeleton
+178,elastic/terraform-provider-elasticstack,elastic,code-factory-issue.md,2026-04-23 23:36:05+00:00,no upstream parent,0,False,False,after skeleton
+86,PowerShell/vscode-powershell,PowerShell,issue-comment-handler.md,2026-06-18 17:23:52+00:00,"declared, unresolvable",0,False,False,after skeleton
+349,opsmill/infrahub,opsmill,bug-agent-review.md,2026-04-24 06:38:07+00:00,no upstream parent,0,False,False,after skeleton
+430,githubnext/agentics,githubnext,daily-workflow-sync.md,2025-12-09 17:48:57+00:00,no upstream parent,0,False,False,before skeleton
+80,microsoft/pxt-arcade,microsoft,documentation.md,2025-12-10 19:16:53+00:00,no upstream parent,1,False,False,before skeleton
+578,dotnet/skills,dotnet,issue-investigate.md,2026-05-06 13:39:20+00:00,no upstream parent,0,False,False,after skeleton
+579,dotnet/skills,dotnet,issue-triage.md,2026-05-06 13:39:20+00:00,no upstream parent,0,False,False,after skeleton
+81,microsoft/pxt-arcade,microsoft,triage.md,2025-12-03 17:56:51+00:00,no upstream parent,1,False,False,before skeleton
+432,githubnext/agentics,githubnext,link-checker.md,2026-02-17 04:18:47+00:00,no upstream parent,0,False,False,after skeleton
+433,githubnext/agentics,githubnext,maintainer.md,2025-10-22 18:14:56+00:00,undeclared template copy,0,False,False,before skeleton
+243,Azure/azure-dev,Azure,update-instructions-from-pr-reviews.md,2026-06-17 20:00:51+00:00,no upstream parent,0,False,False,after skeleton
+275,sytone/obsidian-queryallthethings,sytone,code-simplifier.md,2026-02-27 00:23:49+00:00,"declared, confirmed",0,False,False,after skeleton
+280,Azure/LogicAppsUX,Azure,daily-repo-status.md,2026-02-24 15:56:19+00:00,"declared, confirmed",0,False,False,after skeleton
+281,Azure/LogicAppsUX,Azure,issue-triage-agent.md,2026-04-01 20:57:27+00:00,no upstream parent,0,False,False,after skeleton
+345,fable-compiler/Fable.Python,fable-compiler,repo-assist.md,2026-04-16 01:12:27+00:00,undeclared template copy,1,False,False,after skeleton
+435,MiguelElGallo/mpzsql,MiguelElGallo,code-simplifier.md,2026-03-15 09:18:28+00:00,"declared, confirmed",0,False,False,after skeleton
+436,fideus-labs/ngff-zarr,fideus-labs,daily-doc-updater.md,2026-03-02 20:05:42+00:00,"declared, confirmed",1,False,False,after skeleton
+347,opsmill/infrahub,opsmill,bug-agent-analyst.md,2026-04-24 06:38:07+00:00,no upstream parent,0,False,False,after skeleton
+82,Alfresco/alfresco-ng2-components,Alfresco,supply-chain-review.md,2026-05-29 13:55:51+00:00,"declared, confirmed",0,False,False,after skeleton
+83,storybookjs/storybook,storybookjs,code-simplifier.md,2026-03-07 19:25:50+00:00,"declared, confirmed",0,False,False,after skeleton
+84,storybookjs/storybook,storybookjs,duplicate-code-detector.md,2026-03-07 19:57:09+00:00,"declared, confirmed",0,False,False,after skeleton
+85,microsoft/pxt,microsoft,documentation.md,2025-12-10 19:41:01+00:00,no upstream parent,2,False,False,before skeleton
+253,talk2MeGooseman/stream_closed_captioner_phoenix,talk2MeGooseman,repository-quality-improver.md,2026-04-12 03:11:17+00:00,"declared, confirmed",0,False,False,after skeleton
+260,microsoft/pylance-release,microsoft,issue-assignment.md,2026-02-13 21:49:25+00:00,no upstream parent,1,False,False,after skeleton
+284,microsoft/typespec,microsoft,issue-triage.md,2026-04-20 14:04:24+00:00,"declared, body diverged from declared template",0,False,False,after skeleton
+285,Keboo/DotnetTemplates,Keboo,update-dependencies.md,2026-04-07 05:52:29+00:00,no upstream parent,0,False,False,after skeleton
+286,home-assistant/core,home-assistant,check-requirements.md,2026-05-18 14:59:49+00:00,no upstream parent,0,False,False,after skeleton
+540,zircote/rlm-rs,zircote,ci-doctor.md,2026-02-17 02:34:49+00:00,"declared, confirmed",0,False,False,after skeleton
+541,zircote/rlm-rs,zircote,daily-qa.md,2026-02-17 03:05:52+00:00,"declared, confirmed",0,False,False,after skeleton
+542,zircote/rlm-rs,zircote,docs-freshness.md,2026-02-26 21:36:38+00:00,no upstream parent,0,False,False,after skeleton
+88,PowerShell/vscode-powershell,PowerShell,stale-closer.md,2026-06-18 17:23:52+00:00,"declared, unresolvable",0,False,False,after skeleton
+89,Azure/azure-sdk-for-js,Azure,agent-observability.md,2026-06-15 18:51:55+00:00,no upstream parent,0,False,False,after skeleton
+90,Azure/azure-sdk-for-js,Azure,archie.md,2026-03-24 21:46:48+00:00,no upstream parent,0,False,False,after skeleton
+91,Azure/azure-sdk-for-js,Azure,dash.md,2026-03-24 18:51:23+00:00,no upstream parent,0,False,False,after skeleton
+440,tosin2013/mcp-adr-analysis-server,tosin2013,ci-doctor.md,2026-02-16 16:07:01+00:00,no upstream parent,0,False,False,after skeleton
+441,tosin2013/mcp-adr-analysis-server,tosin2013,dependabot-bundler.md,2026-02-16 16:07:01+00:00,no upstream parent,0,False,False,after skeleton
+442,tosin2013/mcp-adr-analysis-server,tosin2013,deployment-pattern-validation.md,2026-02-16 16:07:01+00:00,no upstream parent,0,False,False,after skeleton
+266,Alfresco/alfresco-build-tools,Alfresco,supply-chain-review.md,2026-05-28 13:55:52+00:00,undeclared template copy,0,False,False,after skeleton
+498,github/copilot-sdk,github,issue-triage.md,2026-01-14 22:01:55+00:00,no upstream parent,2,True,False,after skeleton
+177,elastic/terraform-provider-elasticstack,elastic,ci-deadcode-removal-rotation.md,2026-05-16 11:58:01+00:00,no upstream parent,0,False,False,after skeleton
+538,jurre/huebar,jurre,release-notes.md,2026-02-15 20:51:58+00:00,no upstream parent,0,False,False,after skeleton
+539,popey/sbom-vm,popey,repo-assist.md,2026-06-02 16:18:52+00:00,"declared, confirmed",1,False,False,after skeleton
+287,unipept/unipept,unipept,dependency-update.md,2026-06-01 12:38:37+00:00,no upstream parent,0,False,False,after skeleton
+292,jonathanpeppers/dotnes,jonathanpeppers,dotnes-reviewer.md,2026-05-01 22:07:10+00:00,no upstream parent,0,False,False,after skeleton
+293,dotnet/maintenance-packages,dotnet,version-maintenance.md,2026-03-09 16:47:44+00:00,no upstream parent,0,False,False,after skeleton
+294,microsoft/aspire,microsoft,daily-repo-status.md,2026-02-17 17:52:26+00:00,"declared, confirmed",0,False,False,after skeleton
+163,apolloconfig/apollo,apolloconfig,issue-triage.md,2026-02-10 13:59:22+00:00,no upstream parent,0,False,False,after skeleton
+164,evcc-io/evcc,evcc-io,triage-agent.md,2026-01-23 16:52:01+00:00,"declared, body diverged from declared template",0,False,False,after skeleton
+169,adoptium/containers,adoptium,dockerfile-readiness.md,2026-04-24 09:28:42+00:00,no upstream parent,0,False,False,after skeleton
+176,elastic/terraform-provider-elasticstack,elastic,change-factory-issue.md,2026-04-26 04:13:36+00:00,no upstream parent,0,False,False,after skeleton
+493,github/copilot-sdk,github,handle-bug.md,2026-04-02 17:49:33+00:00,no upstream parent,1,True,False,after skeleton
+494,github/copilot-sdk,github,handle-documentation.md,2026-04-02 17:49:33+00:00,no upstream parent,1,True,False,after skeleton
+343,fslaborg/FSharp.Stats,fslaborg,repo-assist.md,2026-03-22 23:31:44+00:00,"declared, confirmed",1,False,False,after skeleton
+346,fsprojects/FSharp.Control.TaskSeq,fsprojects,repo-assist.md,2026-03-07 19:08:31+00:00,"declared, confirmed",1,False,False,after skeleton
+577,dotnet/skills,dotnet,devops-health-investigate.md,2026-03-02 20:59:28+00:00,no upstream parent,1,False,False,after skeleton
+92,Azure/azure-sdk-for-js,Azure,dexter.md,2026-03-24 19:42:57+00:00,no upstream parent,0,False,False,after skeleton
+437,fideus-labs/ngff-zarr,fideus-labs,daily-repo-status.md,2026-02-17 21:05:33+00:00,"declared, confirmed",0,False,False,after skeleton
+438,tosin2013/mcp-adr-analysis-server,tosin2013,ai-executor-integration.md,2026-02-16 16:07:01+00:00,no upstream parent,0,False,False,after skeleton
+439,tosin2013/mcp-adr-analysis-server,tosin2013,ai-release-notes-agent.md,2026-02-16 16:07:01+00:00,no upstream parent,0,False,False,after skeleton
+444,tosin2013/mcp-adr-analysis-server,tosin2013,docs-site-validator.md,2026-02-16 16:24:31+00:00,no upstream parent,0,False,False,after skeleton
+445,tosin2013/mcp-adr-analysis-server,tosin2013,esm-module-validation.md,2026-02-16 16:07:01+00:00,no upstream parent,0,False,False,after skeleton
+87,PowerShell/vscode-powershell,PowerShell,issue-triage.md,2026-02-23 22:08:47+00:00,"declared, confirmed",0,False,False,after skeleton
+545,microsoft/agentrc,microsoft,ci-doctor.md,2026-02-27 23:58:53+00:00,undeclared template copy,0,False,False,after skeleton
+546,microsoft/agentrc,microsoft,code-simplifier.md,2026-02-27 23:58:53+00:00,undeclared template copy,0,False,False,after skeleton
+547,microsoft/agentrc,microsoft,daily-doc-updater.md,2026-02-27 23:58:53+00:00,undeclared template copy,1,False,False,after skeleton
+548,asizikov-demos/copilot-user-level-statistics-viewer,asizikov-demos,code-duplication-scan.md,2026-05-02 13:30:10+00:00,no upstream parent,0,False,False,after skeleton
+161,microsoft/gctoolkit,microsoft,relevance-check.md,2026-02-26 14:16:58+00:00,no upstream parent,0,False,False,after skeleton
+295,microsoft/aspire,microsoft,extension-changelog.md,2026-05-30 18:48:11+00:00,no upstream parent,0,False,False,after skeleton
+455,kubestellar/docs,kubestellar,technical-doc-writer.md,2025-12-16 19:44:32+00:00,no upstream parent,0,False,False,before skeleton
+446,tosin2013/mcp-adr-analysis-server,tosin2013,knowledge-graph-validation.md,2026-02-16 16:07:01+00:00,no upstream parent,0,False,False,after skeleton
+447,tosin2013/mcp-adr-analysis-server,tosin2013,mcp-server-validation.md,2026-02-16 16:07:01+00:00,no upstream parent,0,False,False,after skeleton
+344,fsprojects/FSharp.Control.AsyncSeq,fsprojects,repo-assist.md,2026-02-21 13:56:20+00:00,"declared, confirmed",1,False,False,after skeleton
+576,dotnet/skills,dotnet,devops-health-groom.md,2026-03-05 09:23:47+00:00,no upstream parent,1,False,False,after skeleton
+93,Azure/azure-sdk-for-js,Azure,docs-consistency-check.md,2026-02-25 21:55:38+00:00,no upstream parent,0,False,False,after skeleton
+574,dotnet/skills,dotnet,close-stale-prs.agent.md,2026-03-25 12:00:10+00:00,no upstream parent,0,False,False,after skeleton
+342,fsprojects/FSharp.Data.SqlClient,fsprojects,repo-assist.md,2026-03-07 20:37:14+00:00,"declared, confirmed",1,False,False,after skeleton
+297,microsoft/aspire,microsoft,pr-docs-check.md,2026-04-07 02:38:38+00:00,no upstream parent,0,False,False,after skeleton
+162,microsoft/gctoolkit,microsoft,relevance-summary.md,2026-02-26 18:10:59+00:00,no upstream parent,0,False,False,after skeleton
+157,Azure/azure-sdk-for-go,Azure,issue-triage.md,2026-04-21 00:08:02+00:00,no upstream parent,0,False,False,after skeleton
+158,Azure/azure-sdk-for-go,Azure,mgmt-review.md,2026-04-20 21:02:57+00:00,no upstream parent,0,False,False,after skeleton
+159,SatelliteQE/broker,SatelliteQE,wiki-sync.md,2026-04-17 20:58:13+00:00,no upstream parent,0,False,False,after skeleton
+160,sergey-tihon/Clippit,sergey-tihon,clippy.md,2026-03-11 19:06:15+00:00,"declared, confirmed",1,False,False,after skeleton
+298,microsoft/aspire,microsoft,release-notes-generate.md,2026-05-15 02:16:04+00:00,no upstream parent,0,False,False,after skeleton
+340,fsprojects/SwaggerProvider,fsprojects,repo-assist.md,2026-03-08 22:25:12+00:00,"declared, confirmed",1,False,False,after skeleton
+443,tosin2013/mcp-adr-analysis-server,tosin2013,docs-noob-tester.md,2026-02-16 16:07:01+00:00,no upstream parent,0,False,False,after skeleton
+575,dotnet/skills,dotnet,devops-health-check.md,2026-03-02 20:59:28+00:00,no upstream parent,1,False,False,after skeleton
+94,Azure/azure-sdk-for-js,Azure,fix-test-failures.md,2026-03-04 20:28:46+00:00,no upstream parent,0,False,False,after skeleton
+448,tosin2013/mcp-adr-analysis-server,tosin2013,mcp-tool-checker.md,2026-02-16 16:07:01+00:00,no upstream parent,0,False,False,after skeleton
+451,kubestellar/docs,kubestellar,daily-team-status.md,2025-12-03 19:22:35+00:00,"declared, confirmed",0,False,False,before skeleton
+452,kubestellar/docs,kubestellar,devstats.md,2025-12-16 19:44:32+00:00,"declared, confirmed",0,False,False,before skeleton
+453,kubestellar/docs,kubestellar,link-checker.md,2026-03-10 01:54:58+00:00,no upstream parent,0,False,False,after skeleton
+454,kubestellar/docs,kubestellar,maintainer-metrics.md,2025-12-10 01:16:31+00:00,no upstream parent,1,False,False,before skeleton
+497,github/copilot-sdk,github,issue-classification.md,2026-04-02 17:49:33+00:00,no upstream parent,1,True,False,after skeleton
+489,meteostat/meteostat,meteostat,issue-triage-agent.md,2026-02-13 15:48:25+00:00,"declared, confirmed",0,False,False,after skeleton
+155,elastic/elasticsearch-specification,elastic,kibana-type-check-analysis.md,2026-05-22 18:30:50+00:00,no upstream parent,0,False,False,after skeleton
+300,microsoft/aspire,microsoft,repo-pulse.md,2026-04-23 22:34:09+00:00,no upstream parent,0,False,False,after skeleton
+301,stride3d/stride-community-toolkit,stride3d,daily-activity-report.md,2026-02-16 08:42:00+00:00,no upstream parent,3,True,True,after skeleton
+302,clash-verge-rev/clash-verge-rev,clash-verge-rev,pr-ai-slop-review.md,2026-03-17 18:07:27+00:00,no upstream parent,0,False,False,after skeleton
+305,openvinotoolkit/openvino.genai,openvinotoolkit,ci-doctor.md,2026-02-25 14:55:17+00:00,"declared, confirmed",0,False,False,after skeleton
+466,cncf/contribute-site,cncf,link-checker.md,2026-03-12 21:23:41+00:00,no upstream parent,0,False,False,after skeleton
+341,fsprojects/FSharpx.Collections,fsprojects,repo-assist.md,2026-03-08 17:16:35+00:00,"declared, confirmed",1,False,False,after skeleton
+95,Azure/azure-sdk-for-js,Azure,issue-triage.md,2026-04-16 16:52:30+00:00,no upstream parent,0,False,False,after skeleton
+96,Azure/azure-sdk-for-js,Azure,mgmt-guidance.md,2026-06-18 09:11:37+00:00,no upstream parent,0,False,False,after skeleton
+97,Azure/azure-sdk-for-js,Azure,mgmt-review.md,2026-03-17 17:07:02+00:00,no upstream parent,0,False,False,after skeleton
+457,drehelis/gcp-emulator-ui,drehelis,check-emulator-updates.md,2026-02-20 13:17:53+00:00,no upstream parent,2,True,False,after skeleton
+460,YousefHadder/markdown-plus.nvim,YousefHadder,code-simplifier.md,2026-03-07 05:54:54+00:00,"declared, confirmed",0,False,False,after skeleton
+296,microsoft/aspire,microsoft,milestone-changelog.md,2026-04-23 13:38:35+00:00,no upstream parent,0,False,False,after skeleton
+491,BMayhew/awesome-sites-to-test-on,BMayhew,issue-site-submission.md,2026-03-02 06:17:29+00:00,no upstream parent,3,True,True,after skeleton
+492,github/copilot-sdk,github,cross-repo-issue-analysis.md,2026-03-05 00:34:33+00:00,no upstream parent,2,False,False,after skeleton
+156,elastic/elasticsearch-specification,elastic,spec-drift.md,2026-05-21 08:32:38+00:00,no upstream parent,0,False,False,after skeleton
+151,RustPython/RustPython,RustPython,upgrade-pylib.md,2026-02-14 02:26:03+00:00,no upstream parent,0,False,False,after skeleton
+308,GuyKh/iec-custom-component,GuyKh,issue-duplicate-finder.md,2026-02-15 16:01:23+00:00,no upstream parent,1,False,False,after skeleton
+309,CliMA/ClimaAtmos.jl,CliMA,pr-review.md,2026-05-18 19:44:29+00:00,no upstream parent,1,False,False,after skeleton
+310,KunalSin9h/meltcd,KunalSin9h,daily-repo-status.md,2026-02-26 18:19:47+00:00,"declared, confirmed",0,False,False,after skeleton
+336,fsprojects/FsHttp,fsprojects,repo-assist.md,2026-03-09 12:42:22+00:00,"declared, confirmed",1,False,False,after skeleton
+337,ionide/FsAutoComplete,ionide,repo-assist.md,2026-02-22 17:12:14+00:00,"declared, confirmed",1,False,False,after skeleton
+456,kubestellar/docs,kubestellar,typo-checker.md,2026-03-10 01:54:58+00:00,no upstream parent,0,False,False,after skeleton
+570,dotnet/maui-labs,dotnet,ai-docs-audit.md,2026-03-29 18:47:12+00:00,no upstream parent,0,False,False,after skeleton
+571,dotnet/maui-labs,dotnet,pr-docs-check.md,2026-04-16 09:15:21+00:00,no upstream parent,0,False,False,after skeleton
+462,YousefHadder/markdown-plus.nvim,YousefHadder,contributor-recognition.md,2026-05-03 20:54:29+00:00,no upstream parent,0,False,False,after skeleton
+463,YousefHadder/markdown-plus.nvim,YousefHadder,daily-doc-updater.md,2026-03-07 01:29:08+00:00,"declared, confirmed",1,False,False,after skeleton
+464,YousefHadder/markdown-plus.nvim,YousefHadder,daily-file-diet.md,2026-03-07 07:29:59+00:00,"declared, confirmed",0,False,False,after skeleton
+339,fsprojects/FSharp.TypeProviders.SDK,fsprojects,repo-assist.md,2026-02-24 21:32:42+00:00,"declared, confirmed",1,False,False,after skeleton
+465,YousefHadder/markdown-plus.nvim,YousefHadder,wiki-updater.md,2026-06-04 14:56:27+00:00,no upstream parent,0,False,False,after skeleton
+299,microsoft/aspire,microsoft,release-update-support-mdx.md,2026-05-07 20:05:39+00:00,no upstream parent,0,False,False,after skeleton
+152,wp-media/wp-rocket,wp-media,pr-release-doc-generator.md,2026-02-20 17:25:33+00:00,no upstream parent,0,True,False,after skeleton
+477,Kong/kongctl,Kong,code-simplifier.md,2026-02-16 00:57:34+00:00,"declared, confirmed",0,False,False,after skeleton
+338,MoiraeSoftware/Myriad,MoiraeSoftware,q.md,2026-02-25 15:56:57+00:00,"declared, confirmed",0,False,False,after skeleton
+461,YousefHadder/markdown-plus.nvim,YousefHadder,config-sync-checker.md,2026-03-07 06:42:44+00:00,no upstream parent,0,False,False,after skeleton
+567,github/gh-aw-actions,github,daily-runtime-threat-scan.md,2026-05-13 01:23:54+00:00,no upstream parent,0,False,False,after skeleton
+568,microsoft/physical-ai-toolchain,microsoft,aw-dependabot-pr-review.md,2026-04-20 16:15:27+00:00,no upstream parent,0,False,False,after skeleton
+569,webmaxru/web-ai-agent-skills,webmaxru,skill-update-worker.md,2026-03-15 18:31:31+00:00,no upstream parent,0,False,False,after skeleton
+98,Azure/azure-sdk-for-js,Azure,scribe.md,2026-03-24 18:58:58+00:00,no upstream parent,0,False,False,after skeleton
+470,microsoft/apm,microsoft,daily-doc-updater.md,2026-02-24 23:14:51+00:00,"declared, confirmed",1,False,False,after skeleton
+471,microsoft/apm,microsoft,docs-sync.md,2026-05-11 19:39:48+00:00,no upstream parent,0,False,False,after skeleton
+472,microsoft/apm,microsoft,pr-review-panel.md,2026-04-21 23:31:50+00:00,no upstream parent,0,False,False,after skeleton
+490,navikt/copilot,navikt,news-excerpts.md,2026-03-09 07:45:02+00:00,no upstream parent,0,False,False,after skeleton
+316,rancher/dashboard,rancher,daily-test-improver.md,2026-04-08 08:28:54+00:00,undeclared template copy,0,False,False,after skeleton
+125,licensee/licensee,licensee,repo-assist.md,2026-03-02 03:15:28+00:00,"declared, confirmed",1,False,False,after skeleton
+142,pulumi/pulumi-terraform-bridge,pulumi,terraform-bridge-pr-rereview.md,2026-03-06 18:53:20+00:00,"declared, confirmed",0,False,False,after skeleton
+143,pulumi/pulumi-terraform-bridge,pulumi,terraform-bridge-pr-review.md,2026-03-06 18:53:20+00:00,"declared, confirmed",0,False,False,after skeleton
+150,royshil/obs-backgroundremoval,royshil,validate-pr.md,2026-03-30 22:54:20+00:00,no upstream parent,0,False,False,after skeleton
+334,fsprojects/fantomas,fsprojects,repo-assist.md,2026-02-23 13:53:02+00:00,"declared, confirmed",1,False,False,after skeleton
+99,Azure/azure-sdk-for-js,Azure,sentinel.md,2026-03-24 18:57:04+00:00,no upstream parent,0,False,False,after skeleton
+100,Azure/azure-sdk-for-js,Azure,tester.md,2026-03-24 19:34:07+00:00,no upstream parent,0,False,False,after skeleton
+473,microsoft/apm,microsoft,triage-panel.md,2026-04-26 15:30:42+00:00,no upstream parent,0,False,False,after skeleton
+467,cncf/contribute-site,cncf,link-fixer.md,2026-03-16 19:23:45+00:00,no upstream parent,0,False,False,after skeleton
+468,kaito-tokyo/live-backgroundremoval-lite,kaito-tokyo,validate-pr.md,2026-04-13 21:07:16+00:00,no upstream parent,0,False,False,after skeleton
+469,microsoft/apm,microsoft,cli-consistency-checker.md,2026-02-24 23:14:51+00:00,no upstream parent,0,False,False,after skeleton
+313,rancher/dashboard,rancher,daily-accessibility-review.md,2026-04-08 08:28:54+00:00,undeclared template copy,0,False,False,after skeleton
+318,rancher/dashboard,rancher,issue-triage.md,2026-04-08 08:28:54+00:00,undeclared template copy,0,False,False,after skeleton
+319,rancher/dashboard,rancher,pr-fix.md,2026-04-08 08:28:54+00:00,undeclared template copy,0,False,False,after skeleton
+116,lablup/backend.ai-webui,lablup,e2e-healer.md,2026-02-09 15:12:35+00:00,no upstream parent,0,False,False,after skeleton
+117,lablup/backend.ai-webui,lablup,e2e-watchdog.md,2026-02-09 15:14:22+00:00,no upstream parent,0,False,False,after skeleton
+118,lablup/backend.ai-webui,lablup,storybook-coverage-checker.md,2026-02-04 07:07:34+00:00,no upstream parent,1,False,False,after skeleton
+119,lablup/backend.ai-webui,lablup,weekly-team-status.md,2025-12-08 08:40:32+00:00,"declared, unresolvable",0,False,False,before skeleton
+120,Josverl/micropython-stubs,Josverl,quality-issue-triage.md,2026-05-09 19:36:19+00:00,no upstream parent,0,False,False,after skeleton
+314,rancher/dashboard,rancher,daily-issue-grooming.md,2026-03-05 23:10:30+00:00,no upstream parent,0,False,False,after skeleton
+321,microsoft/finnts,microsoft,repo-improver.md,2026-04-29 21:00:24+00:00,no upstream parent,0,False,False,after skeleton
+335,fsprojects/FSharp.Formatting,fsprojects,repo-assist.md,2026-02-21 23:57:10+00:00,"declared, confirmed",1,False,False,after skeleton
+561,FalkorDB/falkordb-rs-next-gen,FalkorDB,flow-migration-rca.md,2026-06-04 15:31:29+00:00,no upstream parent,0,False,False,after skeleton
+562,FalkorDB/falkordb-rs-next-gen,FalkorDB,flow-tests-migration.md,2026-06-01 17:21:42+00:00,no upstream parent,0,False,False,after skeleton
+563,DevExpGbb/gh-devlake,DevExpGbb,docs-sync.md,2026-03-11 22:30:31+00:00,no upstream parent,2,False,False,after skeleton
+564,dorlugasigal/TermBeam,dorlugasigal,scorecard-monitor.md,2026-03-27 09:13:19+00:00,no upstream parent,0,False,False,after skeleton
+565,inference-sh/shadcn-registry,inference-sh,code-review.md,2026-05-19 08:11:17+00:00,no upstream parent,0,False,False,after skeleton
+566,microsoft/Microsoft-AI-Decision-Framework,microsoft,link-checker.md,2026-02-27 21:40:24+00:00,no upstream parent,0,False,False,after skeleton
+315,rancher/dashboard,rancher,daily-repo-status.md,2026-04-08 08:28:54+00:00,undeclared template copy,0,False,False,after skeleton
+323,dotnet/fsharp,dotnet,agentic-state-machine.md,2026-05-12 09:03:57+00:00,no upstream parent,0,False,False,after skeleton
+324,dotnet/fsharp,dotnet,aw-auto-update.md,2026-03-31 09:39:35+00:00,no upstream parent,0,False,False,after skeleton
+549,asizikov-demos/copilot-user-level-statistics-viewer,asizikov-demos,dependency-audit.md,2026-02-21 12:56:04+00:00,no upstream parent,0,False,False,after skeleton
+550,SonarSource/sonarqube-cli,SonarSource,ci-failure-triage-agent.md,2026-05-27 17:47:51+00:00,no upstream parent,0,False,False,after skeleton
+551,henrybravo/docker-sandbox-run-copilot,henrybravo,check-copilot-version.md,2026-03-12 14:04:34+00:00,no upstream parent,0,False,False,after skeleton
+552,elastic/elastic-docs-skills,elastic,skill-eval-test.md,2026-03-05 10:09:04+00:00,no upstream parent,0,False,False,after skeleton
+553,elastic/elastic-docs-skills,elastic,skill-freshness.md,2026-02-23 13:56:00+00:00,no upstream parent,0,False,False,after skeleton
+475,pikax/verter,pikax,update-docs.md,2026-02-15 11:52:17+00:00,"declared, confirmed",0,False,False,after skeleton
+476,Kong/kongctl,Kong,benchmark-regression-analysis.md,2026-05-03 15:49:39+00:00,no upstream parent,0,False,False,after skeleton
+101,Azure/azure-sdk-for-js,Azure,upgrade-agentic-workflows.md,2026-06-09 16:48:01+00:00,no upstream parent,0,False,False,after skeleton
+102,WordPress/grunt-patch-wordpress,WordPress,dependabot-pr-review.md,2026-05-28 03:56:57+00:00,no upstream parent,0,False,False,after skeleton
+103,ptarmiganlabs/butler-sos,ptarmiganlabs,duplicate-code-detector.md,2026-03-02 06:24:24+00:00,"declared, confirmed",0,False,False,after skeleton
+478,Kong/kongctl,Kong,e2e-coverage-scanner.md,2026-03-15 17:28:12+00:00,no upstream parent,0,False,False,after skeleton
+479,Kong/kongctl,Kong,kongctl-feature-user-agent.md,2026-05-16 15:25:04+00:00,no upstream parent,0,False,False,after skeleton
+317,rancher/dashboard,rancher,duplicate-code-detector.md,2026-04-08 08:28:54+00:00,undeclared template copy,0,False,False,after skeleton
+487,hemanth/mcp-web-client,hemanth,daily-repo-status.md,2026-02-14 15:14:43+00:00,"declared, confirmed",0,False,False,after skeleton
+488,meteostat/meteostat,meteostat,bug-reproducer.md,2026-02-14 18:09:57+00:00,no upstream parent,2,True,False,after skeleton
+325,dotnet/fsharp,dotnet,labelops-flake-fix.md,2026-05-06 09:42:54+00:00,no upstream parent,0,False,False,after skeleton
+112,elastic/kibana,elastic,reviewer-claude.md,2026-04-28 21:00:30+00:00,no upstream parent,0,False,False,after skeleton
+113,elastic/kibana,elastic,reviewer-codex.md,2026-05-05 23:21:51+00:00,no upstream parent,0,False,False,after skeleton
+114,elastic/kibana,elastic,reviewer-scout.md,2026-06-19 13:38:01+00:00,no upstream parent,0,False,False,after skeleton
+115,lablup/backend.ai-webui,lablup,daily-test-improver.md,2025-11-25 09:26:02+00:00,"declared, confirmed",0,False,False,before skeleton
+320,rancher/dashboard,rancher,weekly-stale-issue-manager.md,2026-06-07 01:41:30+00:00,no upstream parent,1,False,False,after skeleton
+110,elastic/kibana,elastic,failed-test-investigator.md,2026-05-05 13:21:28+00:00,no upstream parent,0,False,False,after skeleton
+111,elastic/kibana,elastic,flaky-test-fixer.md,2026-06-10 06:32:14+00:00,no upstream parent,0,False,False,after skeleton
+483,Kong/kongctl,Kong,weekly-repo-status.md,2026-02-13 22:15:45+00:00,"declared, confirmed",0,False,False,after skeleton
+484,shanselman/WindowsEdgeLight,shanselman,repo-assist.md,2026-04-14 02:26:42+00:00,"declared, confirmed",1,False,False,after skeleton
+485,chrisreddington/trend-radar,chrisreddington,repo-assist.md,2026-03-20 07:43:20+00:00,"declared, confirmed",1,False,False,after skeleton
+326,dotnet/fsharp,dotnet,labelops-pr-maintenance.md,2026-05-06 09:42:54+00:00,no upstream parent,0,False,False,after skeleton
+481,Kong/kongctl,Kong,release.md,2026-02-24 20:57:39+00:00,no upstream parent,0,False,False,after skeleton
+104,ptarmiganlabs/butler-sos,ptarmiganlabs,grumpy-reviewer.md,2026-05-23 06:05:57+00:00,"declared, confirmed",1,False,False,after skeleton
+105,IgniteUI/igniteui-docfx,IgniteUI,sync-jp-docs.md,2026-03-12 12:56:07+00:00,no upstream parent,0,False,False,after skeleton
+106,appwrite/appwrite,appwrite,issue-triage.md,2025-10-28 03:00:30+00:00,"declared, confirmed",0,False,False,before skeleton
+107,microsoft/Web-Dev-For-Beginners,microsoft,daily-repo-status.md,2026-02-06 15:34:39+00:00,"declared, confirmed",0,False,False,after skeleton
+108,elastic/kibana,elastic,backlog-groom.md,2026-05-19 17:08:05+00:00,no upstream parent,0,False,False,after skeleton
+332,fslaborg/Deedle,fslaborg,repo-assist.md,2026-03-08 21:59:09+00:00,"declared, confirmed",1,False,False,after skeleton
+333,ionide/ionide-vscode-fsharp,ionide,repo-assist.md,2026-02-22 17:47:10+00:00,"declared, confirmed",1,False,False,after skeleton
+330,dotnet/fsharp,dotnet,repo-assist.md,2026-03-16 13:32:21+00:00,"declared, confirmed",1,False,False,after skeleton
+474,informedica/GenPRES,informedica,repo-assist.md,2026-02-26 08:01:57+00:00,"declared, confirmed",1,False,False,after skeleton
+5,Activiti/activiti-cloud,Activiti,supply-chain-review.md,2026-05-29 14:47:20+00:00,"declared, confirmed",0,False,False,after skeleton
+601,drasi-project/drasi-server,drasi-project,pr-prior-art-reviewer.md,2026-06-05 16:40:00+00:00,no upstream parent,0,False,False,after skeleton
+486,mcpc-tech/dev-inspector-mcp,mcpc-tech,daily-repo-status.md,2026-02-12 03:31:21+00:00,"declared, confirmed",0,False,False,after skeleton
+331,fable-compiler/Fable,fable-compiler,repo-assist.md,2026-03-14 21:22:52+00:00,"declared, confirmed",1,False,False,after skeleton
+554,elastic/elastic-docs-skills,elastic,skill-quality-review.md,2026-03-05 09:51:18+00:00,no upstream parent,0,False,False,after skeleton
+555,AndreaGriffiths11/IssueCrush,AndreaGriffiths11,daily-repo-status.md,2026-02-15 05:01:28+00:00,"declared, confirmed",0,False,False,after skeleton
+556,AndreaGriffiths11/IssueCrush,AndreaGriffiths11,update-docs.md,2026-02-15 05:01:28+00:00,"declared, confirmed",0,False,False,after skeleton
+557,hatch3r/hatch3r,hatch3r,generate-docusaurus-docs.md,2026-03-02 06:54:18+00:00,no upstream parent,1,True,False,after skeleton
+558,pockebot/openpocket,pockebot,issue-fix.md,2026-02-23 01:29:41+00:00,no upstream parent,0,False,False,after skeleton
+559,pockebot/openpocket,pockebot,issue-plan.md,2026-02-23 01:29:41+00:00,no upstream parent,0,False,False,after skeleton
+560,FalkorDB/falkordb-rs-next-gen,FalkorDB,flaky-test-rca.md,2026-06-01 16:34:44+00:00,no upstream parent,0,False,False,after skeleton
+109,elastic/kibana,elastic,failed-backport-resolver.md,2026-05-15 17:23:37+00:00,no upstream parent,0,False,False,after skeleton
+322,lrascao/rebar3_gpb_plugin,lrascao,daily-repo-status.md,2026-02-15 17:48:28+00:00,"declared, confirmed",0,False,False,after skeleton
+327,dotnet/fsharp,dotnet,labelops-pr-security-scan.md,2026-05-12 09:05:19+00:00,no upstream parent,0,False,False,after skeleton
+328,dotnet/fsharp,dotnet,msbuild-quality-review.md,2026-06-17 08:41:21+00:00,no upstream parent,0,False,False,after skeleton
+329,dotnet/fsharp,dotnet,regression-pr-shepherd.md,2026-03-30 10:24:32+00:00,no upstream parent,1,False,False,after skeleton
+384,CommunityToolkit/Aspire,CommunityToolkit,aspire-upgrade.md,2026-03-12 23:42:48+00:00,no upstream parent,0,False,False,after skeleton
+17,dotnet/maui,dotnet,ci-status-fix-net11.md,2026-06-23 14:21:08+00:00,no upstream parent,0,False,False,after skeleton
+18,dotnet/maui,dotnet,ci-status-fix.md,2026-06-23 14:21:08+00:00,no upstream parent,0,False,False,after skeleton
+19,dotnet/maui,dotnet,ci-status-main.md,2026-06-08 19:52:50+00:00,no upstream parent,0,False,False,after skeleton
+20,dotnet/maui,dotnet,ci-status-net11.md,2026-06-08 19:52:50+00:00,no upstream parent,0,False,False,after skeleton
+21,dotnet/maui,dotnet,copilot-evaluate-tests.md,2026-03-25 14:44:35+00:00,no upstream parent,0,False,False,after skeleton
+385,popey/slomore,popey,repo-assist.md,2026-06-02 16:08:18+00:00,"declared, confirmed",1,False,False,after skeleton
+396,moeru-ai/airi,moeru-ai,pr-triage.md,2026-04-04 19:11:13+00:00,no upstream parent,0,False,False,after skeleton
+397,popey/grummage,popey,repo-assist.md,2026-06-02 15:50:55+00:00,"declared, confirmed",1,False,False,after skeleton
+600,drasi-project/drasi-server,drasi-project,pr-docs-reviewer.md,2026-06-05 16:40:00+00:00,no upstream parent,0,False,False,after skeleton
+603,drasi-project/drasi-server,drasi-project,pr-testing-reviewer.md,2026-06-05 16:40:00+00:00,no upstream parent,0,False,False,after skeleton
+195,advanced-security/advanced-security-material,advanced-security,codeql-version-tracker.md,2026-04-21 19:12:16+00:00,no upstream parent,1,False,False,after skeleton
+196,advanced-security/advanced-security-material,advanced-security,update-ghas-matrix.md,2026-03-20 20:59:58+00:00,no upstream parent,1,False,False,after skeleton
+499,github/copilot-sdk,github,java-adapt-handwritten-code-to-accept-upgrade-changes.md,2026-06-04 21:53:03+00:00,no upstream parent,0,False,False,after skeleton
+500,github/copilot-sdk,github,java-codegen-fix.md,2026-05-21 17:29:30+00:00,no upstream parent,0,False,False,after skeleton
+501,github/copilot-sdk,github,release-changelog.md,2026-03-03 16:32:51+00:00,no upstream parent,2,True,False,after skeleton
+7,duckduckgo/Android,duckduckgo,daily-repo-status.md,2026-03-04 08:35:31+00:00,"declared, confirmed",0,False,False,after skeleton
+482,Kong/kongctl,Kong,slash-cmd-issue-triage.md,2026-02-15 03:05:53+00:00,"declared, confirmed",0,False,False,after skeleton
+480,Kong/kongctl,Kong,opened-issue-triage.md,2026-02-15 03:05:53+00:00,"declared, confirmed",0,False,False,after skeleton
+311,KunalSin9h/meltcd,KunalSin9h,new.md,2026-02-27 06:34:23+00:00,no upstream parent,0,False,False,after skeleton
+126,pulumi/pulumi-kubernetes-operator,pulumi,kubernetes-operator-pr-rereview.md,2026-05-29 23:27:27+00:00,"declared, confirmed",0,False,False,after skeleton
+127,pulumi/pulumi-kubernetes-operator,pulumi,kubernetes-operator-pr-review.md,2026-05-29 23:27:27+00:00,"declared, confirmed",0,False,False,after skeleton

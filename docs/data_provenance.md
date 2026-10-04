@@ -40,3 +40,14 @@ Each transformation is listed here as it is added.
 - **Time:** `committed_at` is parsed as UTC. An "earlier" version must be strictly earlier, so same-timestamp ties are never treated as earlier.
 - **Language filter (2026-10-04):** `load_snapshots()` drops, by default, repositories whose instructions the team can't read and check by hand (`ghaw_relations.language`). Each non-stub body is classified with `py3langid` after removing code blocks, inline code, `${{ ... }}` expressions, URLs and HTML tags or comments. A repository is excluded when more than 50% of its non-stub body words are in a language other than English or Spanish. Stubs have no prose, so they are ignored, and a repository with only stubs is kept. Excluded: `libxengine/XEngine_Authorize` (zh), `runhey/OnmyojiAutoScript` (zh) and `felipementel/GitHubCopilotDevDays-Curitiba-2026` (pt, 87%). That leaves **259 repos, 591 histories and 2,757 versions** of 262, 604 and 2,820. No version is in Spanish. The report is `scripts/language_filter.py` → `results/language/repo_languages.csv`. `load_snapshots(readable_only=False)` gives the unfiltered data.
 - Apart from the language filter, no rows are removed. Duplicate versions are kept and analyzed explicitly.
+
+## Upstream templates (not part of GHAW-H)
+
+To relate GHAW-H files to the templates they come from, `upstream/fetch_upstream.py` fetches, from GitHub, the template repositories that GHAW-H files declare in `source:` or import remotely. These are `githubnext/agentics`, `github/gh-aw`, `pulumi-labs/gh-aw-internal` and `Alfresco/alfresco-build-tools`; `githubnext/autoloop` has no license and `SonarSource/awesome-ai` is unavailable.
+
+- **Output:** `upstream/data/template_versions.parquet` (2,596 template versions) and `upstream/data/references.parquet` (resolved declared sources and remote imports). `upstream/data/fetch_manifest.csv` records each repository's head commit and fetch date.
+- **Licensing:** the data is committed under its original licenses (see `upstream/README.md`, "Licensing").
+- **Transformations:**
+  - Each file's content is split into frontmatter and body exactly as GHAW-H does; the split reproduces GHAW-H's on all 2,820 rows.
+  - The analyses use only *body revisions* (versions whose body changed), excluding deletions and stub bodies.
+- **Details:** `upstream/README.md`.

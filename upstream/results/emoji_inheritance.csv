@@ -1,0 +1,148 @@
+version_id,history_id,parent_template,parent_commit,emojis,template_emojis,inherited,added,dropped,category
+2,2,githubnext/agentics/workflows/daily-repo-status.md,3eae9b88d024036be45d668e3404f8662f94d878,🌟,🌟,🌟,,,"declared, confirmed"
+2810,597,githubnext/agentics/workflows/issue-triage.md,e59994b330d765823202927b3fb26e909fbc72ab,🎯📊🔗💡,🎯📊🔗💡,🎯📊🔗💡,,,"declared, confirmed"
+2786,587,github/gh-aw/.github/workflows/issue-triage-agent.md,9d9dd04e99eb03313b8267c86c59d33a644b3ee0,🏷,🏷,🏷,,,"declared, confirmed"
+2442,503,github/gh-aw/.github/workflows/issue-triage-agent.md,9d9dd04e99eb03313b8267c86c59d33a644b3ee0,🏷,🏷,🏷,,,"declared, confirmed"
+19,9,githubnext/agentics/workflows/daily-repo-status.md,3eae9b88d024036be45d668e3404f8662f94d878,🌟,🌟,🌟,,,"declared, confirmed"
+54,15,githubnext/agentics/workflows/repo-assist.md,0ae10905c47f310d0ed58a020a4e611c0f890442,🌈🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,🌈,,"declared, confirmed"
+1,1,githubnext/agentics/workflows/daily-issue-triage.md,d7c1dc4b72b00607a67caaffdcc216cb64379cf9,🎯📊🔗💡,🎯📊🔗💡,🎯📊🔗💡,,,"declared, confirmed"
+86,23,githubnext/agentics/workflows/daily-repo-status.md,3eae9b88d024036be45d668e3404f8662f94d878,🌟,🌟,🌟,,,"declared, confirmed"
+1965,381,github/gh-aw/.github/workflows/code-simplifier.md,bb3a3b3c35105d86add624c48ddb68e1419f5cb5,✅,✅,✅,,,"declared, confirmed"
+937,199,github/gh-aw/.github/workflows/ci-doctor.md,ba963a873b547e3365debe87ae4ed84220cd3c1f,🩺🏥💊✅❌,🩺🏥💊✅❌,🩺🏥💊✅❌,,,"declared, confirmed"
+974,210,pulumi-labs/gh-aw-internal/.github/workflows/gh-aw-pr-rereview.md,99a309bf18258dbae98c8176ea10657e0b08deca,,,,,,"declared, confirmed"
+938,200,githubnext/agentics/workflows/daily-repo-status.md,3eae9b88d024036be45d668e3404f8662f94d878,🌟,🌟,🌟,,,"declared, confirmed"
+942,202,githubnext/agentics/workflows/issue-triage.md,bf8d330e628f2c235cd9304310156bdbbfa61123,🎯,🎯,🎯,,,"declared, confirmed"
+896,188,github/gh-aw/.github/workflows/duplicate-code-detector.md,8adb0aec90a1468c771833103a1596ef7a3a0672,🔧,🔍,,🔧,🔍,undeclared template copy
+2473,511,githubnext/agentics/workflows/daily-qa.md,eb489a0b6cb3bd7c7f94d5d3362237641c22cd31,,,,,,"declared, confirmed"
+975,211,pulumi-labs/gh-aw-internal/.github/workflows/gh-aw-pr-review.md,43b3a0eda6d8dc7d8a35019f8c317813131ed939,,,,,,"declared, confirmed"
+109,34,githubnext/agentics/workflows/code-simplifier.md,6e25aedbb43fbb2a0f4666917682728a58a9b2b7,✅,✅,✅,,,undeclared template copy
+110,35,githubnext/agentics/workflows/daily-file-diet.md,fed4a494d205a0611f2045d4488a1fe13956ba25,🏋✅,🏋✅,🏋✅,,,undeclared template copy
+118,37,githubnext/agentics/workflows/efficiency-improver.md,497230d3867fe453aae74b15d06178d45a39fcce,🔍🔧💬📊🌱🔄🤖,🤖🔍🔧💬📊🌱🔄,🔍🔧💬📊🌱🔄🤖,,,undeclared template copy
+119,38,githubnext/agentics/workflows/link-checker.md,054f7e0bbd8746b147fc60baf2df35a5dead710a,✅❌,✅❌,✅❌,,,undeclared template copy
+1926,374,githubnext/agentics/workflows/contribution-guidelines-checker.md,ce666569727b3b361b87c801927c6081733ee1aa,,,,,,"declared, confirmed"
+132,40,githubnext/agentics/workflows/malicious-code-scan.md,054f7e0bbd8746b147fc60baf2df35a5dead710a,✅,✅,✅,,,undeclared template copy
+133,41,githubnext/agentics/workflows/markdown-linter.md,e9d60822329eb50a32fcfc54ebd68078e4f5133e,🔍📊📁🎯📋🔗,🔍📊📁🎯📋🔗,🔍📊📁🎯📋🔗,,,undeclared template copy
+134,42,githubnext/agentics/workflows/link-checker.md,054f7e0bbd8746b147fc60baf2df35a5dead710a,✅❌,✅❌,✅❌,,,undeclared template copy
+159,48,githubnext/agentics/workflows/efficiency-improver.md,497230d3867fe453aae74b15d06178d45a39fcce,🤖🔍🔧💬📊🌱🔄,🤖🔍🔧💬📊🌱🔄,🤖🔍🔧💬📊🌱🔄,,,"declared, confirmed"
+1013,221,githubnext/agentics/workflows/repo-assist.md,30e497915b16f1f81b9a5e3afdf89f98228f8e3f,🤖💬🔧🏷,🤖💬🔧🏷📝🔄,🤖💬🔧🏷,,📝🔄,"declared, confirmed"
+1020,224,githubnext/agentics/workflows/accessibility-review.md,497230d3867fe453aae74b15d06178d45a39fcce,,,,,,"declared, confirmed"
+1023,225,githubnext/agentics/workflows/agentic-wiki-writer.md,c7e154261230e4048e62a3343e265e9db92cdd58,,,,,,"declared, confirmed"
+2480,513,githubnext/agentics/workflows/issue-triage.md,bf8d330e628f2c235cd9304310156bdbbfa61123,🎯,🎯,🎯,,,"declared, confirmed"
+2493,517,githubnext/agentics/workflows/daily-repo-status.md,3eae9b88d024036be45d668e3404f8662f94d878,🌟,🌟,🌟,,,"declared, confirmed"
+2050,407,githubnext/agentics/workflows/issue-triage.md,d5c4d948c7ff2f13d43ba2ab3aadfc5ab141d63a,🎯,🎯,🎯,,,"declared, confirmed"
+200,54,githubnext/agentics/workflows/issue-triage.md,bf8d330e628f2c235cd9304310156bdbbfa61123,🎯,🎯,🎯,,,undeclared template copy
+153,46,githubnext/agentics/workflows/repository-quality-improver.md,4c38dd19cf6bd04950dc2f98c91caba3d2acfcd6,✅❌🎯⚠🤖📊,✅❌🎯⚠🤖📊,✅❌🎯⚠🤖📊,,,undeclared template copy
+1025,226,githubnext/agentics/workflows/code-simplifier.md,6e25aedbb43fbb2a0f4666917682728a58a9b2b7,✅,✅,✅,,,"declared, confirmed"
+1027,227,githubnext/agentics/workflows/discussion-task-miner.md,45c34b8695fcb34d99cb23849e4a395a5c7f0d95,🔍✅📊⚠❌,🔍✅📊⚠❌,🔍✅📊⚠❌,,,"declared, confirmed"
+1029,228,githubnext/agentics/workflows/efficiency-improver.md,497230d3867fe453aae74b15d06178d45a39fcce,🤖🔍🔧💬📊🌱🔄,🤖🔍🔧💬📊🌱🔄,🤖🔍🔧💬📊🌱🔄,,,"declared, confirmed"
+2772,583,githubnext/agentics/workflows/autoloop.md,b0de86aa38b9836e172be84df24815a2d8d19f03,⚙🎯📚🚧🔭📊🤖✅❌⚠🎉🟢⏸📋,🤖✅❌⚠,🤖✅❌⚠,⚙🎯📚🚧🔭📊🎉🟢⏸📋,,"declared, unresolvable"
+2782,585,githubnext/agentics/workflows/daily-repo-status.md,3eae9b88d024036be45d668e3404f8662f94d878,🌟,🌟,🌟,,,"declared, confirmed"
+1842,359,githubnext/agentics/workflows/repo-status.md,497230d3867fe453aae74b15d06178d45a39fcce,🌟,🌟,🌟,,,"declared, confirmed"
+991,215,githubnext/agentics/workflows/repo-assist.md,0ae10905c47f310d0ed58a020a4e611c0f890442,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,,,"declared, confirmed"
+1033,230,githubnext/agentics/workflows/malicious-code-scan.md,054f7e0bbd8746b147fc60baf2df35a5dead710a,✅,✅,✅,,,"declared, confirmed"
+1035,231,githubnext/agentics/workflows/perf-improver.md,497230d3867fe453aae74b15d06178d45a39fcce,🤖🔍🔧💬📊🔄,🤖🔍🔧💬📊🔄,🤖🔍🔧💬📊🔄,,,"declared, confirmed"
+1840,358,githubnext/agentics/workflows/daily-repo-status.md,3eae9b88d024036be45d668e3404f8662f94d878,🌟,🌟,🌟,,,"declared, confirmed"
+2501,520,githubnext/agentics/workflows/daily-repo-status.md,3eae9b88d024036be45d668e3404f8662f94d878,🌟,🌟,🌟,,,"declared, confirmed"
+2504,523,githubnext/agentics/workflows/repo-assist.md,0ae10905c47f310d0ed58a020a4e611c0f890442,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,,,"declared, confirmed"
+2505,524,github/gh-aw/.github/workflows/code-simplifier.md,eb1a0fbdc96efb8fa74c31bb700f24caa36d5f9e,✅,✅,✅,,,"declared, confirmed"
+2508,525,github/gh-aw/.github/workflows/duplicate-code-detector.md,51163c67ad2476560f9410444709922fef9ef45d,🔍,🔍,🔍,,,"declared, confirmed"
+233,58,githubnext/agentics/workflows/repo-assist.md,0ae10905c47f310d0ed58a020a4e611c0f890442,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,,,undeclared template copy
+2760,580,githubnext/agentics/workflows/markdown-linter.md,e9d60822329eb50a32fcfc54ebd68078e4f5133e,🔍📊📁🎯📋🔗,🔍📊📁🎯📋🔗,🔍📊📁🎯📋🔗,,,undeclared template copy
+1031,229,githubnext/agentics/workflows/large-file-simplifier.md,fc4ab36dedc44e2a1cdc195cecce262f06c81230,✅,✅,✅,,,"declared, confirmed"
+1043,233,githubnext/agentics/workflows/repo-assist.md,c7d030cd6d4607b90d9ac3ffc8b24aff4f251632,🌈🤖💬🔧🏷📝🔄,🌈🤖💬🔧🏷📝🔄,🌈🤖💬🔧🏷📝🔄,,,"declared, confirmed"
+1046,234,githubnext/agentics/workflows/repository-quality-improver.md,4c38dd19cf6bd04950dc2f98c91caba3d2acfcd6,✅❌🎯⚠🤖📊,✅❌🎯⚠🤖📊,✅❌🎯⚠🤖📊,,,"declared, confirmed"
+1048,235,githubnext/agentics/workflows/sub-issue-closer.md,497230d3867fe453aae74b15d06178d45a39fcce,🔒🎉🔍📋✅⏸,🔒🎉🔍📋✅⏸,🔒🎉🔍📋✅⏸,,,"declared, confirmed"
+1050,236,githubnext/agentics/workflows/test-improver.md,497230d3867fe453aae74b15d06178d45a39fcce,🤖🔍🔧💬📊🔄⚠,🤖🔍🔧💬📊🔄⚠,🤖🔍🔧💬📊🔄⚠,,,"declared, confirmed"
+1056,237,githubnext/agentics/workflows/unbloat-docs.md,52d345ea47b3338175a42432a7c4a9b092ae356c,🗜📦💪✅,🗜📦💪✅,🗜📦💪✅,,,"declared, confirmed"
+242,66,githubnext/agentics/workflows/issue-triage.md,bf8d330e628f2c235cd9304310156bdbbfa61123,🎯,🎯,🎯,,,"declared, confirmed"
+245,68,github/gh-aw/.github/workflows/ci-doctor.md,65fe27bb0bf5393275e306b617549cb2864d7ae6,▶✅❌,🩺🏥💊⚠✅❌,✅❌,▶,🩺🏥💊⚠,"declared, confirmed"
+255,69,github/gh-aw/.github/workflows/ci-doctor.md,e1e884c1a2b5c87e12069909bb80090772930fcf,✅❌,🩺🏥💊⚠✅❌,✅❌,,🩺🏥💊⚠,"declared, confirmed"
+2085,423,githubnext/agentics/workflows/issue-triage.md,eb489a0b6cb3bd7c7f94d5d3362237641c22cd31,,🎯,,,🎯,undeclared template copy
+1125,252,githubnext/agentics/workflows/daily-test-improver.md,48413acd2e8b7857b2a0ff9d17bc0d0bb1848427,,,,,,"declared, confirmed"
+1058,238,githubnext/agentics/workflows/weekly-research.md,497230d3867fe453aae74b15d06178d45a39fcce,,,,,,"declared, confirmed"
+2089,426,githubnext/agentics/workflows/daily-test-improver.md,0411daab19a9eeab6d16f854dce532585b8ef0eb,,,,,,"declared, confirmed"
+2090,427,githubnext/agentics/workflows/issue-triage.md,eb489a0b6cb3bd7c7f94d5d3362237641c22cd31,🎯,🎯,🎯,,,"declared, confirmed"
+1041,232,githubnext/agentics/workflows/pr-fix.md,6035e2b45ff968b3ccc1945a0858d98bf87826e5,,,,,,"declared, confirmed"
+767,179,githubnext/agentics/workflows/duplicate-code-detector.md,d19056381ba48cb1f7c78510c23069701fa7ae87,🔍,🔍,🔍,,,undeclared template copy
+2082,421,githubnext/agentics/workflows/issue-triage.md,ab5c853602725b2ed1000ab1ccf033746628f194,,🎯,,,🎯,undeclared template copy
+2583,543,githubnext/agentics/workflows/issue-triage.md,bf8d330e628f2c235cd9304310156bdbbfa61123,🎯,🎯,🎯,,,"declared, confirmed"
+2125,433,githubnext/agentics/workflows/maintainer.md,7fd31902e2252188bc7dfd0f9c603cad2b1b8b10,,,,,,undeclared template copy
+1190,275,github/gh-aw/.github/workflows/code-simplifier.md,bb3a3b3c35105d86add624c48ddb68e1419f5cb5,✅,✅,✅,,,"declared, confirmed"
+1195,280,githubnext/agentics/workflows/daily-repo-status.md,3eae9b88d024036be45d668e3404f8662f94d878,🌟,🌟,🌟,,,"declared, confirmed"
+1711,345,githubnext/agentics/workflows/repo-assist.md,0ae10905c47f310d0ed58a020a4e611c0f890442,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,,,undeclared template copy
+2139,435,github/gh-aw/.github/workflows/code-simplifier.md,bb3a3b3c35105d86add624c48ddb68e1419f5cb5,✅,✅,✅,,,"declared, confirmed"
+2141,436,github/gh-aw/.github/workflows/daily-doc-updater.md,8b089d17e83805175b88a9ebf4bcc419595a307c,,,,,,"declared, confirmed"
+318,82,Alfresco/alfresco-build-tools/.github/workflows/supply-chain-review.md,500921b47ef517ff56a006f7422d5c229430f681,,,,,,"declared, confirmed"
+321,83,github/gh-aw/.github/workflows/code-simplifier.md,bb3a3b3c35105d86add624c48ddb68e1419f5cb5,✅,✅,✅,,,"declared, confirmed"
+323,84,github/gh-aw/.github/workflows/duplicate-code-detector.md,51163c67ad2476560f9410444709922fef9ef45d,🔍,🔍,🔍,,,"declared, confirmed"
+1133,253,githubnext/agentics/workflows/repository-quality-improver.md,4c38dd19cf6bd04950dc2f98c91caba3d2acfcd6,✅❌🎯⚠🤖📊,✅❌🎯⚠🤖📊,✅❌🎯⚠🤖📊,,,"declared, confirmed"
+2577,540,githubnext/agentics/workflows/ci-doctor.md,c11f94d8744b4d5ec3f2afe8a3c0cca787add16d,🏥,🏥,🏥,,,"declared, confirmed"
+2580,541,githubnext/agentics/workflows/daily-qa.md,eb489a0b6cb3bd7c7f94d5d3362237641c22cd31,,,,,,"declared, confirmed"
+1159,266,Alfresco/alfresco-build-tools/.github/workflows/supply-chain-review.md,500921b47ef517ff56a006f7422d5c229430f681,,,,,,undeclared template copy
+2573,539,githubnext/agentics/workflows/repo-assist.md,c7d030cd6d4607b90d9ac3ffc8b24aff4f251632,🌈🤖💬🔧🏷📝🔄,🌈🤖💬🔧🏷📝🔄,🌈🤖💬🔧🏷📝🔄,,,"declared, confirmed"
+1242,294,githubnext/agentics/workflows/daily-repo-status.md,3eae9b88d024036be45d668e3404f8662f94d878,🌟,🌟,🌟,,,"declared, confirmed"
+1660,343,githubnext/agentics/workflows/repo-assist.md,0ae10905c47f310d0ed58a020a4e611c0f890442,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,,,"declared, confirmed"
+1713,346,githubnext/agentics/workflows/repo-assist.md,69dc52f93e6abaaeb199c24e22b401f5bb1bac6f,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,,,"declared, confirmed"
+2146,437,githubnext/agentics/workflows/daily-repo-status.md,3eae9b88d024036be45d668e3404f8662f94d878,🌟,🌟,🌟,,,"declared, confirmed"
+329,87,githubnext/agentics/workflows/issue-triage.md,bf8d330e628f2c235cd9304310156bdbbfa61123,🎯,🎯,🎯,,,"declared, confirmed"
+2590,545,github/gh-aw/.github/workflows/ci-doctor.md,ba963a873b547e3365debe87ae4ed84220cd3c1f,🩺🏥💊✅❌,🩺🏥💊✅❌,🩺🏥💊✅❌,,,undeclared template copy
+2592,546,github/gh-aw/.github/workflows/code-simplifier.md,eb1a0fbdc96efb8fa74c31bb700f24caa36d5f9e,✅,✅,✅,,,undeclared template copy
+2594,547,githubnext/agentics/workflows/daily-doc-updater.md,d10d12c3bfd79ae6baa99194e1c41de17ad0b8e6,,,,,,undeclared template copy
+1673,344,githubnext/agentics/workflows/repo-assist.md,897b5c62f2e8c6fc729c6d385157de0b39a02d70,🤖👋📖🤝💬🔧🏷📝🔄✅❌🔀🎯,🤖👋📖🤝💬🔧🏷📝🔄✅❌🔀🎯,🤖👋📖🤝💬🔧🏷📝🔄✅❌🔀🎯,,,"declared, confirmed"
+1644,342,githubnext/agentics/workflows/repo-assist.md,69dc52f93e6abaaeb199c24e22b401f5bb1bac6f,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,,,"declared, confirmed"
+661,160,githubnext/agentics/workflows/repo-assist.md,0ae10905c47f310d0ed58a020a4e611c0f890442,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,,,"declared, confirmed"
+1601,340,githubnext/agentics/workflows/repo-assist.md,0ae10905c47f310d0ed58a020a4e611c0f890442,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,,,"declared, confirmed"
+2186,451,githubnext/agentics/workflows/daily-team-status.md,1e366aa4518cf83d25defd84e454b9a41e87cf7c,🌟,🌟,🌟,,,"declared, confirmed"
+2191,452,githubnext/agentics/workflows/daily-team-status.md,1e366aa4518cf83d25defd84e454b9a41e87cf7c,🌟,🌟,🌟,,,"declared, confirmed"
+2392,489,github/gh-aw/.github/workflows/issue-triage-agent.md,bc153047bde1afe62da5cd4bf03a9dc607d79c7d,🏷,🏷,🏷,,,"declared, confirmed"
+1319,305,githubnext/agentics/workflows/ci-doctor.md,c11f94d8744b4d5ec3f2afe8a3c0cca787add16d,🏥,🏥,🏥,,,"declared, confirmed"
+1625,341,githubnext/agentics/workflows/repo-assist.md,0ae10905c47f310d0ed58a020a4e611c0f890442,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,,,"declared, confirmed"
+2244,460,github/gh-aw/.github/workflows/code-simplifier.md,bb3a3b3c35105d86add624c48ddb68e1419f5cb5,✅,✅,✅,,,"declared, confirmed"
+1333,310,githubnext/agentics/workflows/daily-repo-status.md,3eae9b88d024036be45d668e3404f8662f94d878,🌟,🌟,🌟,,,"declared, confirmed"
+1543,336,githubnext/agentics/workflows/repo-assist.md,0ae10905c47f310d0ed58a020a4e611c0f890442,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,,,"declared, confirmed"
+1544,337,githubnext/agentics/workflows/repo-assist.md,0d6e8cf9db90470cd5477c6a40b350fd9f9e1422,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,,,"declared, confirmed"
+2257,463,github/gh-aw/.github/workflows/daily-doc-updater.md,83d14e39e312775d09002b98cb62d819af6d244f,,,,,,"declared, confirmed"
+2261,464,github/gh-aw/.github/workflows/daily-file-diet.md,f97a5879ba52e6d3c9ffb565a2ea097b55981aa1,🏋✅,🏋✅,🏋✅,,,"declared, confirmed"
+1575,339,githubnext/agentics/workflows/repo-assist.md,2f03fdaafb8c1ae62dfde7e0be762a822a201aeb,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,,,"declared, confirmed"
+2323,477,githubnext/agentics/workflows/code-simplifier.md,6e25aedbb43fbb2a0f4666917682728a58a9b2b7,✅,✅,✅,,,"declared, confirmed"
+1574,338,githubnext/agentics/workflows/q.md,85c48f228c416bc140cd0f808f026027e5d1138d,✅,✅,✅,,,"declared, confirmed"
+2289,470,githubnext/agentics/workflows/daily-doc-updater.md,d10d12c3bfd79ae6baa99194e1c41de17ad0b8e6,,,,,,"declared, confirmed"
+1361,316,githubnext/agentics/workflows/daily-test-improver.md,398f7d95ef5bd2329e422df142569a8833f91a1f,🤖🔍🔧💬📊🔄⚠,🤖🔍🔧💬📊🔄⚠,🤖🔍🔧💬📊🔄⚠,,,undeclared template copy
+584,125,githubnext/agentics/workflows/repo-assist.md,afb00b92a9514fee9a14c583f059a03d05738f70,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,,,"declared, confirmed"
+620,142,pulumi-labs/gh-aw-internal/.github/workflows/gh-aw-pr-rereview.md,99a309bf18258dbae98c8176ea10657e0b08deca,,,,,,"declared, confirmed"
+624,143,pulumi-labs/gh-aw-internal/.github/workflows/gh-aw-pr-review.md,43b3a0eda6d8dc7d8a35019f8c317813131ed939,,,,,,"declared, confirmed"
+1481,334,githubnext/agentics/workflows/repo-assist.md,828ac109efb43990f59475cbfce90ede5546586c,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,,,"declared, confirmed"
+1341,313,githubnext/agentics/workflows/daily-accessibility-review.md,ddae9d4feaac4bc8cc3f11e688f5316465a857f9,,,,,,undeclared template copy
+1372,318,githubnext/agentics/workflows/issue-triage.md,bf8d330e628f2c235cd9304310156bdbbfa61123,🎯,🎯,🎯,,,undeclared template copy
+1376,319,githubnext/agentics/workflows/pr-fix.md,6035e2b45ff968b3ccc1945a0858d98bf87826e5,,,,,,undeclared template copy
+575,119,githubnext/agentics/workflows/daily-team-status.md,1e366aa4518cf83d25defd84e454b9a41e87cf7c,🌟,🌟,🌟,,,"declared, unresolvable"
+1511,335,githubnext/agentics/workflows/repo-assist.md,4cb6855f0b3c0a719d7d5c3af44d1646450e63e9,🤖👋📖🤝💬🔧🏷📝🔄👀🔀✅❌🎯,🤖👋📖🤝💬🔧🏷📝🔄👀🔀✅❌🎯,🤖👋📖🤝💬🔧🏷📝🔄👀🔀✅❌🎯,,,"declared, confirmed"
+1357,315,githubnext/agentics/workflows/daily-repo-status.md,3eae9b88d024036be45d668e3404f8662f94d878,🌟,🌟,🌟,,,undeclared template copy
+2318,475,githubnext/agentics/workflows/update-docs.md,eb489a0b6cb3bd7c7f94d5d3362237641c22cd31,,,,,,"declared, confirmed"
+490,103,github/gh-aw/.github/workflows/duplicate-code-detector.md,51163c67ad2476560f9410444709922fef9ef45d,🔍,🔍,🔍,,,"declared, confirmed"
+1367,317,githubnext/agentics/workflows/duplicate-code-detector.md,d19056381ba48cb1f7c78510c23069701fa7ae87,🔍,🔍,🔍,,,undeclared template copy
+2389,487,githubnext/agentics/workflows/daily-repo-status.md,3eae9b88d024036be45d668e3404f8662f94d878,🌟,🌟,🌟,,,"declared, confirmed"
+562,115,githubnext/agentics/workflows/daily-test-improver.md,48413acd2e8b7857b2a0ff9d17bc0d0bb1848427,,,,,,"declared, confirmed"
+2380,483,githubnext/agentics/workflows/daily-repo-status.md,3eae9b88d024036be45d668e3404f8662f94d878,🌟,🌟,🌟,,,"declared, confirmed"
+2385,484,githubnext/agentics/workflows/repo-assist.md,0ae10905c47f310d0ed58a020a4e611c0f890442,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,,,"declared, confirmed"
+2386,485,githubnext/agentics/workflows/repo-assist.md,0ae10905c47f310d0ed58a020a4e611c0f890442,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,,,"declared, confirmed"
+495,104,githubnext/agentics/workflows/grumpy-reviewer.md,4957663821dbb3260348084fa2f1659701950fef,😤🙄🔥,😤🙄🔥,😤🙄🔥,,,"declared, confirmed"
+500,106,githubnext/agentics/workflows/issue-triage.md,bf8d330e628f2c235cd9304310156bdbbfa61123,🎯,🎯,🎯,,,"declared, confirmed"
+513,107,githubnext/agentics/workflows/daily-repo-status.md,3eae9b88d024036be45d668e3404f8662f94d878,🌟,🌟,🌟,,,"declared, confirmed"
+1440,332,githubnext/agentics/workflows/repo-assist.md,0ae10905c47f310d0ed58a020a4e611c0f890442,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,,,"declared, confirmed"
+1452,333,githubnext/agentics/workflows/repo-assist.md,595b7a9c567ba4dce05ca824aec6e74b4dc545b8,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,,,"declared, confirmed"
+1419,330,githubnext/agentics/workflows/repo-assist.md,69dc52f93e6abaaeb199c24e22b401f5bb1bac6f,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,,,"declared, confirmed"
+2316,474,githubnext/agentics/workflows/repo-assist.md,dcdcfd1fff79a8908465335200473a87fdee86f4,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,,,"declared, confirmed"
+11,5,Alfresco/alfresco-build-tools/.github/workflows/supply-chain-review.md,500921b47ef517ff56a006f7422d5c229430f681,,,,,,"declared, confirmed"
+2388,486,githubnext/agentics/workflows/daily-repo-status.md,3eae9b88d024036be45d668e3404f8662f94d878,🌟,🌟,🌟,,,"declared, confirmed"
+1430,331,githubnext/agentics/workflows/repo-assist.md,0ae10905c47f310d0ed58a020a4e611c0f890442,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,🤖💬🔧🏷📝🔄,,,"declared, confirmed"
+2629,555,githubnext/agentics/workflows/daily-repo-status.md,3eae9b88d024036be45d668e3404f8662f94d878,🌟,🌟,🌟,,,"declared, confirmed"
+2630,556,githubnext/agentics/workflows/update-docs.md,eb489a0b6cb3bd7c7f94d5d3362237641c22cd31,,,,,,"declared, confirmed"
+1384,322,githubnext/agentics/workflows/daily-repo-status.md,3eae9b88d024036be45d668e3404f8662f94d878,🌟,🌟,🌟,,,"declared, confirmed"
+1973,385,githubnext/agentics/workflows/repo-assist.md,c7d030cd6d4607b90d9ac3ffc8b24aff4f251632,🌈🤖💬🔧🏷📝🔄,🌈🤖💬🔧🏷📝🔄,🌈🤖💬🔧🏷📝🔄,,,"declared, confirmed"
+2013,397,githubnext/agentics/workflows/repo-assist.md,c7d030cd6d4607b90d9ac3ffc8b24aff4f251632,🌈🤖💬🔧🏷📝🔄,🌈🤖💬🔧🏷📝🔄,🌈🤖💬🔧🏷📝🔄,,,"declared, confirmed"
+17,7,githubnext/agentics/workflows/daily-repo-status.md,3eae9b88d024036be45d668e3404f8662f94d878,🌟,🌟,🌟,,,"declared, confirmed"
+2370,482,githubnext/agentics/workflows/issue-triage.md,bf8d330e628f2c235cd9304310156bdbbfa61123,🎯,🎯,🎯,,,"declared, confirmed"
+2348,480,githubnext/agentics/workflows/issue-triage.md,bf8d330e628f2c235cd9304310156bdbbfa61123,🎯,🎯,🎯,,,"declared, confirmed"
+602,126,pulumi-labs/gh-aw-internal/.github/workflows/gh-aw-pr-rereview.md,242988150273951aad5f67b008256266bdff6112,,,,,,"declared, confirmed"
+605,127,pulumi-labs/gh-aw-internal/.github/workflows/gh-aw-pr-review.md,242988150273951aad5f67b008256266bdff6112,,,,,,"declared, confirmed"

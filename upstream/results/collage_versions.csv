@@ -1,0 +1,843 @@
+version_id,history_id,repo,owner,filename,rank,which,committed_at,n_paragraphs,paragraph_words,boilerplate_share,matched_share,n_sources,n_significant_sources,top_source_share,significant_kinds,category,attribution
+1,1,apache/cloudstack,apache,daily-issue-triage.md,1,first,2026-06-17 18:15:03+00:00,26,917,0.029,0.566,2,1,0.526,upstream template,partial copy (1 source),"declared, confirmed"
+2,2,apache/cloudstack,apache,daily-repo-status.md,1,first,2026-02-17 15:11:01+00:00,4,93,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+5,2,apache/cloudstack,apache,daily-repo-status.md,4,last,2026-06-17 18:15:03+00:00,4,93,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+6,3,brunoborges/fx2048,brunoborges,create-sample-issue.md,1,first,2026-02-09 22:57:17+00:00,3,48,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+8,3,brunoborges/fx2048,brunoborges,create-sample-issue.md,3,last,2026-02-09 23:27:44+00:00,3,47,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+9,4,vaadin/flow,vaadin,doc-bot.md,1,first,2026-06-04 08:47:29+00:00,44,1283,0.0,0.009,1,0,0.009,,minor reuse,no upstream parent
+10,4,vaadin/flow,vaadin,doc-bot.md,2,last,2026-06-04 11:15:04+00:00,44,1283,0.0,0.009,1,0,0.009,,minor reuse,no upstream parent
+11,5,Activiti/activiti-cloud,Activiti,supply-chain-review.md,1,first,2026-05-29 14:47:20+00:00,74,2203,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+13,5,Activiti/activiti-cloud,Activiti,supply-chain-review.md,3,last,2026-06-11 10:25:36+00:00,76,2304,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+14,6,duckduckgo/Android,duckduckgo,android-maintenance-worker.md,1,first,2026-03-31 20:48:50+00:00,21,917,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+16,6,duckduckgo/Android,duckduckgo,android-maintenance-worker.md,3,last,2026-04-29 14:12:46+00:00,19,813,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+17,7,duckduckgo/Android,duckduckgo,daily-repo-status.md,1,first,2026-03-04 08:35:31+00:00,4,93,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+18,8,duckduckgo/Android,duckduckgo,drift-audit.md,1,first,2026-06-16 20:42:59+00:00,20,761,0.0,0.067,1,0,0.067,,minor reuse,no upstream parent
+19,9,executeautomation/ExecuteAutomationWebApp,executeautomation,daily-repo-status.md,1,first,2026-03-03 02:01:05+00:00,4,93,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+20,10,Dedac/Beam,Dedac,fix-top-improvement.md,1,first,2026-04-22 14:47:40+00:00,10,389,0.0,0.08,1,0,0.08,,minor reuse,no upstream parent
+21,10,Dedac/Beam,Dedac,fix-top-improvement.md,2,last,2026-04-22 15:31:15+00:00,10,427,0.0,0.073,1,0,0.073,,minor reuse,no upstream parent
+22,11,Dedac/Beam,Dedac,weekly-improvements.md,1,first,2026-04-22 14:44:20+00:00,15,322,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+23,12,mono/SkiaSharp,mono,auto-skia-sync.md,1,first,2026-05-08 19:55:22+00:00,8,408,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+30,12,mono/SkiaSharp,mono,auto-skia-sync.md,8,last,2026-06-26 21:41:56+00:00,9,928,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+31,13,mono/SkiaSharp,mono,auto-triage.md,1,first,2026-04-21 00:24:36+00:00,16,342,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+38,13,mono/SkiaSharp,mono,auto-triage.md,8,last,2026-06-26 21:41:56+00:00,21,482,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+39,14,mono/SkiaSharp,mono,update-release-notes.md,1,first,2026-04-28 02:39:23+00:00,22,501,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+53,14,mono/SkiaSharp,mono,update-release-notes.md,15,last,2026-06-26 21:41:56+00:00,12,567,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+54,15,uxsoft/AppleWirelessKeyboard,uxsoft,repo-assist.md,1,first,2026-04-22 19:02:05+00:00,44,2580,0.303,0.697,1,1,0.697,upstream template,partial copy (1 source),"declared, confirmed"
+55,16,dotnet/maui,dotnet,agentic-labeler.md,1,first,2026-05-15 15:33:58+00:00,14,577,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+60,16,dotnet/maui,dotnet,agentic-labeler.md,6,last,2026-06-17 20:38:43+00:00,14,614,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+61,17,dotnet/maui,dotnet,ci-status-fix-net11.md,1,first,2026-06-23 14:21:08+00:00,134,5633,0.0,0.01,2,0,0.009,,minor reuse,no upstream parent
+62,18,dotnet/maui,dotnet,ci-status-fix.md,1,first,2026-06-23 14:21:08+00:00,134,5597,0.0,0.01,2,0,0.009,,minor reuse,no upstream parent
+63,19,dotnet/maui,dotnet,ci-status-main.md,1,first,2026-06-08 19:52:50+00:00,30,1086,0.0,0.11,1,1,0.11,same owner,minor reuse,no upstream parent
+67,19,dotnet/maui,dotnet,ci-status-main.md,5,last,2026-06-25 16:27:53+00:00,35,1476,0.0,0.9,1,1,0.9,same repo,whole copy (1 source),no upstream parent
+68,20,dotnet/maui,dotnet,ci-status-net11.md,1,first,2026-06-08 19:52:50+00:00,30,1086,0.0,0.11,1,1,0.11,same owner,minor reuse,no upstream parent
+72,20,dotnet/maui,dotnet,ci-status-net11.md,5,last,2026-06-25 16:27:53+00:00,35,1476,0.0,0.9,1,1,0.9,same repo,whole copy (1 source),no upstream parent
+73,21,dotnet/maui,dotnet,copilot-evaluate-tests.md,1,first,2026-03-25 14:44:35+00:00,11,226,0.0,0.066,1,0,0.066,,minor reuse,no upstream parent
+78,21,dotnet/maui,dotnet,copilot-evaluate-tests.md,6,last,2026-06-17 20:38:43+00:00,16,372,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+79,22,dotnet/maui,dotnet,copilot-review-tests.md,1,first,2026-06-08 21:58:57+00:00,21,388,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+85,22,dotnet/maui,dotnet,copilot-review-tests.md,7,last,2026-06-25 16:27:53+00:00,28,1357,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+86,23,dotnet/maui,dotnet,daily-repo-status.md,1,first,2026-02-13 16:15:34+00:00,4,93,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+88,23,dotnet/maui,dotnet,daily-repo-status.md,3,last,2026-06-17 20:00:11+00:00,4,93,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+89,24,dotnet/maui,dotnet,rerun-review-scanner.md,1,first,2026-06-08 21:10:53+00:00,7,454,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+93,24,dotnet/maui,dotnet,rerun-review-scanner.md,5,last,2026-06-25 15:39:22+00:00,14,681,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+94,25,dotnet/machinelearning,dotnet,ci-scan-feedback.agent.md,1,first,2026-06-08 07:52:26+00:00,41,1716,0.0,0.526,1,1,0.526,same owner,partial copy (1 source),no upstream parent
+95,25,dotnet/machinelearning,dotnet,ci-scan-feedback.agent.md,2,last,2026-06-09 09:31:33+00:00,41,1716,0.0,0.526,1,1,0.526,same owner,partial copy (1 source),no upstream parent
+96,26,dotnet/machinelearning,dotnet,ci-scan.agent.md,1,first,2026-06-08 07:52:26+00:00,20,882,0.0,0.035,1,0,0.035,,minor reuse,no upstream parent
+97,27,dotnet/machinelearning,dotnet,issue-triage.agent.md,1,first,2026-03-20 19:22:44+00:00,6,327,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+98,28,dotnet/machinelearning,dotnet,repo-health-check.md,1,first,2026-03-06 19:18:46+00:00,54,1425,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+99,28,dotnet/machinelearning,dotnet,repo-health-check.md,2,last,2026-03-10 11:24:47+00:00,54,1425,0.0,0.015,1,0,0.015,,minor reuse,no upstream parent
+100,29,dotnet/machinelearning,dotnet,repo-health-groom.md,1,first,2026-03-06 19:18:46+00:00,30,652,0.0,0.015,1,0,0.015,,minor reuse,no upstream parent
+101,29,dotnet/machinelearning,dotnet,repo-health-groom.md,2,last,2026-03-10 11:24:47+00:00,30,652,0.0,0.04,2,0,0.025,,minor reuse,no upstream parent
+102,30,dotnet/machinelearning,dotnet,repo-health-investigate.md,1,first,2026-03-06 19:18:46+00:00,37,797,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+103,30,dotnet/machinelearning,dotnet,repo-health-investigate.md,2,last,2026-03-10 11:24:47+00:00,37,797,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+104,31,npgsql/efcore.pg,npgsql,sync-to-latest-ef.md,1,first,2026-02-16 09:27:59+00:00,9,745,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+105,31,npgsql/efcore.pg,npgsql,sync-to-latest-ef.md,2,last,2026-03-05 09:50:15+00:00,9,749,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+108,33,microsoft/vstest,microsoft,build-failure-analysis.md,1,first,2026-06-19 12:08:15+00:00,1,18,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+109,34,microsoft/vstest,microsoft,code-simplifier.md,1,first,2026-06-19 12:08:15+00:00,40,1170,0.013,0.987,1,1,0.987,upstream template,whole copy (1 source),undeclared template copy
+110,35,microsoft/vstest,microsoft,daily-file-diet.md,1,first,2026-06-19 12:08:15+00:00,26,636,0.17,0.583,1,1,0.583,upstream template,partial copy (1 source),undeclared template copy
+111,36,microsoft/vstest,microsoft,daily-qa.md,1,first,2026-05-12 10:14:48+00:00,18,738,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+117,36,microsoft/vstest,microsoft,daily-qa.md,7,last,2026-05-18 08:39:31+00:00,23,1008,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+118,37,microsoft/vstest,microsoft,efficiency-improver.md,1,first,2026-06-19 12:08:15+00:00,54,2925,0.271,0.729,1,1,0.729,upstream template,partial copy (1 source),undeclared template copy
+119,38,microsoft/vstest,microsoft,http-link-checker.md,1,first,2026-06-10 13:26:11+00:00,19,683,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),undeclared template copy
+120,38,microsoft/vstest,microsoft,http-link-checker.md,2,last,2026-06-12 11:31:28+00:00,19,683,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),undeclared template copy
+121,39,microsoft/vstest,microsoft,issue-repro-triage.md,1,first,2026-05-12 10:14:48+00:00,18,654,0.014,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+131,39,microsoft/vstest,microsoft,issue-repro-triage.md,11,last,2026-05-18 09:19:29+00:00,35,1382,0.007,0.044,1,0,0.044,,minor reuse,no upstream parent
+132,40,microsoft/vstest,microsoft,malicious-code-scan.md,1,first,2026-06-19 12:08:15+00:00,37,1283,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),undeclared template copy
+133,41,microsoft/vstest,microsoft,markdown-linter.md,1,first,2026-06-19 12:08:15+00:00,13,291,0.11,0.89,1,1,0.89,upstream template,whole copy (1 source),undeclared template copy
+134,42,microsoft/vstest,microsoft,md-link-checker.md,1,first,2026-06-10 13:26:11+00:00,20,755,0.0,0.359,1,1,0.359,upstream template,partial copy (1 source),undeclared template copy
+136,42,microsoft/vstest,microsoft,md-link-checker.md,3,last,2026-06-19 13:54:17+00:00,19,713,0.0,0.348,1,1,0.348,upstream template,partial copy (1 source),undeclared template copy
+138,44,microsoft/vstest,microsoft,pr-expert-reviewer.md,1,first,2026-05-12 10:14:48+00:00,36,1210,0.017,0.027,1,0,0.027,,minor reuse,no upstream parent
+143,44,microsoft/vstest,microsoft,pr-expert-reviewer.md,6,last,2026-05-25 15:15:19+00:00,34,1250,0.017,0.066,2,0,0.048,,minor reuse,no upstream parent
+144,45,microsoft/vstest,microsoft,pr-iteration.md,1,first,2026-05-12 15:02:20+00:00,10,530,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+152,45,microsoft/vstest,microsoft,pr-iteration.md,9,last,2026-05-18 08:39:31+00:00,16,788,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+153,46,microsoft/vstest,microsoft,repository-quality-improver.md,1,first,2026-06-19 12:08:15+00:00,55,1650,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),undeclared template copy
+154,47,dotnet/SqlClient,dotnet,issue-triage.md,1,first,2026-05-12 21:12:23+00:00,21,796,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+158,47,dotnet/SqlClient,dotnet,issue-triage.md,5,last,2026-06-15 17:21:09+00:00,30,1472,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+159,48,Shazwazza/Articulate,Shazwazza,efficiency-improver.md,1,first,2026-05-25 19:05:39+00:00,55,2894,0.274,0.726,1,1,0.726,upstream template,partial copy (1 source),"declared, confirmed"
+160,48,Shazwazza/Articulate,Shazwazza,efficiency-improver.md,2,last,2026-06-01 15:38:06+00:00,55,2894,0.274,0.726,1,1,0.726,upstream template,partial copy (1 source),"declared, confirmed"
+161,49,dotnet/msbuild,dotnet,close-stale-prs.agent.md,1,first,2026-03-17 11:02:00+00:00,5,214,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+166,49,dotnet/msbuild,dotnet,close-stale-prs.agent.md,6,last,2026-06-25 10:58:39+00:00,9,653,0.0,1.0,1,1,1.0,same owner,whole copy (1 source),no upstream parent
+167,50,dotnet/msbuild,dotnet,flaky-test-detector.agent.md,1,first,2026-06-02 10:25:29+00:00,76,3937,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+176,50,dotnet/msbuild,dotnet,flaky-test-detector.agent.md,10,last,2026-06-25 10:58:39+00:00,63,4697,0.0,0.052,1,0,0.052,,minor reuse,no upstream parent
+177,51,dotnet/msbuild,dotnet,flaky-test-fixer.agent.md,1,first,2026-06-05 12:02:21+00:00,53,3489,0.0,0.056,1,0,0.056,,minor reuse,no upstream parent
+181,51,dotnet/msbuild,dotnet,flaky-test-fixer.agent.md,5,last,2026-06-25 10:58:39+00:00,53,3822,0.0,0.058,1,0,0.058,,minor reuse,no upstream parent
+200,54,Azure/azure-sdk-for-net,Azure,issue-triage.md,1,first,2026-03-10 16:56:29+00:00,12,841,0.032,0.968,2,1,0.954,same owner,whole copy (1 source),undeclared template copy
+219,54,Azure/azure-sdk-for-net,Azure,issue-triage.md,20,last,2026-06-26 21:59:51+00:00,93,3106,0.0,0.777,2,1,0.731,same owner,partial copy (1 source),undeclared template copy
+220,55,Azure/azure-sdk-for-net,Azure,mgmt-review.md,1,first,2026-05-27 03:38:03+00:00,23,938,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+227,55,Azure/azure-sdk-for-net,Azure,mgmt-review.md,8,last,2026-06-26 21:59:51+00:00,33,1831,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+228,56,OpenMS/OpenMS,OpenMS,changelog-sync.md,1,first,2026-03-16 14:33:14+00:00,15,504,0.0,0.081,1,0,0.081,,minor reuse,no upstream parent
+229,57,OpenMS/OpenMS,OpenMS,doc-sync.md,1,first,2026-03-04 10:15:43+00:00,14,518,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+232,57,OpenMS/OpenMS,OpenMS,doc-sync.md,4,last,2026-03-09 12:06:12+00:00,14,525,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+233,58,ReactiveX/RxPY,ReactiveX,repo-assist.md,1,first,2026-04-17 15:48:15+00:00,53,2991,0.26,0.286,1,1,0.286,other owner,minor reuse,undeclared template copy
+234,58,ReactiveX/RxPY,ReactiveX,repo-assist.md,2,last,2026-05-09 09:16:47+00:00,53,2991,0.26,0.286,1,1,0.286,other owner,minor reuse,undeclared template copy
+241,65,Azure/azure-sdk-for-python,Azure,doc-consistency-check.md,1,first,2026-04-27 23:39:28+00:00,4,223,0.0,0.951,1,1,0.951,same owner,whole copy (1 source),no upstream parent
+242,66,taosdata/TDengine,taosdata,issue-triage.md,1,first,2026-02-24 10:10:48+00:00,12,537,0.05,0.95,1,1,0.95,upstream template,whole copy (1 source),"declared, confirmed"
+243,66,taosdata/TDengine,taosdata,issue-triage.md,2,last,2026-02-24 10:14:27+00:00,12,537,0.05,0.95,1,1,0.95,upstream template,whole copy (1 source),"declared, confirmed"
+244,67,taosdata/TDengine,taosdata,weekly-report.md,1,first,2026-03-08 06:59:17+00:00,37,1034,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+245,68,openvinotoolkit/openvino,openvinotoolkit,ci-doctor-mq.md,1,first,2026-05-19 13:49:39+00:00,68,3965,0.0,0.294,1,1,0.294,same repo,minor reuse,"declared, confirmed"
+254,68,openvinotoolkit/openvino,openvinotoolkit,ci-doctor-mq.md,10,last,2026-06-25 14:46:46+00:00,90,4855,0.0,0.24,1,1,0.24,same repo,minor reuse,"declared, confirmed"
+255,69,openvinotoolkit/openvino,openvinotoolkit,ci-doctor.md,1,first,2026-04-20 10:39:52+00:00,26,1326,0.0,0.839,1,1,0.839,same owner,whole copy (1 source),"declared, confirmed"
+259,69,openvinotoolkit/openvino,openvinotoolkit,ci-doctor.md,5,last,2026-06-22 10:15:39+00:00,30,1866,0.0,0.877,2,2,0.629,same owner+same repo,collage (2+ sources),"declared, confirmed"
+260,70,internetarchive/openlibrary,internetarchive,issue_refinement.md,1,first,2026-02-28 03:03:53+00:00,30,1238,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+264,70,internetarchive/openlibrary,internetarchive,issue_refinement.md,5,last,2026-03-07 00:30:51+00:00,26,1020,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+265,71,dotnet/runtime,dotnet,breaking-change-doc.md,1,first,2026-04-04 00:41:47+00:00,7,163,0.055,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+266,71,dotnet/runtime,dotnet,breaking-change-doc.md,2,last,2026-05-08 19:26:42+00:00,7,163,0.055,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+267,72,dotnet/runtime,dotnet,ci-failure-fix.md,1,first,2026-06-09 09:37:11+00:00,87,3614,0.0,0.041,1,0,0.041,,minor reuse,no upstream parent
+268,72,dotnet/runtime,dotnet,ci-failure-fix.md,2,last,2026-06-16 13:08:31+00:00,87,3650,0.0,0.041,1,0,0.041,,minor reuse,no upstream parent
+269,73,dotnet/runtime,dotnet,ci-failure-scan-feedback.md,1,first,2026-05-28 10:59:24+00:00,36,1633,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+275,73,dotnet/runtime,dotnet,ci-failure-scan-feedback.md,7,last,2026-06-11 07:37:48+00:00,60,3462,0.0,0.229,1,1,0.229,same owner,minor reuse,no upstream parent
+276,74,dotnet/runtime,dotnet,ci-failure-scan.md,1,first,2026-05-06 16:36:33+00:00,67,4378,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+293,74,dotnet/runtime,dotnet,ci-failure-scan.md,18,last,2026-06-18 12:45:45+00:00,71,3950,0.0,0.027,2,0,0.019,,minor reuse,no upstream parent
+294,75,dotnet/runtime,dotnet,code-review.md,1,first,2026-03-25 01:40:14+00:00,3,85,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+296,75,dotnet/runtime,dotnet,code-review.md,3,last,2026-06-15 11:36:55+00:00,8,209,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+297,76,dotnet/runtime,dotnet,copilot-echo.md,1,first,2026-03-25 00:53:09+00:00,4,96,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+298,76,dotnet/runtime,dotnet,copilot-echo.md,2,last,2026-05-08 19:26:42+00:00,4,96,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+299,77,dgreif/ring,dgreif,issue-triage.md,1,first,2026-06-06 11:44:57+00:00,24,1456,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+300,77,dgreif/ring,dgreif,issue-triage.md,2,last,2026-06-25 12:46:56+00:00,24,1456,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+303,80,microsoft/pxt-arcade,microsoft,documentation.md,1,first,2025-12-10 19:16:53+00:00,15,416,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+305,80,microsoft/pxt-arcade,microsoft,documentation.md,3,last,2026-02-12 23:22:51+00:00,15,451,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+306,81,microsoft/pxt-arcade,microsoft,triage.md,1,first,2025-12-03 17:56:51+00:00,38,807,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+314,81,microsoft/pxt-arcade,microsoft,triage.md,9,last,2025-12-08 17:22:19+00:00,53,1133,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+318,82,Alfresco/alfresco-ng2-components,Alfresco,supply-chain-review.md,1,first,2026-05-29 13:55:51+00:00,74,2203,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+320,82,Alfresco/alfresco-ng2-components,Alfresco,supply-chain-review.md,3,last,2026-06-11 10:26:12+00:00,76,2304,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+321,83,storybookjs/storybook,storybookjs,code-simplifier.md,1,first,2026-03-07 19:25:50+00:00,54,1505,0.01,0.99,1,1,0.99,upstream template,whole copy (1 source),"declared, confirmed"
+322,83,storybookjs/storybook,storybookjs,code-simplifier.md,2,last,2026-03-07 19:34:44+00:00,47,1234,0.012,0.976,2,1,0.97,upstream template,whole copy (1 source),"declared, confirmed"
+323,84,storybookjs/storybook,storybookjs,duplicate-code-detector.md,1,first,2026-03-07 19:57:09+00:00,29,1117,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+324,84,storybookjs/storybook,storybookjs,duplicate-code-detector.md,2,last,2026-03-07 20:23:28+00:00,29,1060,0.0,0.946,1,1,0.946,upstream template,whole copy (1 source),"declared, confirmed"
+325,85,microsoft/pxt,microsoft,documentation.md,1,first,2025-12-10 19:41:01+00:00,18,508,0.0,0.039,1,0,0.039,,minor reuse,no upstream parent
+327,85,microsoft/pxt,microsoft,documentation.md,3,last,2025-12-10 22:43:49+00:00,18,640,0.0,0.031,1,0,0.031,,minor reuse,no upstream parent
+328,86,PowerShell/vscode-powershell,PowerShell,issue-comment-handler.md,1,first,2026-06-18 17:23:52+00:00,25,787,0.0,0.0,0,0,0.0,,no shared paragraphs,"declared, unresolvable"
+329,87,PowerShell/vscode-powershell,PowerShell,issue-triage.md,1,first,2026-02-23 22:08:47+00:00,12,537,0.05,0.95,1,1,0.95,upstream template,whole copy (1 source),"declared, confirmed"
+330,87,PowerShell/vscode-powershell,PowerShell,issue-triage.md,2,last,2026-06-18 17:23:52+00:00,14,919,0.0,0.0,0,0,0.0,,no shared paragraphs,"declared, confirmed"
+331,88,PowerShell/vscode-powershell,PowerShell,stale-closer.md,1,first,2026-06-18 17:23:52+00:00,18,762,0.0,0.0,0,0,0.0,,no shared paragraphs,"declared, unresolvable"
+332,89,Azure/azure-sdk-for-js,Azure,agent-observability.md,1,first,2026-06-15 18:51:55+00:00,23,743,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+335,89,Azure/azure-sdk-for-js,Azure,agent-observability.md,4,last,2026-06-25 20:11:44+00:00,23,743,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+336,90,Azure/azure-sdk-for-js,Azure,archie.md,1,first,2026-03-24 21:46:48+00:00,13,429,0.0,0.375,1,1,0.375,same repo,partial copy (1 source),no upstream parent
+351,90,Azure/azure-sdk-for-js,Azure,archie.md,16,last,2026-06-25 20:11:44+00:00,17,506,0.0,0.37,1,1,0.37,same repo,partial copy (1 source),no upstream parent
+352,91,Azure/azure-sdk-for-js,Azure,dash.md,1,first,2026-03-24 18:51:23+00:00,12,406,0.0,0.091,1,0,0.091,,minor reuse,no upstream parent
+366,91,Azure/azure-sdk-for-js,Azure,dash.md,15,last,2026-06-25 20:11:44+00:00,20,794,0.0,0.128,1,1,0.128,same repo,minor reuse,no upstream parent
+367,92,Azure/azure-sdk-for-js,Azure,dexter.md,1,first,2026-03-24 19:42:57+00:00,15,479,0.0,0.18,3,1,0.123,same repo,minor reuse,no upstream parent
+382,92,Azure/azure-sdk-for-js,Azure,dexter.md,16,last,2026-06-25 20:11:44+00:00,18,515,0.0,0.217,3,1,0.165,same repo,minor reuse,no upstream parent
+383,93,Azure/azure-sdk-for-js,Azure,docs-consistency-check.md,1,first,2026-02-25 21:55:38+00:00,4,207,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+389,93,Azure/azure-sdk-for-js,Azure,docs-consistency-check.md,7,last,2026-06-25 20:11:44+00:00,4,207,0.0,0.947,1,1,0.947,same owner,whole copy (1 source),no upstream parent
+390,94,Azure/azure-sdk-for-js,Azure,fix-test-failures.md,1,first,2026-03-04 20:28:46+00:00,18,635,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+400,94,Azure/azure-sdk-for-js,Azure,fix-test-failures.md,11,last,2026-06-25 20:11:44+00:00,36,1615,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+401,95,Azure/azure-sdk-for-js,Azure,issue-triage.md,1,first,2026-04-16 16:52:30+00:00,87,2783,0.0,0.731,1,1,0.731,same owner,partial copy (1 source),no upstream parent
+407,95,Azure/azure-sdk-for-js,Azure,issue-triage.md,7,last,2026-06-25 20:11:44+00:00,87,2783,0.0,0.731,1,1,0.731,same owner,partial copy (1 source),no upstream parent
+408,96,Azure/azure-sdk-for-js,Azure,mgmt-guidance.md,1,first,2026-06-18 09:11:37+00:00,11,481,0.0,0.324,1,1,0.324,same repo,minor reuse,no upstream parent
+411,96,Azure/azure-sdk-for-js,Azure,mgmt-guidance.md,4,last,2026-06-25 20:11:44+00:00,11,481,0.0,0.324,1,1,0.324,same repo,minor reuse,no upstream parent
+412,97,Azure/azure-sdk-for-js,Azure,mgmt-review.md,1,first,2026-03-17 17:07:02+00:00,16,488,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+436,97,Azure/azure-sdk-for-js,Azure,mgmt-review.md,25,last,2026-06-25 20:11:44+00:00,20,555,0.0,0.236,1,1,0.236,same repo,minor reuse,no upstream parent
+437,98,Azure/azure-sdk-for-js,Azure,scribe.md,1,first,2026-03-24 18:58:58+00:00,14,458,0.0,0.081,1,0,0.081,,minor reuse,no upstream parent
+451,98,Azure/azure-sdk-for-js,Azure,scribe.md,15,last,2026-06-25 20:11:44+00:00,17,494,0.0,0.395,2,1,0.354,same repo,partial copy (1 source),no upstream parent
+452,99,Azure/azure-sdk-for-js,Azure,sentinel.md,1,first,2026-03-24 18:57:04+00:00,13,575,0.0,0.318,1,1,0.318,same repo,minor reuse,no upstream parent
+466,99,Azure/azure-sdk-for-js,Azure,sentinel.md,15,last,2026-06-25 20:11:44+00:00,16,611,0.0,0.342,1,1,0.342,same repo,partial copy (1 source),no upstream parent
+467,100,Azure/azure-sdk-for-js,Azure,tester.md,1,first,2026-03-24 19:34:07+00:00,16,435,0.0,0.43,3,1,0.338,same repo,partial copy (1 source),no upstream parent
+481,100,Azure/azure-sdk-for-js,Azure,tester.md,15,last,2026-06-25 20:11:44+00:00,19,471,0.0,0.452,3,1,0.367,same repo,partial copy (1 source),no upstream parent
+482,101,Azure/azure-sdk-for-js,Azure,upgrade-agentic-workflows.md,1,first,2026-06-09 16:48:01+00:00,23,978,0.0,0.008,1,0,0.008,,minor reuse,no upstream parent
+488,101,Azure/azure-sdk-for-js,Azure,upgrade-agentic-workflows.md,7,last,2026-06-25 20:11:44+00:00,23,978,0.0,0.008,1,0,0.008,,minor reuse,no upstream parent
+489,102,WordPress/grunt-patch-wordpress,WordPress,dependabot-pr-review.md,1,first,2026-05-28 03:56:57+00:00,5,119,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+490,103,ptarmiganlabs/butler-sos,ptarmiganlabs,duplicate-code-detector.md,1,first,2026-03-02 06:24:24+00:00,29,1117,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+494,103,ptarmiganlabs/butler-sos,ptarmiganlabs,duplicate-code-detector.md,5,last,2026-05-23 05:49:05+00:00,26,960,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+495,104,ptarmiganlabs/butler-sos,ptarmiganlabs,grumpy-reviewer.md,1,first,2026-05-23 06:05:57+00:00,20,843,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+497,104,ptarmiganlabs/butler-sos,ptarmiganlabs,grumpy-reviewer.md,3,last,2026-05-23 15:03:46+00:00,20,843,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+498,105,IgniteUI/igniteui-docfx,IgniteUI,sync-jp-docs.md,1,first,2026-03-12 12:56:07+00:00,24,594,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+499,105,IgniteUI/igniteui-docfx,IgniteUI,sync-jp-docs.md,2,last,2026-03-26 13:37:23+00:00,30,818,0.0,0.446,1,1,0.446,same owner,partial copy (1 source),no upstream parent
+500,106,appwrite/appwrite,appwrite,issue-triage.md,1,first,2025-10-28 03:00:30+00:00,12,538,0.05,0.95,1,1,0.95,upstream template,whole copy (1 source),"declared, confirmed"
+512,106,appwrite/appwrite,appwrite,issue-triage.md,13,last,2025-11-12 19:49:58+00:00,17,923,0.029,0.105,1,1,0.105,upstream template,minor reuse,"declared, confirmed"
+513,107,microsoft/Web-Dev-For-Beginners,microsoft,daily-repo-status.md,1,first,2026-02-06 15:34:39+00:00,4,93,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+514,108,elastic/kibana,elastic,backlog-groom.md,1,first,2026-05-19 17:08:05+00:00,18,470,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+516,108,elastic/kibana,elastic,backlog-groom.md,3,last,2026-06-03 13:00:11+00:00,18,470,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+517,109,elastic/kibana,elastic,failed-backport-resolver.md,1,first,2026-05-15 17:23:37+00:00,20,1110,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+523,109,elastic/kibana,elastic,failed-backport-resolver.md,7,last,2026-06-23 19:51:27+00:00,5,787,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+524,110,elastic/kibana,elastic,failed-test-investigator.md,1,first,2026-05-05 13:21:28+00:00,15,865,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+537,110,elastic/kibana,elastic,failed-test-investigator.md,14,last,2026-06-19 14:39:53+00:00,35,987,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+538,111,elastic/kibana,elastic,flaky-test-fixer.md,1,first,2026-06-10 06:32:14+00:00,8,223,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+543,111,elastic/kibana,elastic,flaky-test-fixer.md,6,last,2026-06-18 09:49:03+00:00,10,327,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+544,112,elastic/kibana,elastic,reviewer-claude.md,1,first,2026-04-28 21:00:30+00:00,1,30,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+554,112,elastic/kibana,elastic,reviewer-claude.md,11,last,2026-06-23 22:54:19+00:00,1,60,0.0,1.0,1,0,1.0,,minor reuse,no upstream parent
+555,113,elastic/kibana,elastic,reviewer-codex.md,1,first,2026-05-05 23:21:51+00:00,1,30,0.0,1.0,1,0,1.0,,minor reuse,no upstream parent
+559,113,elastic/kibana,elastic,reviewer-codex.md,5,last,2026-06-03 17:38:02+00:00,2,79,0.0,0.759,1,0,0.759,,minor reuse,no upstream parent
+560,114,elastic/kibana,elastic,reviewer-scout.md,1,first,2026-06-19 13:38:01+00:00,2,74,0.0,1.0,1,1,1.0,same repo,whole copy (1 source),no upstream parent
+561,114,elastic/kibana,elastic,reviewer-scout.md,2,last,2026-06-19 15:11:48+00:00,2,74,0.0,1.0,1,1,1.0,same repo,whole copy (1 source),no upstream parent
+562,115,lablup/backend.ai-webui,lablup,daily-test-improver.md,1,first,2025-11-25 09:26:02+00:00,46,1629,0.264,0.736,1,1,0.736,upstream template,partial copy (1 source),"declared, confirmed"
+565,115,lablup/backend.ai-webui,lablup,daily-test-improver.md,4,last,2026-01-06 00:32:56+00:00,46,1652,0.26,0.711,1,1,0.711,upstream template,partial copy (1 source),"declared, confirmed"
+566,116,lablup/backend.ai-webui,lablup,e2e-healer.md,1,first,2026-02-09 15:12:35+00:00,6,538,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+569,116,lablup/backend.ai-webui,lablup,e2e-healer.md,4,last,2026-06-14 11:28:53+00:00,6,538,0.0,1.0,1,1,1.0,same repo,whole copy (1 source),no upstream parent
+570,117,lablup/backend.ai-webui,lablup,e2e-watchdog.md,1,first,2026-02-09 15:14:22+00:00,6,410,0.0,1.0,1,1,1.0,same repo,whole copy (1 source),no upstream parent
+573,117,lablup/backend.ai-webui,lablup,e2e-watchdog.md,4,last,2026-06-14 11:28:53+00:00,6,410,0.0,1.0,1,1,1.0,same repo,whole copy (1 source),no upstream parent
+574,118,lablup/backend.ai-webui,lablup,storybook-coverage-checker.md,1,first,2026-02-04 07:07:34+00:00,18,640,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+575,119,lablup/backend.ai-webui,lablup,weekly-team-status.md,1,first,2025-12-08 08:40:32+00:00,4,82,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, unresolvable"
+576,119,lablup/backend.ai-webui,lablup,weekly-team-status.md,2,last,2026-01-06 00:32:56+00:00,4,82,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, unresolvable"
+577,120,Josverl/micropython-stubs,Josverl,quality-issue-triage.md,1,first,2026-05-09 19:36:19+00:00,11,539,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+579,120,Josverl/micropython-stubs,Josverl,quality-issue-triage.md,3,last,2026-05-10 17:36:01+00:00,13,626,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+584,125,licensee/licensee,licensee,repo-assist.md,1,first,2026-03-02 03:15:28+00:00,42,2810,0.299,0.701,1,1,0.701,upstream template,partial copy (1 source),"declared, confirmed"
+599,125,licensee/licensee,licensee,repo-assist.md,16,last,2026-05-06 16:01:24+00:00,43,3069,0.255,0.583,1,1,0.583,upstream template,partial copy (1 source),"declared, confirmed"
+602,126,pulumi/pulumi-kubernetes-operator,pulumi,kubernetes-operator-pr-rereview.md,3,first,2026-05-29 23:27:27+00:00,1,26,0.0,1.0,1,0,1.0,,minor reuse,"declared, confirmed"
+605,127,pulumi/pulumi-kubernetes-operator,pulumi,kubernetes-operator-pr-review.md,3,first,2026-05-29 23:27:27+00:00,1,28,0.0,1.0,1,0,1.0,,minor reuse,"declared, confirmed"
+620,142,pulumi/pulumi-terraform-bridge,pulumi,terraform-bridge-pr-rereview.md,1,first,2026-03-06 18:53:20+00:00,5,165,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+623,142,pulumi/pulumi-terraform-bridge,pulumi,terraform-bridge-pr-rereview.md,4,last,2026-06-03 18:17:57+00:00,1,26,0.0,1.0,1,0,1.0,,minor reuse,"declared, confirmed"
+624,143,pulumi/pulumi-terraform-bridge,pulumi,terraform-bridge-pr-review.md,1,first,2026-03-06 18:53:20+00:00,4,179,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+627,143,pulumi/pulumi-terraform-bridge,pulumi,terraform-bridge-pr-review.md,4,last,2026-06-03 18:17:57+00:00,1,28,0.0,1.0,1,0,1.0,,minor reuse,"declared, confirmed"
+634,150,royshil/obs-backgroundremoval,royshil,validate-pr.md,1,first,2026-03-30 22:54:20+00:00,8,265,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+635,151,RustPython/RustPython,RustPython,upgrade-pylib.md,1,first,2026-02-14 02:26:03+00:00,14,282,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+641,151,RustPython/RustPython,RustPython,upgrade-pylib.md,7,last,2026-06-12 02:08:27+00:00,13,313,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+642,152,wp-media/wp-rocket,wp-media,pr-release-doc-generator.md,1,first,2026-02-20 17:25:33+00:00,55,1514,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+645,152,wp-media/wp-rocket,wp-media,pr-release-doc-generator.md,4,last,2026-02-20 22:18:30+00:00,48,1335,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+648,155,elastic/elasticsearch-specification,elastic,kibana-type-check-analysis.md,1,first,2026-05-22 18:30:50+00:00,8,273,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+653,155,elastic/elasticsearch-specification,elastic,kibana-type-check-analysis.md,6,last,2026-06-25 08:44:23+00:00,8,393,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+654,156,elastic/elasticsearch-specification,elastic,spec-drift.md,1,first,2026-05-21 08:32:38+00:00,11,779,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+656,156,elastic/elasticsearch-specification,elastic,spec-drift.md,3,last,2026-05-27 09:47:01+00:00,10,744,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+657,157,Azure/azure-sdk-for-go,Azure,issue-triage.md,1,first,2026-04-21 00:08:02+00:00,75,2515,0.0,0.899,1,1,0.899,same owner,whole copy (1 source),no upstream parent
+658,158,Azure/azure-sdk-for-go,Azure,mgmt-review.md,1,first,2026-04-20 21:02:57+00:00,32,1076,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+659,158,Azure/azure-sdk-for-go,Azure,mgmt-review.md,2,last,2026-05-16 00:36:55+00:00,42,1366,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+660,159,SatelliteQE/broker,SatelliteQE,wiki-sync.md,1,first,2026-04-17 20:58:13+00:00,26,933,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+661,160,sergey-tihon/Clippit,sergey-tihon,clippy.md,1,first,2026-03-11 19:06:15+00:00,43,2587,0.3,0.666,1,1,0.666,upstream template,partial copy (1 source),"declared, confirmed"
+678,160,sergey-tihon/Clippit,sergey-tihon,clippy.md,18,last,2026-06-23 19:42:21+00:00,46,2781,0.204,0.764,1,1,0.764,other owner,partial copy (1 source),"declared, confirmed"
+679,161,microsoft/gctoolkit,microsoft,relevance-check.md,1,first,2026-02-26 14:16:58+00:00,7,340,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+681,161,microsoft/gctoolkit,microsoft,relevance-check.md,3,last,2026-02-26 15:50:07+00:00,7,340,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+682,162,microsoft/gctoolkit,microsoft,relevance-summary.md,1,first,2026-02-26 18:10:59+00:00,9,317,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+683,163,apolloconfig/apollo,apolloconfig,issue-triage.md,1,first,2026-02-10 13:59:22+00:00,16,409,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+684,163,apolloconfig/apollo,apolloconfig,issue-triage.md,2,last,2026-02-13 08:31:15+00:00,16,409,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+685,164,evcc-io/evcc,evcc-io,triage-agent.md,1,first,2026-01-23 16:52:01+00:00,7,144,0.0,0.0,0,0,0.0,,no shared paragraphs,"declared, body diverged from declared template"
+687,164,evcc-io/evcc,evcc-io,triage-agent.md,3,last,2026-01-26 16:38:08+00:00,7,144,0.0,0.0,0,0,0.0,,no shared paragraphs,"declared, body diverged from declared template"
+692,169,adoptium/containers,adoptium,dockerfile-readiness.md,1,first,2026-04-24 09:28:42+00:00,29,1038,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+698,169,adoptium/containers,adoptium,dockerfile-readiness.md,7,last,2026-06-14 22:09:26+00:00,43,2242,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+705,176,elastic/terraform-provider-elasticstack,elastic,change-factory-issue.md,1,first,2026-04-26 04:13:36+00:00,19,872,0.0,0.019,1,0,0.019,,minor reuse,no upstream parent
+727,176,elastic/terraform-provider-elasticstack,elastic,change-factory-issue.md,23,last,2026-06-02 11:35:44+00:00,27,1336,0.0,0.07,1,0,0.07,,minor reuse,no upstream parent
+728,177,elastic/terraform-provider-elasticstack,elastic,ci-deadcode-removal-rotation.md,1,first,2026-05-16 11:58:01+00:00,5,519,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+736,177,elastic/terraform-provider-elasticstack,elastic,ci-deadcode-removal-rotation.md,9,last,2026-06-03 04:55:17+00:00,8,592,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+737,178,elastic/terraform-provider-elasticstack,elastic,code-factory-issue.md,1,first,2026-04-23 23:36:05+00:00,10,421,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+766,178,elastic/terraform-provider-elasticstack,elastic,code-factory-issue.md,30,last,2026-06-02 11:35:44+00:00,22,847,0.0,0.165,3,0,0.09,,minor reuse,no upstream parent
+767,179,elastic/terraform-provider-elasticstack,elastic,duplicate-code-detector.md,1,first,2026-04-23 04:06:45+00:00,29,1034,0.0,0.973,2,1,0.907,upstream template,whole copy (1 source),undeclared template copy
+779,179,elastic/terraform-provider-elasticstack,elastic,duplicate-code-detector.md,13,last,2026-06-02 11:35:44+00:00,30,1065,0.0,0.974,2,1,0.881,upstream template,whole copy (1 source),undeclared template copy
+780,180,elastic/terraform-provider-elasticstack,elastic,flaky-test-catcher.md,1,first,2026-05-05 10:47:45+00:00,13,678,0.0,0.088,1,0,0.088,,minor reuse,no upstream parent
+786,180,elastic/terraform-provider-elasticstack,elastic,flaky-test-catcher.md,7,last,2026-06-02 11:35:44+00:00,14,707,0.0,0.129,1,1,0.129,same repo,minor reuse,no upstream parent
+787,181,elastic/terraform-provider-elasticstack,elastic,issue-classifier.md,1,first,2026-05-14 11:20:15+00:00,28,1078,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+792,181,elastic/terraform-provider-elasticstack,elastic,issue-classifier.md,6,last,2026-06-02 11:35:44+00:00,28,1078,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+793,182,elastic/terraform-provider-elasticstack,elastic,kibana-spec-impact.md,1,first,2026-04-17 07:52:22+00:00,7,523,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+803,182,elastic/terraform-provider-elasticstack,elastic,kibana-spec-impact.md,11,last,2026-06-02 11:35:44+00:00,7,521,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+804,183,elastic/terraform-provider-elasticstack,elastic,openspec-verify-label.md,1,first,2026-03-25 03:52:09+00:00,24,626,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+833,183,elastic/terraform-provider-elasticstack,elastic,openspec-verify-label.md,30,last,2026-06-02 11:35:44+00:00,20,740,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+834,184,elastic/terraform-provider-elasticstack,elastic,reproducer-factory-issue.md,1,first,2026-05-14 02:35:56+00:00,26,1167,0.0,0.05,2,0,0.029,,minor reuse,no upstream parent
+846,184,elastic/terraform-provider-elasticstack,elastic,reproducer-factory-issue.md,13,last,2026-06-02 11:35:44+00:00,26,1165,0.0,0.05,2,0,0.029,,minor reuse,no upstream parent
+847,185,elastic/terraform-provider-elasticstack,elastic,research-factory-issue.md,1,first,2026-05-08 12:38:15+00:00,19,657,0.0,0.091,1,0,0.091,,minor reuse,no upstream parent
+865,185,elastic/terraform-provider-elasticstack,elastic,research-factory-issue.md,19,last,2026-06-02 11:35:44+00:00,18,734,0.0,0.067,2,0,0.035,,minor reuse,no upstream parent
+866,186,elastic/terraform-provider-elasticstack,elastic,schema-coverage-rotation.md,1,first,2026-03-05 00:38:50+00:00,10,364,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+893,186,elastic/terraform-provider-elasticstack,elastic,schema-coverage-rotation.md,28,last,2026-06-02 11:35:44+00:00,11,494,0.0,0.2,1,1,0.2,same repo,minor reuse,no upstream parent
+894,187,elastic/terraform-provider-elasticstack,elastic,security-role-docs-drift.md,1,first,2026-05-27 10:51:51+00:00,3,171,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+895,187,elastic/terraform-provider-elasticstack,elastic,security-role-docs-drift.md,2,last,2026-06-02 11:35:44+00:00,3,171,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+896,188,elastic/terraform-provider-elasticstack,elastic,semantic-function-refactor.md,1,first,2026-05-04 23:22:27+00:00,45,1454,0.017,0.107,1,1,0.107,same repo,minor reuse,undeclared template copy
+909,188,elastic/terraform-provider-elasticstack,elastic,semantic-function-refactor.md,14,last,2026-06-02 11:35:44+00:00,46,1474,0.017,0.127,1,1,0.127,same repo,minor reuse,undeclared template copy
+916,195,advanced-security/advanced-security-material,advanced-security,codeql-version-tracker.md,1,first,2026-04-21 19:12:16+00:00,30,905,0.0,0.009,1,0,0.009,,minor reuse,no upstream parent
+923,195,advanced-security/advanced-security-material,advanced-security,codeql-version-tracker.md,8,last,2026-06-23 16:41:59+00:00,33,1348,0.0,0.006,1,0,0.006,,minor reuse,no upstream parent
+924,196,advanced-security/advanced-security-material,advanced-security,update-ghas-matrix.md,1,first,2026-03-20 20:59:58+00:00,16,548,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+934,196,advanced-security/advanced-security-material,advanced-security,update-ghas-matrix.md,11,last,2026-06-23 15:48:35+00:00,32,1446,0.0,0.006,1,0,0.006,,minor reuse,no upstream parent
+937,199,anweiss/cddl,anweiss,ci-doctor.md,1,first,2026-04-06 18:55:50+00:00,24,1184,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+938,200,r12f/rnp,r12f,daily-repo-status.md,1,first,2026-02-03 01:18:33+00:00,4,93,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+939,201,guitarrapc/githubactions-lab,guitarrapc,monthly-oss-repo-status.md,1,first,2026-04-01 08:01:37+00:00,3,99,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+941,201,guitarrapc/githubactions-lab,guitarrapc,monthly-oss-repo-status.md,3,last,2026-04-01 10:45:38+00:00,3,99,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+942,202,Azure/azure-sdk-for-rust,Azure,issue-triage.md,1,first,2026-03-10 03:21:00+00:00,12,862,0.031,0.384,1,1,0.384,upstream template,partial copy (1 source),"declared, confirmed"
+951,202,Azure/azure-sdk-for-rust,Azure,issue-triage.md,10,last,2026-05-18 19:22:49+00:00,62,1753,0.0,0.434,2,1,0.428,same owner,partial copy (1 source),"declared, confirmed"
+952,203,prowler-cloud/prowler,prowler-cloud,issue-triage.md,1,first,2026-02-23 15:09:35+00:00,3,74,0.0,0.23,1,0,0.23,,minor reuse,no upstream parent
+953,204,microsoft/vscode-pylint,microsoft,check-python-versions.md,1,first,2026-02-17 21:42:37+00:00,17,486,0.0,1.0,1,1,1.0,same owner,whole copy (1 source),no upstream parent
+956,204,microsoft/vscode-pylint,microsoft,check-python-versions.md,4,last,2026-06-23 19:22:55+00:00,16,487,0.0,1.0,1,1,1.0,same owner,whole copy (1 source),no upstream parent
+957,205,microsoft/vscode-pylint,microsoft,extension-template-sync.md,1,first,2026-02-25 18:46:09+00:00,22,775,0.0,0.088,1,0,0.088,,minor reuse,no upstream parent
+963,205,microsoft/vscode-pylint,microsoft,extension-template-sync.md,7,last,2026-06-23 19:22:55+00:00,23,777,0.0,0.946,1,1,0.946,same owner,whole copy (1 source),no upstream parent
+964,206,microsoft/vscode-pylint,microsoft,issue-triage.md,1,first,2026-02-25 01:01:26+00:00,35,1301,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+969,206,microsoft/vscode-pylint,microsoft,issue-triage.md,6,last,2026-06-23 19:22:55+00:00,45,1761,0.0,0.857,1,1,0.857,same owner,whole copy (1 source),no upstream parent
+970,207,adoptium/api.adoptium.net,adoptium,production-branch-checker.md,1,first,2026-05-29 15:25:37+00:00,47,1861,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+971,207,adoptium/api.adoptium.net,adoptium,production-branch-checker.md,2,last,2026-06-01 10:55:32+00:00,47,1900,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+974,210,pulumi/pulumi-cdk,pulumi,cdk-pr-rereview.md,1,first,2026-03-11 13:16:30+00:00,5,165,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+975,211,pulumi/pulumi-cdk,pulumi,cdk-pr-review.md,1,first,2026-03-11 13:16:30+00:00,4,179,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+976,212,microsoft/vscode-black-formatter,microsoft,check-python-versions.md,1,first,2026-02-20 22:33:27+00:00,16,485,0.0,1.0,1,1,1.0,same owner,whole copy (1 source),no upstream parent
+978,212,microsoft/vscode-black-formatter,microsoft,check-python-versions.md,3,last,2026-06-23 19:17:50+00:00,16,485,0.0,1.0,1,1,1.0,same owner,whole copy (1 source),no upstream parent
+979,213,microsoft/vscode-black-formatter,microsoft,extension-template-sync.md,1,first,2026-02-25 18:46:34+00:00,22,771,0.0,0.947,1,1,0.947,same owner,whole copy (1 source),no upstream parent
+985,213,microsoft/vscode-black-formatter,microsoft,extension-template-sync.md,7,last,2026-06-23 19:17:50+00:00,23,773,0.0,0.944,1,1,0.944,same owner,whole copy (1 source),no upstream parent
+986,214,microsoft/vscode-black-formatter,microsoft,issue-triage.md,1,first,2026-02-25 17:54:32+00:00,35,1297,0.0,0.787,1,1,0.787,same owner,partial copy (1 source),no upstream parent
+990,214,microsoft/vscode-black-formatter,microsoft,issue-triage.md,5,last,2026-06-23 19:17:50+00:00,45,1757,0.0,0.857,1,1,0.857,same owner,whole copy (1 source),no upstream parent
+991,215,py-why/dowhy,py-why,repo-assist.md,1,first,2026-03-18 16:54:27+00:00,44,2580,0.303,0.697,1,1,0.697,upstream template,partial copy (1 source),"declared, confirmed"
+994,215,py-why/dowhy,py-why,repo-assist.md,4,last,2026-04-14 07:31:18+00:00,44,2580,0.303,0.697,1,1,0.697,upstream template,partial copy (1 source),"declared, confirmed"
+995,216,microsoft/vscode-isort,microsoft,check-python-versions.md,1,first,2026-02-17 21:32:22+00:00,17,486,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+998,216,microsoft/vscode-isort,microsoft,check-python-versions.md,4,last,2026-06-23 19:18:45+00:00,16,487,0.0,1.0,1,1,1.0,same owner,whole copy (1 source),no upstream parent
+999,217,microsoft/vscode-isort,microsoft,extension-template-sync.md,1,first,2026-02-25 18:46:40+00:00,22,757,0.0,0.946,1,1,0.946,same owner,whole copy (1 source),no upstream parent
+1005,217,microsoft/vscode-isort,microsoft,extension-template-sync.md,7,last,2026-06-23 19:18:45+00:00,23,759,0.0,0.943,1,1,0.943,same owner,whole copy (1 source),no upstream parent
+1006,218,microsoft/vscode-isort,microsoft,issue-triage.md,1,first,2026-02-25 17:54:23+00:00,35,1283,0.0,0.746,1,1,0.746,same owner,partial copy (1 source),no upstream parent
+1010,218,microsoft/vscode-isort,microsoft,issue-triage.md,5,last,2026-06-23 19:18:45+00:00,45,1743,0.0,0.856,1,1,0.856,same owner,whole copy (1 source),no upstream parent
+1013,221,NikiforovAll/keycloak-authorization-services-dotnet,NikiforovAll,keybot.md,1,first,2026-03-29 13:12:27+00:00,33,1041,0.132,0.215,1,1,0.215,upstream template,minor reuse,"declared, confirmed"
+1017,221,NikiforovAll/keycloak-authorization-services-dotnet,NikiforovAll,keybot.md,5,last,2026-05-02 16:09:19+00:00,34,1093,0.125,0.205,1,1,0.205,upstream template,minor reuse,"declared, confirmed"
+1018,222,getindata/kedro-vertexai,getindata,dependabot-fix.md,1,first,2026-03-19 11:59:13+00:00,17,624,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1019,223,getindata/kedro-vertexai,getindata,dependabot-review.md,1,first,2026-03-25 12:49:11+00:00,11,302,0.0,0.149,1,1,0.149,same repo,minor reuse,no upstream parent
+1020,224,baizhiheizi/quill,baizhiheizi,accessibility-review.md,1,first,2026-06-09 21:44:54+00:00,7,378,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+1022,224,baizhiheizi/quill,baizhiheizi,accessibility-review.md,3,last,2026-06-15 04:49:19+00:00,6,190,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+1023,225,baizhiheizi/quill,baizhiheizi,agentic-wiki-writer.md,1,first,2026-06-09 21:44:54+00:00,136,4350,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+1024,225,baizhiheizi/quill,baizhiheizi,agentic-wiki-writer.md,2,last,2026-06-15 01:28:32+00:00,136,4350,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+1025,226,baizhiheizi/quill,baizhiheizi,code-simplifier.md,1,first,2026-06-09 21:44:54+00:00,40,1169,0.013,0.987,1,1,0.987,upstream template,whole copy (1 source),"declared, confirmed"
+1026,226,baizhiheizi/quill,baizhiheizi,code-simplifier.md,2,last,2026-06-15 01:28:32+00:00,40,1169,0.013,0.987,1,1,0.987,upstream template,whole copy (1 source),"declared, confirmed"
+1027,227,baizhiheizi/quill,baizhiheizi,discussion-task-miner.md,1,first,2026-06-14 14:09:42+00:00,28,851,0.022,0.978,1,1,0.978,upstream template,whole copy (1 source),"declared, confirmed"
+1028,227,baizhiheizi/quill,baizhiheizi,discussion-task-miner.md,2,last,2026-06-15 01:28:32+00:00,28,851,0.022,0.978,1,1,0.978,upstream template,whole copy (1 source),"declared, confirmed"
+1029,228,baizhiheizi/quill,baizhiheizi,efficiency-improver.md,1,first,2026-06-09 21:44:54+00:00,55,2894,0.274,0.726,1,1,0.726,upstream template,partial copy (1 source),"declared, confirmed"
+1030,228,baizhiheizi/quill,baizhiheizi,efficiency-improver.md,2,last,2026-06-15 01:28:32+00:00,55,2894,0.274,0.726,1,1,0.726,upstream template,partial copy (1 source),"declared, confirmed"
+1031,229,baizhiheizi/quill,baizhiheizi,large-file-simplifier.md,1,first,2026-06-09 21:44:54+00:00,28,781,0.14,0.86,1,1,0.86,upstream template,whole copy (1 source),"declared, confirmed"
+1032,229,baizhiheizi/quill,baizhiheizi,large-file-simplifier.md,2,last,2026-06-15 01:28:32+00:00,28,781,0.14,0.86,1,1,0.86,upstream template,whole copy (1 source),"declared, confirmed"
+1033,230,baizhiheizi/quill,baizhiheizi,malicious-code-scan.md,1,first,2026-06-09 21:44:54+00:00,37,1282,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+1034,230,baizhiheizi/quill,baizhiheizi,malicious-code-scan.md,2,last,2026-06-15 01:28:32+00:00,37,1282,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+1035,231,baizhiheizi/quill,baizhiheizi,perf-improver.md,1,first,2026-05-30 13:46:11+00:00,42,2207,0.421,0.579,1,1,0.579,upstream template,partial copy (1 source),"declared, confirmed"
+1040,231,baizhiheizi/quill,baizhiheizi,perf-improver.md,6,last,2026-06-15 01:28:32+00:00,42,2207,0.421,0.579,1,1,0.579,upstream template,partial copy (1 source),"declared, confirmed"
+1041,232,baizhiheizi/quill,baizhiheizi,pr-fix.md,1,first,2026-06-09 22:14:23+00:00,11,275,0.033,0.967,1,1,0.967,upstream template,whole copy (1 source),"declared, confirmed"
+1042,232,baizhiheizi/quill,baizhiheizi,pr-fix.md,2,last,2026-06-15 01:28:32+00:00,11,275,0.033,0.967,1,1,0.967,upstream template,whole copy (1 source),"declared, confirmed"
+1043,233,baizhiheizi/quill,baizhiheizi,repo-assist.md,1,first,2026-06-08 01:51:27+00:00,46,2808,0.254,0.746,1,1,0.746,upstream template,partial copy (1 source),"declared, confirmed"
+1045,233,baizhiheizi/quill,baizhiheizi,repo-assist.md,3,last,2026-06-15 01:28:32+00:00,46,2808,0.254,0.746,1,1,0.746,upstream template,partial copy (1 source),"declared, confirmed"
+1046,234,baizhiheizi/quill,baizhiheizi,repository-quality-improver.md,1,first,2026-06-09 21:44:54+00:00,55,1656,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+1047,234,baizhiheizi/quill,baizhiheizi,repository-quality-improver.md,2,last,2026-06-15 01:28:32+00:00,55,1656,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+1048,235,baizhiheizi/quill,baizhiheizi,sub-issue-closer.md,1,first,2026-06-09 21:44:54+00:00,18,566,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+1049,235,baizhiheizi/quill,baizhiheizi,sub-issue-closer.md,2,last,2026-06-15 01:28:32+00:00,18,566,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+1050,236,baizhiheizi/quill,baizhiheizi,test-improver.md,1,first,2026-06-01 07:14:08+00:00,45,2437,0.446,0.554,1,1,0.554,upstream template,partial copy (1 source),"declared, confirmed"
+1055,236,baizhiheizi/quill,baizhiheizi,test-improver.md,6,last,2026-06-15 01:28:32+00:00,45,2437,0.446,0.554,1,1,0.554,upstream template,partial copy (1 source),"declared, confirmed"
+1056,237,baizhiheizi/quill,baizhiheizi,unbloat-docs.md,1,first,2026-06-09 21:44:54+00:00,37,1059,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+1057,237,baizhiheizi/quill,baizhiheizi,unbloat-docs.md,2,last,2026-06-15 01:28:32+00:00,37,1059,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+1058,238,baizhiheizi/quill,baizhiheizi,weekly-research.md,1,first,2026-06-09 21:44:54+00:00,6,141,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+1059,238,baizhiheizi/quill,baizhiheizi,weekly-research.md,2,last,2026-06-15 01:28:32+00:00,6,141,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+1060,239,microsoft/security-devops-action,microsoft,ci-doctor.md,1,first,2026-03-16 15:21:02+00:00,8,270,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1065,239,microsoft/security-devops-action,microsoft,ci-doctor.md,6,last,2026-04-24 07:46:07+00:00,8,270,0.0,0.052,1,0,0.052,,minor reuse,no upstream parent
+1066,240,microsoft/security-devops-action,microsoft,msdo-breach-monitor.md,1,first,2026-03-21 10:10:44+00:00,15,519,0.0,0.029,1,0,0.029,,minor reuse,no upstream parent
+1071,240,microsoft/security-devops-action,microsoft,msdo-breach-monitor.md,6,last,2026-04-24 07:46:07+00:00,30,1114,0.0,0.013,1,0,0.013,,minor reuse,no upstream parent
+1072,241,microsoft/security-devops-action,microsoft,msdo-issue-assistant.md,1,first,2026-02-19 06:00:48+00:00,18,540,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1081,241,microsoft/security-devops-action,microsoft,msdo-issue-assistant.md,10,last,2026-04-24 07:46:07+00:00,29,886,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1082,242,Azure/azure-dev,Azure,extension-pr-labeler.md,1,first,2026-05-20 17:36:39+00:00,5,353,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1083,242,Azure/azure-dev,Azure,extension-pr-labeler.md,2,last,2026-06-19 21:35:52+00:00,4,333,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1084,243,Azure/azure-dev,Azure,update-instructions-from-pr-reviews.md,1,first,2026-06-17 20:00:51+00:00,27,1246,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1085,243,Azure/azure-dev,Azure,update-instructions-from-pr-reviews.md,2,last,2026-06-19 21:35:52+00:00,27,1246,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1125,252,talk2MeGooseman/stream_closed_captioner_phoenix,talk2MeGooseman,daily-test-improver.md,1,first,2026-01-19 00:55:04+00:00,46,1629,0.264,0.736,1,1,0.736,upstream template,partial copy (1 source),"declared, confirmed"
+1132,252,talk2MeGooseman/stream_closed_captioner_phoenix,talk2MeGooseman,daily-test-improver.md,8,last,2026-04-12 03:11:17+00:00,45,2441,0.446,0.554,1,1,0.554,upstream template,partial copy (1 source),"declared, confirmed"
+1133,253,talk2MeGooseman/stream_closed_captioner_phoenix,talk2MeGooseman,repository-quality-improver.md,1,first,2026-04-12 03:11:17+00:00,55,1656,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+1140,260,microsoft/pylance-release,microsoft,issue-assignment.md,1,first,2026-02-13 21:49:25+00:00,16,346,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1143,263,microsoft/vscode-mypy,microsoft,check-python-versions.md,1,first,2026-02-17 21:37:12+00:00,17,486,0.0,1.0,1,1,1.0,same owner,whole copy (1 source),no upstream parent
+1146,263,microsoft/vscode-mypy,microsoft,check-python-versions.md,4,last,2026-06-23 19:22:12+00:00,16,487,0.0,1.0,1,1,1.0,same owner,whole copy (1 source),no upstream parent
+1147,264,microsoft/vscode-mypy,microsoft,extension-template-sync.md,1,first,2026-02-26 00:08:33+00:00,22,753,0.0,0.946,1,1,0.946,same owner,whole copy (1 source),no upstream parent
+1153,264,microsoft/vscode-mypy,microsoft,extension-template-sync.md,7,last,2026-06-23 19:22:12+00:00,23,755,0.0,0.943,1,1,0.943,same owner,whole copy (1 source),no upstream parent
+1154,265,microsoft/vscode-mypy,microsoft,issue-triage.md,1,first,2026-02-25 17:55:18+00:00,35,1281,0.0,0.785,1,1,0.785,same owner,partial copy (1 source),no upstream parent
+1158,265,microsoft/vscode-mypy,microsoft,issue-triage.md,5,last,2026-06-23 19:22:12+00:00,45,1741,0.0,0.856,1,1,0.856,same owner,whole copy (1 source),no upstream parent
+1159,266,Alfresco/alfresco-build-tools,Alfresco,supply-chain-review.md,1,first,2026-05-28 13:55:52+00:00,74,2197,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),undeclared template copy
+1163,266,Alfresco/alfresco-build-tools,Alfresco,supply-chain-review.md,5,last,2026-06-10 11:29:33+00:00,76,2304,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),undeclared template copy
+1190,275,sytone/obsidian-queryallthethings,sytone,code-simplifier.md,1,first,2026-02-27 00:23:49+00:00,54,1505,0.01,0.99,1,1,0.99,upstream template,whole copy (1 source),"declared, confirmed"
+1195,280,Azure/LogicAppsUX,Azure,daily-repo-status.md,1,first,2026-02-24 15:56:19+00:00,4,93,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+1196,281,Azure/LogicAppsUX,Azure,issue-triage-agent.md,1,first,2026-04-01 20:57:27+00:00,38,1535,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1198,281,Azure/LogicAppsUX,Azure,issue-triage-agent.md,3,last,2026-04-08 20:59:33+00:00,48,2312,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1199,282,Azure/LogicAppsUX,Azure,issue-triage-feedback.md,1,first,2026-04-01 20:57:27+00:00,22,733,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1200,282,Azure/LogicAppsUX,Azure,issue-triage-feedback.md,2,last,2026-04-08 20:59:33+00:00,23,833,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1201,283,microsoft/typespec,microsoft,bump-tcgc-csharp.md,1,first,2026-04-27 20:50:06+00:00,14,482,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1204,283,microsoft/typespec,microsoft,bump-tcgc-csharp.md,4,last,2026-06-24 21:30:57+00:00,14,482,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1205,284,microsoft/typespec,microsoft,issue-triage.md,1,first,2026-04-20 14:04:24+00:00,25,1029,0.0,0.081,1,0,0.081,,minor reuse,"declared, body diverged from declared template"
+1212,284,microsoft/typespec,microsoft,issue-triage.md,8,last,2026-06-24 21:30:57+00:00,26,1081,0.0,0.039,1,0,0.039,,minor reuse,"declared, body diverged from declared template"
+1213,285,Keboo/DotnetTemplates,Keboo,update-dependencies.md,1,first,2026-04-07 05:52:29+00:00,17,442,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1217,285,Keboo/DotnetTemplates,Keboo,update-dependencies.md,5,last,2026-05-14 04:19:31+00:00,18,477,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1218,286,home-assistant/core,home-assistant,check-requirements.md,1,first,2026-05-18 14:59:49+00:00,44,2556,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1230,286,home-assistant/core,home-assistant,check-requirements.md,13,last,2026-06-25 14:48:51+00:00,35,1912,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1231,287,unipept/unipept,unipept,dependency-update.md,1,first,2026-06-01 12:38:37+00:00,3,262,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1233,287,unipept/unipept,unipept,dependency-update.md,3,last,2026-06-01 13:58:09+00:00,3,263,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1238,292,jonathanpeppers/dotnes,jonathanpeppers,dotnes-reviewer.md,1,first,2026-05-01 22:07:10+00:00,3,326,0.0,0.439,1,1,0.439,other owner,partial copy (1 source),no upstream parent
+1239,293,dotnet/maintenance-packages,dotnet,version-maintenance.md,1,first,2026-03-09 16:47:44+00:00,27,719,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1241,293,dotnet/maintenance-packages,dotnet,version-maintenance.md,3,last,2026-03-18 17:10:25+00:00,30,1063,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1242,294,microsoft/aspire,microsoft,daily-repo-status.md,1,first,2026-02-17 17:52:26+00:00,4,93,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+1248,294,microsoft/aspire,microsoft,daily-repo-status.md,7,last,2026-06-18 02:43:47+00:00,23,885,0.0,0.0,0,0,0.0,,no shared paragraphs,"declared, confirmed"
+1249,295,microsoft/aspire,microsoft,extension-changelog.md,1,first,2026-05-30 18:48:11+00:00,38,1238,0.0,0.011,1,0,0.011,,minor reuse,no upstream parent
+1254,295,microsoft/aspire,microsoft,extension-changelog.md,6,last,2026-06-18 02:43:47+00:00,39,1384,0.0,0.009,1,0,0.009,,minor reuse,no upstream parent
+1255,296,microsoft/aspire,microsoft,milestone-changelog.md,1,first,2026-04-23 13:38:35+00:00,31,1093,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1267,296,microsoft/aspire,microsoft,milestone-changelog.md,13,last,2026-06-18 02:43:47+00:00,119,6089,0.0,0.01,1,0,0.01,,minor reuse,no upstream parent
+1268,297,microsoft/aspire,microsoft,pr-docs-check.md,1,first,2026-04-07 02:38:38+00:00,23,619,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1283,297,microsoft/aspire,microsoft,pr-docs-check.md,16,last,2026-06-26 22:49:41+00:00,72,3822,0.0,0.012,1,0,0.012,,minor reuse,no upstream parent
+1284,298,microsoft/aspire,microsoft,release-notes-generate.md,1,first,2026-05-15 02:16:04+00:00,37,1156,0.0,0.058,1,0,0.058,,minor reuse,no upstream parent
+1290,298,microsoft/aspire,microsoft,release-notes-generate.md,7,last,2026-06-18 02:43:47+00:00,45,1627,0.0,0.082,3,0,0.041,,minor reuse,no upstream parent
+1291,299,microsoft/aspire,microsoft,release-update-support-mdx.md,1,first,2026-05-07 20:05:39+00:00,32,1225,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1295,299,microsoft/aspire,microsoft,release-update-support-mdx.md,5,last,2026-06-18 02:43:47+00:00,32,1225,0.0,0.048,1,0,0.048,,minor reuse,no upstream parent
+1296,300,microsoft/aspire,microsoft,repo-pulse.md,1,first,2026-04-23 22:34:09+00:00,32,1339,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1299,300,microsoft/aspire,microsoft,repo-pulse.md,4,last,2026-06-18 02:43:47+00:00,31,1163,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1300,301,stride3d/stride-community-toolkit,stride3d,daily-activity-report.md,1,first,2026-02-16 08:42:00+00:00,18,409,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1302,301,stride3d/stride-community-toolkit,stride3d,daily-activity-report.md,3,last,2026-05-24 23:20:52+00:00,26,527,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1303,302,clash-verge-rev/clash-verge-rev,clash-verge-rev,pr-ai-slop-review.md,1,first,2026-03-17 18:07:27+00:00,18,604,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1316,302,clash-verge-rev/clash-verge-rev,clash-verge-rev,pr-ai-slop-review.md,14,last,2026-06-19 16:23:48+00:00,25,1782,0.0,0.46,1,1,0.46,other owner,partial copy (1 source),no upstream parent
+1319,305,openvinotoolkit/openvino.genai,openvinotoolkit,ci-doctor.md,1,first,2026-02-25 14:55:17+00:00,19,959,0.0,0.919,1,1,0.919,upstream template,whole copy (1 source),"declared, confirmed"
+1326,305,openvinotoolkit/openvino.genai,openvinotoolkit,ci-doctor.md,8,last,2026-04-21 12:09:54+00:00,32,1778,0.0,0.744,2,1,0.697,upstream template,partial copy (1 source),"declared, confirmed"
+1329,308,GuyKh/iec-custom-component,GuyKh,issue-duplicate-finder.md,1,first,2026-02-15 16:01:23+00:00,17,457,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1330,309,CliMA/ClimaAtmos.jl,CliMA,pr-review.md,1,first,2026-05-18 19:44:29+00:00,7,441,0.0,0.023,1,0,0.023,,minor reuse,no upstream parent
+1332,309,CliMA/ClimaAtmos.jl,CliMA,pr-review.md,3,last,2026-05-28 00:13:40+00:00,7,413,0.0,0.024,1,0,0.024,,minor reuse,no upstream parent
+1333,310,KunalSin9h/meltcd,KunalSin9h,daily-repo-status.md,1,first,2026-02-26 18:19:47+00:00,4,93,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+1334,310,KunalSin9h/meltcd,KunalSin9h,daily-repo-status.md,2,last,2026-02-26 18:28:02+00:00,4,93,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+1336,311,KunalSin9h/meltcd,KunalSin9h,new.md,2,first,2026-02-27 06:34:23+00:00,1,24,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1341,313,rancher/dashboard,rancher,daily-accessibility-review.md,1,first,2026-04-08 08:28:54+00:00,7,290,0.0,0.534,1,1,0.534,upstream template,partial copy (1 source),undeclared template copy
+1347,313,rancher/dashboard,rancher,daily-accessibility-review.md,7,last,2026-05-29 17:42:12+00:00,7,290,0.0,0.534,1,1,0.534,upstream template,partial copy (1 source),undeclared template copy
+1348,314,rancher/dashboard,rancher,daily-issue-grooming.md,1,first,2026-03-05 23:10:30+00:00,22,824,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1356,314,rancher/dashboard,rancher,daily-issue-grooming.md,9,last,2026-05-29 17:42:12+00:00,27,961,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1357,315,rancher/dashboard,rancher,daily-repo-status.md,1,first,2026-04-08 08:28:54+00:00,4,93,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),undeclared template copy
+1360,315,rancher/dashboard,rancher,daily-repo-status.md,4,last,2026-05-29 17:42:12+00:00,4,93,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),undeclared template copy
+1361,316,rancher/dashboard,rancher,daily-test-improver.md,1,first,2026-04-08 08:28:54+00:00,50,2613,0.417,0.517,1,1,0.517,upstream template,partial copy (1 source),undeclared template copy
+1366,316,rancher/dashboard,rancher,daily-test-improver.md,6,last,2026-05-29 17:42:12+00:00,53,2939,0.307,0.511,1,1,0.511,upstream template,partial copy (1 source),undeclared template copy
+1367,317,rancher/dashboard,rancher,duplicate-code-detector.md,1,first,2026-04-08 08:28:54+00:00,26,960,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),undeclared template copy
+1371,317,rancher/dashboard,rancher,duplicate-code-detector.md,5,last,2026-05-29 17:42:12+00:00,26,960,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),undeclared template copy
+1372,318,rancher/dashboard,rancher,issue-triage.md,1,first,2026-04-08 08:28:54+00:00,12,555,0.049,0.76,1,1,0.76,upstream template,partial copy (1 source),undeclared template copy
+1375,318,rancher/dashboard,rancher,issue-triage.md,4,last,2026-05-29 17:42:12+00:00,12,555,0.049,0.76,1,1,0.76,upstream template,partial copy (1 source),undeclared template copy
+1376,319,rancher/dashboard,rancher,pr-fix.md,1,first,2026-04-08 08:28:54+00:00,13,428,0.021,0.582,1,1,0.582,upstream template,partial copy (1 source),undeclared template copy
+1379,319,rancher/dashboard,rancher,pr-fix.md,4,last,2026-05-29 17:42:12+00:00,13,428,0.021,0.582,1,1,0.582,upstream template,partial copy (1 source),undeclared template copy
+1380,320,rancher/dashboard,rancher,weekly-stale-issue-manager.md,1,first,2026-06-07 01:41:30+00:00,24,861,0.015,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1381,321,microsoft/finnts,microsoft,repo-improver.md,1,first,2026-04-29 21:00:24+00:00,24,774,0.0,0.012,1,0,0.012,,minor reuse,no upstream parent
+1383,321,microsoft/finnts,microsoft,repo-improver.md,3,last,2026-04-29 21:08:06+00:00,24,830,0.0,0.011,1,0,0.011,,minor reuse,no upstream parent
+1384,322,lrascao/rebar3_gpb_plugin,lrascao,daily-repo-status.md,1,first,2026-02-15 17:48:28+00:00,4,93,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+1385,322,lrascao/rebar3_gpb_plugin,lrascao,daily-repo-status.md,2,last,2026-02-15 18:05:18+00:00,4,93,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+1386,323,dotnet/fsharp,dotnet,agentic-state-machine.md,1,first,2026-05-12 09:03:57+00:00,8,322,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1390,323,dotnet/fsharp,dotnet,agentic-state-machine.md,5,last,2026-06-16 09:00:03+00:00,59,7933,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1391,324,dotnet/fsharp,dotnet,aw-auto-update.md,1,first,2026-03-31 09:39:35+00:00,3,204,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1399,324,dotnet/fsharp,dotnet,aw-auto-update.md,9,last,2026-06-18 13:43:16+00:00,11,768,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1400,325,dotnet/fsharp,dotnet,labelops-flake-fix.md,1,first,2026-05-06 09:42:54+00:00,14,427,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1401,326,dotnet/fsharp,dotnet,labelops-pr-maintenance.md,1,first,2026-05-06 09:42:54+00:00,20,567,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1405,326,dotnet/fsharp,dotnet,labelops-pr-maintenance.md,5,last,2026-06-18 13:43:16+00:00,20,573,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1406,327,dotnet/fsharp,dotnet,labelops-pr-security-scan.md,1,first,2026-05-12 09:05:19+00:00,28,1111,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1411,327,dotnet/fsharp,dotnet,labelops-pr-security-scan.md,6,last,2026-06-18 13:43:16+00:00,27,1490,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1412,328,dotnet/fsharp,dotnet,msbuild-quality-review.md,1,first,2026-06-17 08:41:21+00:00,36,1678,0.006,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1413,329,dotnet/fsharp,dotnet,regression-pr-shepherd.md,1,first,2026-03-30 10:24:32+00:00,21,764,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1418,329,dotnet/fsharp,dotnet,regression-pr-shepherd.md,6,last,2026-06-18 13:43:16+00:00,26,1128,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1419,330,dotnet/fsharp,dotnet,repo-assist.md,1,first,2026-03-16 13:32:21+00:00,23,1698,0.428,0.367,1,1,0.367,upstream template,partial copy (1 source),"declared, confirmed"
+1429,330,dotnet/fsharp,dotnet,repo-assist.md,11,last,2026-05-28 09:12:10+00:00,75,4243,0.101,0.145,1,1,0.145,upstream template,minor reuse,"declared, confirmed"
+1430,331,fable-compiler/Fable,fable-compiler,repo-assist.md,1,first,2026-03-14 21:22:52+00:00,50,3095,0.252,0.396,1,1,0.396,other owner,partial copy (1 source),"declared, confirmed"
+1439,331,fable-compiler/Fable,fable-compiler,repo-assist.md,10,last,2026-05-09 11:55:28+00:00,54,3383,0.215,0.344,1,1,0.344,other owner,partial copy (1 source),"declared, confirmed"
+1440,332,fslaborg/Deedle,fslaborg,repo-assist.md,1,first,2026-03-08 21:59:09+00:00,44,2580,0.303,0.697,1,1,0.697,upstream template,partial copy (1 source),"declared, confirmed"
+1451,332,fslaborg/Deedle,fslaborg,repo-assist.md,12,last,2026-06-12 18:21:29+00:00,46,2808,0.254,0.746,1,1,0.746,upstream template,partial copy (1 source),"declared, confirmed"
+1452,333,ionide/ionide-vscode-fsharp,ionide,repo-assist.md,1,first,2026-02-22 17:47:10+00:00,36,1697,0.157,0.843,1,1,0.843,upstream template,whole copy (1 source),"declared, confirmed"
+1480,333,ionide/ionide-vscode-fsharp,ionide,repo-assist.md,29,last,2026-06-12 18:20:56+00:00,46,2808,0.254,0.746,1,1,0.746,upstream template,partial copy (1 source),"declared, confirmed"
+1481,334,fsprojects/fantomas,fsprojects,repo-assist.md,1,first,2026-02-23 13:53:02+00:00,38,2034,0.229,0.771,1,1,0.771,upstream template,partial copy (1 source),"declared, confirmed"
+1510,334,fsprojects/fantomas,fsprojects,repo-assist.md,30,last,2026-06-12 18:17:24+00:00,55,3915,0.146,0.45,2,1,0.406,other owner,partial copy (1 source),"declared, confirmed"
+1511,335,fsprojects/FSharp.Formatting,fsprojects,repo-assist.md,1,first,2026-02-21 23:57:10+00:00,44,3361,0.02,0.98,1,1,0.98,upstream template,whole copy (1 source),"declared, confirmed"
+1542,335,fsprojects/FSharp.Formatting,fsprojects,repo-assist.md,32,last,2026-06-12 18:19:58+00:00,46,2808,0.254,0.746,1,1,0.746,upstream template,partial copy (1 source),"declared, confirmed"
+1543,336,fsprojects/FsHttp,fsprojects,repo-assist.md,1,first,2026-03-09 12:42:22+00:00,44,2580,0.303,0.697,1,1,0.697,upstream template,partial copy (1 source),"declared, confirmed"
+1544,337,ionide/FsAutoComplete,ionide,repo-assist.md,1,first,2026-02-22 17:12:14+00:00,35,1645,0.13,0.87,1,1,0.87,upstream template,whole copy (1 source),"declared, confirmed"
+1573,337,ionide/FsAutoComplete,ionide,repo-assist.md,30,last,2026-06-12 18:20:36+00:00,46,2808,0.254,0.746,1,1,0.746,upstream template,partial copy (1 source),"declared, confirmed"
+1574,338,MoiraeSoftware/Myriad,MoiraeSoftware,q.md,1,first,2026-02-25 15:56:57+00:00,58,1557,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+1575,339,fsprojects/FSharp.TypeProviders.SDK,fsprojects,repo-assist.md,1,first,2026-02-24 21:32:42+00:00,37,2182,0.356,0.644,1,1,0.644,upstream template,partial copy (1 source),"declared, confirmed"
+1600,339,fsprojects/FSharp.TypeProviders.SDK,fsprojects,repo-assist.md,26,last,2026-06-12 18:20:16+00:00,46,2808,0.254,0.746,1,1,0.746,upstream template,partial copy (1 source),"declared, confirmed"
+1601,340,fsprojects/SwaggerProvider,fsprojects,repo-assist.md,1,first,2026-03-08 22:25:12+00:00,44,2580,0.303,0.697,1,1,0.697,upstream template,partial copy (1 source),"declared, confirmed"
+1624,340,fsprojects/SwaggerProvider,fsprojects,repo-assist.md,24,last,2026-06-12 18:21:12+00:00,46,2808,0.254,0.746,1,1,0.746,upstream template,partial copy (1 source),"declared, confirmed"
+1625,341,fsprojects/FSharpx.Collections,fsprojects,repo-assist.md,1,first,2026-03-08 17:16:35+00:00,44,2580,0.303,0.697,1,1,0.697,upstream template,partial copy (1 source),"declared, confirmed"
+1643,341,fsprojects/FSharpx.Collections,fsprojects,repo-assist.md,19,last,2026-06-12 18:19:22+00:00,46,2808,0.254,0.746,1,1,0.746,upstream template,partial copy (1 source),"declared, confirmed"
+1644,342,fsprojects/FSharp.Data.SqlClient,fsprojects,repo-assist.md,1,first,2026-03-07 20:37:14+00:00,43,2542,0.307,0.693,1,1,0.693,upstream template,partial copy (1 source),"declared, confirmed"
+1659,342,fsprojects/FSharp.Data.SqlClient,fsprojects,repo-assist.md,16,last,2026-06-12 18:19:38+00:00,46,2808,0.254,0.746,1,1,0.746,upstream template,partial copy (1 source),"declared, confirmed"
+1660,343,fslaborg/FSharp.Stats,fslaborg,repo-assist.md,1,first,2026-03-22 23:31:44+00:00,44,2580,0.303,0.697,1,1,0.697,upstream template,partial copy (1 source),"declared, confirmed"
+1672,343,fslaborg/FSharp.Stats,fslaborg,repo-assist.md,13,last,2026-06-12 18:21:45+00:00,46,2808,0.254,0.746,1,1,0.746,upstream template,partial copy (1 source),"declared, confirmed"
+1673,344,fsprojects/FSharp.Control.AsyncSeq,fsprojects,repo-assist.md,1,first,2026-02-21 13:56:20+00:00,43,2964,0.02,0.98,1,1,0.98,upstream template,whole copy (1 source),"declared, confirmed"
+1710,344,fsprojects/FSharp.Control.AsyncSeq,fsprojects,repo-assist.md,38,last,2026-06-12 18:18:46+00:00,46,2808,0.254,0.746,1,1,0.746,upstream template,partial copy (1 source),"declared, confirmed"
+1711,345,fable-compiler/Fable.Python,fable-compiler,repo-assist.md,1,first,2026-04-16 01:12:27+00:00,52,3099,0.251,0.307,1,1,0.307,other owner,minor reuse,undeclared template copy
+1712,345,fable-compiler/Fable.Python,fable-compiler,repo-assist.md,2,last,2026-05-09 11:16:40+00:00,52,3099,0.251,0.311,2,1,0.307,other owner,minor reuse,undeclared template copy
+1713,346,fsprojects/FSharp.Control.TaskSeq,fsprojects,repo-assist.md,1,first,2026-03-07 19:08:31+00:00,43,2542,0.307,0.693,1,1,0.693,upstream template,partial copy (1 source),"declared, confirmed"
+1731,346,fsprojects/FSharp.Control.TaskSeq,fsprojects,repo-assist.md,19,last,2026-06-12 18:19:04+00:00,46,2808,0.254,0.746,1,1,0.746,upstream template,partial copy (1 source),"declared, confirmed"
+1732,347,opsmill/infrahub,opsmill,bug-agent-analyst.md,1,first,2026-04-24 06:38:07+00:00,20,664,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1744,347,opsmill/infrahub,opsmill,bug-agent-analyst.md,13,last,2026-06-03 08:01:44+00:00,20,664,0.0,0.116,1,0,0.116,,minor reuse,no upstream parent
+1745,348,opsmill/infrahub,opsmill,bug-agent-fix.md,1,first,2026-04-24 06:38:07+00:00,30,1317,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1764,348,opsmill/infrahub,opsmill,bug-agent-fix.md,20,last,2026-06-03 08:01:44+00:00,29,1281,0.0,0.086,1,0,0.086,,minor reuse,no upstream parent
+1765,349,opsmill/infrahub,opsmill,bug-agent-review.md,1,first,2026-04-24 06:38:07+00:00,19,870,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1779,349,opsmill/infrahub,opsmill,bug-agent-review.md,15,last,2026-06-03 09:28:24+00:00,19,852,0.0,0.123,1,1,0.123,same repo,minor reuse,no upstream parent
+1780,350,opsmill/infrahub,opsmill,bug-agent-test.md,1,first,2026-04-24 06:38:07+00:00,30,1307,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1800,350,opsmill/infrahub,opsmill,bug-agent-test.md,21,last,2026-06-03 08:01:44+00:00,32,1369,0.0,0.091,1,0,0.091,,minor reuse,no upstream parent
+1803,353,mongodb-js/devtools-shared,mongodb-js,security-quality-agent.md,1,first,2026-04-16 15:48:08+00:00,9,458,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1805,353,mongodb-js/devtools-shared,mongodb-js,security-quality-agent.md,3,last,2026-04-23 14:39:20+00:00,7,511,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1806,354,dotnet/java-interop,dotnet,java-interop-reviewer.md,1,first,2026-05-06 15:23:44+00:00,3,231,0.0,0.372,1,0,0.372,,minor reuse,no upstream parent
+1813,354,dotnet/java-interop,dotnet,java-interop-reviewer.md,8,last,2026-06-17 19:03:48+00:00,3,231,0.0,0.372,1,0,0.372,,minor reuse,no upstream parent
+1814,355,dotnet/android,dotnet,android-reviewer.md,1,first,2026-04-17 19:48:42+00:00,3,222,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1825,355,dotnet/android,dotnet,android-reviewer.md,12,last,2026-06-27 01:41:44+00:00,3,245,0.0,0.522,1,1,0.522,same owner,partial copy (1 source),no upstream parent
+1826,356,dotnet/android,dotnet,nightly-fix-finder.md,1,first,2026-05-19 21:27:49+00:00,30,1132,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1833,356,dotnet/android,dotnet,nightly-fix-finder.md,8,last,2026-06-26 09:08:51+00:00,31,1179,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1834,357,dotnet/android-tools,dotnet,android-tools-reviewer.md,1,first,2026-04-28 07:44:58+00:00,3,222,0.0,1.0,1,1,1.0,same owner,whole copy (1 source),no upstream parent
+1839,357,dotnet/android-tools,dotnet,android-tools-reviewer.md,6,last,2026-06-17 19:03:39+00:00,3,247,0.0,1.0,1,1,1.0,same owner,whole copy (1 source),no upstream parent
+1840,358,erigontech/erigon,erigontech,daily-repo-status.md,1,first,2026-02-16 13:57:58+00:00,4,93,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+1841,358,erigontech/erigon,erigontech,daily-repo-status.md,2,last,2026-03-20 16:02:14+00:00,4,103,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+1842,359,timrogers/iata-code-decoder-api,timrogers,daily-repo-status.md,1,first,2026-05-19 21:15:10+00:00,4,93,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+1843,360,carlkidcrypto/ezsnmp,carlkidcrypto,auto_change_log.md,1,first,2026-03-22 21:51:05+00:00,10,346,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1851,360,carlkidcrypto/ezsnmp,carlkidcrypto,auto_change_log.md,9,last,2026-05-04 03:23:17+00:00,10,629,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1852,361,carlkidcrypto/ezsnmp,carlkidcrypto,auto_release_notes.md,1,first,2026-03-24 14:21:04+00:00,18,881,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1859,361,carlkidcrypto/ezsnmp,carlkidcrypto,auto_release_notes.md,8,last,2026-05-04 14:41:42+00:00,20,1246,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1860,362,carlkidcrypto/ezsnmp,carlkidcrypto,coverage_autofix_every_3_days.md,1,first,2026-03-21 21:31:27+00:00,11,448,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1870,362,carlkidcrypto/ezsnmp,carlkidcrypto,coverage_autofix_every_3_days.md,11,last,2026-06-11 04:17:21+00:00,19,614,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1871,363,carlkidcrypto/ezsnmp,carlkidcrypto,docs_continuous_improvement_every_3_days.md,1,first,2026-03-22 04:23:00+00:00,7,142,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1875,363,carlkidcrypto/ezsnmp,carlkidcrypto,docs_continuous_improvement_every_3_days.md,5,last,2026-05-04 03:23:17+00:00,7,142,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1876,364,carlkidcrypto/ezsnmp,carlkidcrypto,python_version_watcher.md,1,first,2026-05-03 22:02:58+00:00,30,859,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1878,364,carlkidcrypto/ezsnmp,carlkidcrypto,python_version_watcher.md,3,last,2026-05-04 03:23:17+00:00,30,859,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1879,365,carlkidcrypto/ezsnmp,carlkidcrypto,sync_open_prs_with_main.md,1,first,2026-03-22 04:23:00+00:00,3,154,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1888,365,carlkidcrypto/ezsnmp,carlkidcrypto,sync_open_prs_with_main.md,10,last,2026-05-04 03:23:17+00:00,3,329,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1889,366,carlkidcrypto/ezsnmp,carlkidcrypto,triage_incoming_bug_reports.md,1,first,2026-03-22 21:51:05+00:00,14,316,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1893,366,carlkidcrypto/ezsnmp,carlkidcrypto,triage_incoming_bug_reports.md,5,last,2026-05-04 03:23:17+00:00,14,316,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1894,367,carlkidcrypto/ezsnmp,carlkidcrypto,update_docker_netsnmp_versions.md,1,first,2026-03-22 21:51:05+00:00,10,406,0.0,0.049,1,0,0.049,,minor reuse,no upstream parent
+1899,367,carlkidcrypto/ezsnmp,carlkidcrypto,update_docker_netsnmp_versions.md,6,last,2026-05-04 03:23:17+00:00,10,432,0.0,0.046,1,0,0.046,,minor reuse,no upstream parent
+1900,368,carlkidcrypto/ezsnmp,carlkidcrypto,update_docker_python_versions.md,1,first,2026-03-21 21:31:27+00:00,8,165,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1904,368,carlkidcrypto/ezsnmp,carlkidcrypto,update_docker_python_versions.md,5,last,2026-05-04 03:23:17+00:00,8,165,0.0,0.121,1,0,0.121,,minor reuse,no upstream parent
+1905,369,Azure/typespec-azure,Azure,doc-update.md,1,first,2026-03-30 07:52:19+00:00,12,426,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1915,369,Azure/typespec-azure,Azure,doc-update.md,11,last,2026-06-25 03:57:50+00:00,10,575,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1916,370,Azure/typespec-azure,Azure,docs-sync.md,1,first,2026-02-26 21:34:27+00:00,8,428,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1917,370,Azure/typespec-azure,Azure,docs-sync.md,2,last,2026-06-25 02:41:01+00:00,8,428,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1918,371,fedixyz/fedi,fedixyz,daily-e2e-coverage-check.md,1,first,2026-06-01 10:33:29+00:00,26,975,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1920,371,fedixyz/fedi,fedixyz,daily-e2e-coverage-check.md,3,last,2026-06-15 08:38:32+00:00,37,1450,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1921,372,fedixyz/fedi,fedixyz,weekly-doc-updater.md,1,first,2026-06-01 10:33:41+00:00,26,885,0.0,0.054,1,0,0.054,,minor reuse,no upstream parent
+1924,372,fedixyz/fedi,fedixyz,weekly-doc-updater.md,4,last,2026-06-16 17:17:56+00:00,26,1001,0.0,0.048,1,0,0.048,,minor reuse,no upstream parent
+1925,373,meshery/schemas,meshery,first-time-contributor.md,1,first,2026-05-12 12:09:46+00:00,13,400,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1926,374,foxminchan/BookWorm,foxminchan,contribution-guidelines-checker.md,1,first,2026-02-13 13:42:01+00:00,11,363,0.074,0.926,1,1,0.926,upstream template,whole copy (1 source),"declared, confirmed"
+1931,374,foxminchan/BookWorm,foxminchan,contribution-guidelines-checker.md,6,last,2026-06-19 04:42:34+00:00,16,400,0.0,0.455,1,1,0.455,upstream template,partial copy (1 source),"declared, confirmed"
+1932,375,foxminchan/BookWorm,foxminchan,daily-repo-status.md,1,first,2026-02-18 00:16:01+00:00,37,690,0.0,0.016,1,0,0.016,,minor reuse,no upstream parent
+1937,375,foxminchan/BookWorm,foxminchan,daily-repo-status.md,6,last,2026-05-06 10:19:00+00:00,31,578,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1938,376,foxminchan/BookWorm,foxminchan,issue-triage.md,1,first,2026-02-13 07:42:07+00:00,15,504,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1944,376,foxminchan/BookWorm,foxminchan,issue-triage.md,7,last,2026-06-19 04:42:34+00:00,11,352,0.0,0.253,1,1,0.253,same repo,minor reuse,no upstream parent
+1945,377,foxminchan/BookWorm,foxminchan,pr-triage.md,1,first,2026-02-13 12:13:47+00:00,25,747,0.0,0.39,1,1,0.39,same repo,partial copy (1 source),no upstream parent
+1953,377,foxminchan/BookWorm,foxminchan,pr-triage.md,9,last,2026-06-26 07:34:36+00:00,21,605,0.0,0.16,1,1,0.16,same repo,minor reuse,no upstream parent
+1954,378,ohcnetwork/care_fe,ohcnetwork,daily-playwright-improver.md,1,first,2026-02-07 22:12:14+00:00,12,701,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1955,379,ohcnetwork/care_fe,ohcnetwork,thank-you-note.md,1,first,2026-02-07 22:32:19+00:00,31,849,0.0,0.027,1,0,0.027,,minor reuse,no upstream parent
+1956,379,ohcnetwork/care_fe,ohcnetwork,thank-you-note.md,2,last,2026-02-07 23:13:38+00:00,11,304,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1957,380,IgniteUI/igniteui-xplat-docs,IgniteUI,sync-jp-docs.md,1,first,2026-03-20 15:38:03+00:00,28,843,0.0,0.476,1,1,0.476,same owner,partial copy (1 source),no upstream parent
+1964,380,IgniteUI/igniteui-xplat-docs,IgniteUI,sync-jp-docs.md,8,last,2026-04-03 13:32:23+00:00,36,1134,0.0,0.286,1,1,0.286,same owner,minor reuse,no upstream parent
+1965,381,alexandru/social-publish,alexandru,code-simplifier.md,1,first,2026-04-26 16:48:25+00:00,54,1505,0.01,0.99,1,1,0.99,upstream template,whole copy (1 source),"declared, confirmed"
+1968,384,CommunityToolkit/Aspire,CommunityToolkit,aspire-upgrade.md,1,first,2026-03-12 23:42:48+00:00,13,206,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1972,384,CommunityToolkit/Aspire,CommunityToolkit,aspire-upgrade.md,5,last,2026-05-26 00:56:19+00:00,20,392,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+1973,385,popey/slomore,popey,repo-assist.md,1,first,2026-06-02 16:08:18+00:00,46,2808,0.254,0.746,1,1,0.746,upstream template,partial copy (1 source),"declared, confirmed"
+1975,385,popey/slomore,popey,repo-assist.md,3,last,2026-06-04 20:34:29+00:00,46,2808,0.254,0.746,1,1,0.746,upstream template,partial copy (1 source),"declared, confirmed"
+2009,396,moeru-ai/airi,moeru-ai,pr-triage.md,1,first,2026-04-04 19:11:13+00:00,16,750,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2012,396,moeru-ai/airi,moeru-ai,pr-triage.md,4,last,2026-04-13 08:24:15+00:00,20,897,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2013,397,popey/grummage,popey,repo-assist.md,1,first,2026-06-02 15:50:55+00:00,46,2808,0.254,0.746,1,1,0.746,upstream template,partial copy (1 source),"declared, confirmed"
+2016,397,popey/grummage,popey,repo-assist.md,4,last,2026-06-04 14:12:48+00:00,46,2808,0.254,0.746,1,1,0.746,upstream template,partial copy (1 source),"declared, confirmed"
+2017,398,bob-collective/bob,bob-collective,openapi-docs-sync.md,1,first,2026-03-20 17:29:39+00:00,6,260,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2018,399,dotnet/macios,dotnet,ci-postmortem.md,1,first,2026-05-20 13:40:11+00:00,3,262,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2021,399,dotnet/macios,dotnet,ci-postmortem.md,4,last,2026-06-25 09:42:41+00:00,3,262,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2022,400,dotnet/macios,dotnet,code-radiator.md,1,first,2026-05-07 06:08:21+00:00,21,647,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2035,400,dotnet/macios,dotnet,code-radiator.md,14,last,2026-06-25 21:08:16+00:00,40,1280,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2036,401,dotnet/macios,dotnet,macios-reviewer.md,1,first,2026-04-23 06:11:53+00:00,3,246,0.0,1.0,1,1,1.0,same owner,whole copy (1 source),no upstream parent
+2041,401,dotnet/macios,dotnet,macios-reviewer.md,6,last,2026-06-25 09:42:41+00:00,3,241,0.0,0.564,1,1,0.564,same owner,partial copy (1 source),no upstream parent
+2042,402,ZSWatch/ZSWatch,ZSWatch,docs-pr-analyze.md,1,first,2026-02-18 12:36:14+00:00,11,733,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2043,402,ZSWatch/ZSWatch,ZSWatch,docs-pr-analyze.md,2,last,2026-03-02 21:34:12+00:00,12,769,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2046,405,elastic/opentelemetry-collector-components,elastic,pr-review.md,1,first,2026-02-14 02:16:17+00:00,19,853,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2047,406,svenjacobs/lokksmith,svenjacobs,update-dependency-matrix.md,1,first,2026-03-20 08:22:36+00:00,10,425,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2049,406,svenjacobs/lokksmith,svenjacobs,update-dependency-matrix.md,3,last,2026-06-09 13:36:33+00:00,11,462,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2050,407,czlonkowski/n8n-mcp,czlonkowski,issue-triage.md,1,first,2026-04-27 13:54:10+00:00,11,601,0.045,0.777,1,1,0.777,upstream template,partial copy (1 source),"declared, confirmed"
+2051,407,czlonkowski/n8n-mcp,czlonkowski,issue-triage.md,2,last,2026-04-27 14:34:14+00:00,11,601,0.045,0.777,1,1,0.777,upstream template,partial copy (1 source),"declared, confirmed"
+2052,408,github/awesome-copilot,github,cli-for-beginners-sync.md,1,first,2026-03-25 22:03:21+00:00,29,958,0.0,0.047,2,0,0.029,,minor reuse,no upstream parent
+2055,408,github/awesome-copilot,github,cli-for-beginners-sync.md,4,last,2026-06-25 04:36:53+00:00,29,1018,0.0,0.028,1,0,0.028,,minor reuse,no upstream parent
+2056,409,github/awesome-copilot,github,codeowner-update.md,1,first,2026-03-03 23:22:10+00:00,17,412,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2061,409,github/awesome-copilot,github,codeowner-update.md,6,last,2026-06-25 04:36:53+00:00,17,412,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2062,410,github/awesome-copilot,github,duplicate-resource-detector.md,1,first,2026-02-19 04:43:54+00:00,22,643,0.0,0.031,1,0,0.031,,minor reuse,no upstream parent
+2063,410,github/awesome-copilot,github,duplicate-resource-detector.md,2,last,2026-02-26 23:20:13+00:00,22,639,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2064,411,github/awesome-copilot,github,learning-hub-updater.md,1,first,2026-03-17 03:18:58+00:00,18,457,0.0,0.018,1,0,0.018,,minor reuse,no upstream parent
+2068,411,github/awesome-copilot,github,learning-hub-updater.md,5,last,2026-06-25 04:36:53+00:00,19,502,0.0,0.052,1,0,0.052,,minor reuse,no upstream parent
+2069,412,github/awesome-copilot,github,pr-duplicate-check.md,1,first,2026-03-12 22:42:56+00:00,23,636,0.0,0.351,2,1,0.332,same repo,partial copy (1 source),no upstream parent
+2071,412,github/awesome-copilot,github,pr-duplicate-check.md,3,last,2026-03-23 04:29:43+00:00,23,636,0.0,0.351,2,1,0.332,same repo,partial copy (1 source),no upstream parent
+2072,413,github/awesome-copilot,github,resource-staleness-report.md,1,first,2026-02-18 23:19:17+00:00,20,517,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2073,413,github/awesome-copilot,github,resource-staleness-report.md,2,last,2026-05-15 06:33:29+00:00,26,824,0.0,0.034,1,0,0.034,,minor reuse,no upstream parent
+2078,418,microsoft/wassette,microsoft,changelog-fragment.md,1,first,2025-11-02 18:06:05+00:00,20,938,0.0,0.066,1,0,0.066,,minor reuse,no upstream parent
+2079,418,microsoft/wassette,microsoft,changelog-fragment.md,2,last,2025-11-02 23:51:15+00:00,20,938,0.0,0.066,1,0,0.066,,minor reuse,no upstream parent
+2080,419,microsoft/wassette,microsoft,changelog-pr-link.md,1,first,2025-10-22 06:07:20+00:00,13,585,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2081,420,microsoft/wassette,microsoft,ci-doctor.md,1,first,2025-10-09 01:08:25+00:00,28,766,0.0,0.141,1,1,0.141,upstream template,minor reuse,no upstream parent
+2082,421,microsoft/wassette,microsoft,issue-triage.md,1,first,2025-10-03 20:05:08+00:00,10,344,0.078,0.922,1,1,0.922,upstream template,whole copy (1 source),undeclared template copy
+2083,421,microsoft/wassette,microsoft,issue-triage.md,2,last,2025-10-22 03:17:53+00:00,9,332,0.081,0.919,1,1,0.919,upstream template,whole copy (1 source),undeclared template copy
+2084,422,microsoft/wassette,microsoft,plan.md,1,first,2025-11-12 06:26:09+00:00,34,924,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2085,423,microsoft/wassette,microsoft,pr-triage.md,1,first,2025-10-22 06:06:27+00:00,10,390,0.069,0.308,1,1,0.308,upstream template,minor reuse,undeclared template copy
+2086,423,microsoft/wassette,microsoft,pr-triage.md,2,last,2025-11-14 04:59:46+00:00,10,390,0.069,0.308,1,1,0.308,upstream template,minor reuse,undeclared template copy
+2087,424,microsoft/wassette,microsoft,release-doctor.md,1,first,2025-11-02 23:53:32+00:00,45,1272,0.0,0.049,1,0,0.049,,minor reuse,no upstream parent
+2088,425,microsoft/wassette,microsoft,scout.md,1,first,2025-10-08 21:59:28+00:00,19,611,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2089,426,kaito-project/aikit,kaito-project,daily-test-improver.md,1,first,2025-10-24 21:55:28+00:00,34,1516,0.207,0.793,1,1,0.793,upstream template,partial copy (1 source),"declared, confirmed"
+2090,427,kaito-project/aikit,kaito-project,issue-triage.md,1,first,2025-10-24 18:03:50+00:00,12,534,0.051,0.949,1,1,0.949,upstream template,whole copy (1 source),"declared, confirmed"
+2091,427,kaito-project/aikit,kaito-project,issue-triage.md,2,last,2025-10-24 20:22:33+00:00,12,538,0.05,0.95,1,1,0.95,upstream template,whole copy (1 source),"declared, confirmed"
+2092,428,Azure/AppConfiguration-KubernetesProvider,Azure,issue-triage.md,1,first,2026-03-05 06:35:15+00:00,15,516,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2093,429,githubnext/agentics,githubnext,daily-repo-goals.md,1,first,2026-02-13 01:55:08+00:00,24,694,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2101,429,githubnext/agentics,githubnext,daily-repo-goals.md,9,last,2026-06-26 05:45:50+00:00,27,919,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2102,430,githubnext/agentics,githubnext,daily-workflow-sync.md,1,first,2025-12-09 17:48:57+00:00,13,561,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2111,430,githubnext/agentics,githubnext,daily-workflow-sync.md,10,last,2026-06-26 05:45:50+00:00,13,561,0.0,0.014,1,0,0.014,,minor reuse,no upstream parent
+2112,431,githubnext/agentics,githubnext,import-workflow.md,1,first,2026-02-17 04:14:13+00:00,30,775,0.0,0.012,1,0,0.012,,minor reuse,no upstream parent
+2118,431,githubnext/agentics,githubnext,import-workflow.md,7,last,2026-06-26 05:45:50+00:00,36,926,0.0,0.01,1,0,0.01,,minor reuse,no upstream parent
+2119,432,githubnext/agentics,githubnext,link-checker.md,1,first,2026-02-17 04:18:47+00:00,19,655,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2124,432,githubnext/agentics,githubnext,link-checker.md,6,last,2026-06-26 05:45:50+00:00,19,655,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),no upstream parent
+2125,433,githubnext/agentics,githubnext,maintainer.md,1,first,2025-10-22 18:14:56+00:00,7,369,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),undeclared template copy
+2136,433,githubnext/agentics,githubnext,maintainer.md,12,last,2026-06-26 05:45:50+00:00,8,449,0.0,0.862,1,1,0.862,upstream template,whole copy (1 source),undeclared template copy
+2137,434,microsoft/mcp,microsoft,doc-gap-detector.md,1,first,2026-05-06 21:16:07+00:00,28,1005,0.0,0.008,1,0,0.008,,minor reuse,no upstream parent
+2138,434,microsoft/mcp,microsoft,doc-gap-detector.md,2,last,2026-05-19 20:57:49+00:00,28,1007,0.0,0.008,1,0,0.008,,minor reuse,no upstream parent
+2139,435,MiguelElGallo/mpzsql,MiguelElGallo,code-simplifier.md,1,first,2026-03-15 09:18:28+00:00,54,1505,0.01,0.99,1,1,0.99,upstream template,whole copy (1 source),"declared, confirmed"
+2140,435,MiguelElGallo/mpzsql,MiguelElGallo,code-simplifier.md,2,last,2026-04-14 05:36:19+00:00,54,1505,0.01,0.99,1,1,0.99,upstream template,whole copy (1 source),"declared, confirmed"
+2141,436,fideus-labs/ngff-zarr,fideus-labs,daily-doc-updater.md,1,first,2026-03-02 20:05:42+00:00,33,1077,0.047,0.953,1,1,0.953,upstream template,whole copy (1 source),"declared, confirmed"
+2145,436,fideus-labs/ngff-zarr,fideus-labs,daily-doc-updater.md,5,last,2026-06-17 15:04:26+00:00,47,2002,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+2146,437,fideus-labs/ngff-zarr,fideus-labs,daily-repo-status.md,1,first,2026-02-17 21:05:33+00:00,4,93,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+2151,437,fideus-labs/ngff-zarr,fideus-labs,daily-repo-status.md,6,last,2026-06-25 17:54:15+00:00,4,123,0.0,0.528,1,1,0.528,upstream template,partial copy (1 source),"declared, confirmed"
+2152,438,tosin2013/mcp-adr-analysis-server,tosin2013,ai-executor-integration.md,1,first,2026-02-16 16:07:01+00:00,19,343,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2154,438,tosin2013/mcp-adr-analysis-server,tosin2013,ai-executor-integration.md,3,last,2026-03-16 17:48:59+00:00,25,490,0.0,0.276,1,1,0.276,same repo,minor reuse,no upstream parent
+2155,439,tosin2013/mcp-adr-analysis-server,tosin2013,ai-release-notes-agent.md,1,first,2026-02-16 16:07:01+00:00,15,441,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2156,440,tosin2013/mcp-adr-analysis-server,tosin2013,ci-doctor.md,1,first,2026-02-16 16:07:01+00:00,15,477,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2157,441,tosin2013/mcp-adr-analysis-server,tosin2013,dependabot-bundler.md,1,first,2026-02-16 16:07:01+00:00,18,537,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2158,441,tosin2013/mcp-adr-analysis-server,tosin2013,dependabot-bundler.md,2,last,2026-02-20 00:13:55+00:00,18,537,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2159,442,tosin2013/mcp-adr-analysis-server,tosin2013,deployment-pattern-validation.md,1,first,2026-02-16 16:07:01+00:00,23,470,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2161,442,tosin2013/mcp-adr-analysis-server,tosin2013,deployment-pattern-validation.md,3,last,2026-03-16 17:48:59+00:00,30,633,0.0,0.166,1,1,0.166,same repo,minor reuse,no upstream parent
+2162,443,tosin2013/mcp-adr-analysis-server,tosin2013,docs-noob-tester.md,1,first,2026-02-16 16:07:01+00:00,19,495,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2166,443,tosin2013/mcp-adr-analysis-server,tosin2013,docs-noob-tester.md,5,last,2026-03-16 17:48:59+00:00,27,758,0.0,0.012,1,0,0.012,,minor reuse,no upstream parent
+2167,444,tosin2013/mcp-adr-analysis-server,tosin2013,docs-site-validator.md,1,first,2026-02-16 16:24:31+00:00,29,771,0.0,0.012,1,0,0.012,,minor reuse,no upstream parent
+2170,444,tosin2013/mcp-adr-analysis-server,tosin2013,docs-site-validator.md,4,last,2026-04-19 18:26:37+00:00,34,967,0.0,0.009,1,0,0.009,,minor reuse,no upstream parent
+2171,445,tosin2013/mcp-adr-analysis-server,tosin2013,esm-module-validation.md,1,first,2026-02-16 16:07:01+00:00,27,627,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2172,445,tosin2013/mcp-adr-analysis-server,tosin2013,esm-module-validation.md,2,last,2026-03-16 17:48:59+00:00,27,627,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2173,446,tosin2013/mcp-adr-analysis-server,tosin2013,knowledge-graph-validation.md,1,first,2026-02-16 16:07:01+00:00,24,421,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2175,446,tosin2013/mcp-adr-analysis-server,tosin2013,knowledge-graph-validation.md,3,last,2026-03-16 17:48:59+00:00,29,555,0.0,0.189,1,1,0.189,same repo,minor reuse,no upstream parent
+2176,447,tosin2013/mcp-adr-analysis-server,tosin2013,mcp-server-validation.md,1,first,2026-02-16 16:07:01+00:00,16,285,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2179,447,tosin2013/mcp-adr-analysis-server,tosin2013,mcp-server-validation.md,4,last,2026-03-16 17:48:59+00:00,21,417,0.0,0.317,1,1,0.317,same repo,minor reuse,no upstream parent
+2180,448,tosin2013/mcp-adr-analysis-server,tosin2013,mcp-tool-checker.md,1,first,2026-02-16 16:07:01+00:00,24,502,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2183,448,tosin2013/mcp-adr-analysis-server,tosin2013,mcp-tool-checker.md,4,last,2026-03-16 17:48:59+00:00,24,502,0.0,0.034,2,0,0.018,,minor reuse,no upstream parent
+2186,451,kubestellar/docs,kubestellar,daily-team-status.md,1,first,2025-12-03 19:22:35+00:00,4,82,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+2190,451,kubestellar/docs,kubestellar,daily-team-status.md,5,last,2026-06-16 15:51:04+00:00,4,82,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+2191,452,kubestellar/docs,kubestellar,devstats.md,1,first,2025-12-16 19:44:32+00:00,4,82,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+2193,452,kubestellar/docs,kubestellar,devstats.md,3,last,2026-06-16 15:51:04+00:00,4,82,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+2194,453,kubestellar/docs,kubestellar,link-checker.md,1,first,2026-03-10 01:54:58+00:00,18,502,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2200,453,kubestellar/docs,kubestellar,link-checker.md,7,last,2026-06-17 13:28:07+00:00,22,748,0.0,0.294,1,1,0.294,other owner,minor reuse,no upstream parent
+2201,454,kubestellar/docs,kubestellar,maintainer-metrics.md,1,first,2025-12-10 01:16:31+00:00,57,1715,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2208,454,kubestellar/docs,kubestellar,maintainer-metrics.md,8,last,2026-05-28 07:53:27+00:00,59,1618,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2209,455,kubestellar/docs,kubestellar,technical-doc-writer.md,1,first,2025-12-16 19:44:32+00:00,21,644,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2216,455,kubestellar/docs,kubestellar,technical-doc-writer.md,8,last,2026-05-04 15:11:48+00:00,24,638,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2217,456,kubestellar/docs,kubestellar,typo-checker.md,1,first,2026-03-10 01:54:58+00:00,22,549,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2221,456,kubestellar/docs,kubestellar,typo-checker.md,5,last,2026-05-21 07:58:44+00:00,21,618,0.0,0.057,1,0,0.057,,minor reuse,no upstream parent
+2222,457,drehelis/gcp-emulator-ui,drehelis,check-emulator-updates.md,1,first,2026-02-20 13:17:53+00:00,3,182,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2241,457,drehelis/gcp-emulator-ui,drehelis,check-emulator-updates.md,20,last,2026-06-13 07:35:42+00:00,6,451,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2244,460,YousefHadder/markdown-plus.nvim,YousefHadder,code-simplifier.md,1,first,2026-03-07 05:54:54+00:00,56,1584,0.009,0.937,1,1,0.937,upstream template,whole copy (1 source),"declared, confirmed"
+2248,460,YousefHadder/markdown-plus.nvim,YousefHadder,code-simplifier.md,5,last,2026-05-12 17:16:31+00:00,83,2554,0.006,0.516,3,1,0.491,upstream template,partial copy (1 source),"declared, confirmed"
+2249,461,YousefHadder/markdown-plus.nvim,YousefHadder,config-sync-checker.md,1,first,2026-03-07 06:42:44+00:00,39,1111,0.014,0.027,1,0,0.027,,minor reuse,no upstream parent
+2251,461,YousefHadder/markdown-plus.nvim,YousefHadder,config-sync-checker.md,3,last,2026-05-12 17:16:31+00:00,41,1162,0.057,0.026,1,0,0.026,,minor reuse,no upstream parent
+2252,462,YousefHadder/markdown-plus.nvim,YousefHadder,contributor-recognition.md,1,first,2026-05-03 20:54:29+00:00,33,993,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2256,462,YousefHadder/markdown-plus.nvim,YousefHadder,contributor-recognition.md,5,last,2026-06-19 19:25:19+00:00,40,1795,0.032,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2257,463,YousefHadder/markdown-plus.nvim,YousefHadder,daily-doc-updater.md,1,first,2026-03-07 01:29:08+00:00,28,862,0.0,0.729,1,1,0.729,upstream template,partial copy (1 source),"declared, confirmed"
+2260,463,YousefHadder/markdown-plus.nvim,YousefHadder,daily-doc-updater.md,4,last,2026-05-12 17:16:31+00:00,48,2175,0.0,0.71,1,1,0.71,upstream template,partial copy (1 source),"declared, confirmed"
+2261,464,YousefHadder/markdown-plus.nvim,YousefHadder,daily-file-diet.md,1,first,2026-03-07 07:29:59+00:00,40,1218,0.103,0.25,1,1,0.25,upstream template,minor reuse,"declared, confirmed"
+2265,464,YousefHadder/markdown-plus.nvim,YousefHadder,daily-file-diet.md,5,last,2026-05-13 15:50:32+00:00,40,1218,0.103,0.268,2,1,0.25,upstream template,minor reuse,"declared, confirmed"
+2266,465,YousefHadder/markdown-plus.nvim,YousefHadder,wiki-updater.md,1,first,2026-06-04 14:56:27+00:00,11,527,0.0,0.021,1,0,0.021,,minor reuse,no upstream parent
+2267,465,YousefHadder/markdown-plus.nvim,YousefHadder,wiki-updater.md,2,last,2026-06-19 19:25:19+00:00,12,670,0.0,0.016,1,0,0.016,,minor reuse,no upstream parent
+2268,466,cncf/contribute-site,cncf,link-checker.md,1,first,2026-03-12 21:23:41+00:00,31,862,0.0,0.309,1,1,0.309,other owner,minor reuse,no upstream parent
+2277,466,cncf/contribute-site,cncf,link-checker.md,10,last,2026-03-16 22:21:41+00:00,31,1177,0.0,0.214,1,1,0.214,other owner,minor reuse,no upstream parent
+2278,467,cncf/contribute-site,cncf,link-fixer.md,1,first,2026-03-16 19:23:45+00:00,18,616,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2285,467,cncf/contribute-site,cncf,link-fixer.md,8,last,2026-03-17 00:45:00+00:00,24,750,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2286,468,kaito-tokyo/live-backgroundremoval-lite,kaito-tokyo,validate-pr.md,1,first,2026-04-13 21:07:16+00:00,8,265,0.0,1.0,1,1,1.0,other owner,whole copy (1 source),no upstream parent
+2287,469,microsoft/apm,microsoft,cli-consistency-checker.md,1,first,2026-02-24 23:14:51+00:00,31,808,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2288,469,microsoft/apm,microsoft,cli-consistency-checker.md,2,last,2026-02-26 22:20:21+00:00,31,815,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2289,470,microsoft/apm,microsoft,daily-doc-updater.md,1,first,2026-02-24 23:14:51+00:00,25,735,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+2291,470,microsoft/apm,microsoft,daily-doc-updater.md,3,last,2026-03-03 21:58:37+00:00,25,735,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+2292,471,microsoft/apm,microsoft,docs-sync.md,1,first,2026-05-11 19:39:48+00:00,10,301,0.0,0.352,1,1,0.352,same repo,partial copy (1 source),no upstream parent
+2293,472,microsoft/apm,microsoft,pr-review-panel.md,1,first,2026-04-21 23:31:50+00:00,13,318,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2304,472,microsoft/apm,microsoft,pr-review-panel.md,12,last,2026-05-07 18:15:50+00:00,6,197,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2305,473,microsoft/apm,microsoft,triage-panel.md,1,first,2026-04-26 15:30:42+00:00,41,1457,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2315,473,microsoft/apm,microsoft,triage-panel.md,11,last,2026-05-26 21:26:44+00:00,47,2006,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2316,474,informedica/GenPRES,informedica,repo-assist.md,1,first,2026-02-26 08:01:57+00:00,38,2310,0.336,0.664,1,1,0.664,upstream template,partial copy (1 source),"declared, confirmed"
+2317,474,informedica/GenPRES,informedica,repo-assist.md,2,last,2026-05-18 06:04:43+00:00,38,2310,0.336,0.664,1,1,0.664,upstream template,partial copy (1 source),"declared, confirmed"
+2318,475,pikax/verter,pikax,update-docs.md,1,first,2026-02-15 11:52:17+00:00,17,456,0.099,0.901,1,1,0.901,upstream template,whole copy (1 source),"declared, confirmed"
+2320,475,pikax/verter,pikax,update-docs.md,3,last,2026-03-27 07:47:37+00:00,21,601,0.075,0.672,1,1,0.672,upstream template,partial copy (1 source),"declared, confirmed"
+2321,476,Kong/kongctl,Kong,benchmark-regression-analysis.md,1,first,2026-05-03 15:49:39+00:00,13,469,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2322,476,Kong/kongctl,Kong,benchmark-regression-analysis.md,2,last,2026-05-26 17:12:18+00:00,13,498,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2323,477,Kong/kongctl,Kong,code-simplifier.md,1,first,2026-02-16 00:57:34+00:00,40,1241,0.012,0.799,1,1,0.799,upstream template,partial copy (1 source),"declared, confirmed"
+2331,477,Kong/kongctl,Kong,code-simplifier.md,9,last,2026-04-15 14:21:05+00:00,44,1310,0.011,0.602,1,1,0.602,upstream template,partial copy (1 source),"declared, confirmed"
+2332,478,Kong/kongctl,Kong,e2e-coverage-scanner.md,1,first,2026-03-15 17:28:12+00:00,30,1035,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2336,478,Kong/kongctl,Kong,e2e-coverage-scanner.md,5,last,2026-06-05 15:41:02+00:00,42,1700,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2337,479,Kong/kongctl,Kong,kongctl-feature-user-agent.md,1,first,2026-05-16 15:25:04+00:00,15,636,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2346,479,Kong/kongctl,Kong,kongctl-feature-user-agent.md,10,last,2026-06-24 22:07:17+00:00,50,2646,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2348,480,Kong/kongctl,Kong,opened-issue-triage.md,2,first,2026-02-15 03:05:53+00:00,11,520,0.0,0.785,1,1,0.785,upstream template,partial copy (1 source),"declared, confirmed"
+2353,480,Kong/kongctl,Kong,opened-issue-triage.md,7,last,2026-04-28 05:39:59+00:00,13,643,0.0,1.0,1,1,1.0,same repo,whole copy (1 source),"declared, confirmed"
+2354,481,Kong/kongctl,Kong,release.md,1,first,2026-02-24 20:57:39+00:00,27,600,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2368,481,Kong/kongctl,Kong,release.md,15,last,2026-06-02 20:14:00+00:00,26,684,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2370,482,Kong/kongctl,Kong,slash-cmd-issue-triage.md,2,first,2026-02-15 03:05:53+00:00,11,520,0.0,0.785,1,1,0.785,upstream template,partial copy (1 source),"declared, confirmed"
+2379,482,Kong/kongctl,Kong,slash-cmd-issue-triage.md,11,last,2026-05-05 23:31:41+00:00,13,631,0.0,1.0,1,1,1.0,same repo,whole copy (1 source),"declared, confirmed"
+2380,483,Kong/kongctl,Kong,weekly-repo-status.md,1,first,2026-02-13 22:15:45+00:00,4,93,0.0,1.0,2,1,0.86,upstream template,whole copy (1 source),"declared, confirmed"
+2384,483,Kong/kongctl,Kong,weekly-repo-status.md,5,last,2026-04-15 14:21:05+00:00,6,186,0.0,0.5,1,1,0.5,other owner,partial copy (1 source),"declared, confirmed"
+2385,484,shanselman/WindowsEdgeLight,shanselman,repo-assist.md,1,first,2026-04-14 02:26:42+00:00,44,2580,0.303,0.697,1,1,0.697,upstream template,partial copy (1 source),"declared, confirmed"
+2386,485,chrisreddington/trend-radar,chrisreddington,repo-assist.md,1,first,2026-03-20 07:43:20+00:00,44,2580,0.303,0.697,1,1,0.697,upstream template,partial copy (1 source),"declared, confirmed"
+2387,485,chrisreddington/trend-radar,chrisreddington,repo-assist.md,2,last,2026-04-17 09:10:42+00:00,44,2580,0.303,0.697,1,1,0.697,upstream template,partial copy (1 source),"declared, confirmed"
+2388,486,mcpc-tech/dev-inspector-mcp,mcpc-tech,daily-repo-status.md,1,first,2026-02-12 03:31:21+00:00,4,93,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+2389,487,hemanth/mcp-web-client,hemanth,daily-repo-status.md,1,first,2026-02-14 15:14:43+00:00,4,93,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+2390,488,meteostat/meteostat,meteostat,bug-reproducer.md,1,first,2026-02-14 18:09:57+00:00,24,821,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2391,488,meteostat/meteostat,meteostat,bug-reproducer.md,2,last,2026-02-14 18:12:12+00:00,24,821,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2392,489,meteostat/meteostat,meteostat,issue-triage-agent.md,1,first,2026-02-13 15:48:25+00:00,9,199,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+2393,489,meteostat/meteostat,meteostat,issue-triage-agent.md,2,last,2026-02-14 17:54:02+00:00,9,199,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+2394,490,navikt/copilot,navikt,news-excerpts.md,1,first,2026-03-09 07:45:02+00:00,6,209,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2401,490,navikt/copilot,navikt,news-excerpts.md,8,last,2026-05-08 20:38:25+00:00,20,962,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2402,491,BMayhew/awesome-sites-to-test-on,BMayhew,issue-site-submission.md,1,first,2026-03-02 06:17:29+00:00,20,976,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2403,491,BMayhew/awesome-sites-to-test-on,BMayhew,issue-site-submission.md,2,last,2026-03-02 06:45:06+00:00,20,1004,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2404,492,github/copilot-sdk,github,cross-repo-issue-analysis.md,1,first,2026-03-05 00:34:33+00:00,14,617,0.0,0.044,2,0,0.031,,minor reuse,no upstream parent
+2413,492,github/copilot-sdk,github,cross-repo-issue-analysis.md,10,last,2026-05-21 17:29:30+00:00,14,531,0.0,0.051,2,0,0.036,,minor reuse,no upstream parent
+2414,493,github/copilot-sdk,github,handle-bug.md,1,first,2026-04-02 17:49:33+00:00,6,432,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2415,493,github/copilot-sdk,github,handle-bug.md,2,last,2026-04-03 01:35:11+00:00,6,432,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2416,494,github/copilot-sdk,github,handle-documentation.md,1,first,2026-04-02 17:49:33+00:00,2,110,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2417,494,github/copilot-sdk,github,handle-documentation.md,2,last,2026-04-03 01:35:11+00:00,2,110,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2422,497,github/copilot-sdk,github,issue-classification.md,1,first,2026-04-02 17:49:33+00:00,21,801,0.0,0.024,1,0,0.024,,minor reuse,no upstream parent
+2423,498,github/copilot-sdk,github,issue-triage.md,1,first,2026-01-14 22:01:55+00:00,16,373,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2427,498,github/copilot-sdk,github,issue-triage.md,5,last,2026-06-04 23:50:06+00:00,16,380,0.0,0.05,1,0,0.05,,minor reuse,no upstream parent
+2428,499,github/copilot-sdk,github,java-adapt-handwritten-code-to-accept-upgrade-changes.md,1,first,2026-06-04 21:53:03+00:00,19,493,0.0,0.049,1,0,0.049,,minor reuse,no upstream parent
+2429,499,github/copilot-sdk,github,java-adapt-handwritten-code-to-accept-upgrade-changes.md,2,last,2026-06-06 19:43:49+00:00,19,469,0.0,0.045,1,0,0.045,,minor reuse,no upstream parent
+2430,500,github/copilot-sdk,github,java-codegen-fix.md,1,first,2026-05-21 17:29:30+00:00,47,1125,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2431,500,github/copilot-sdk,github,java-codegen-fix.md,2,last,2026-05-27 00:12:15+00:00,47,1125,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2432,501,github/copilot-sdk,github,release-changelog.md,1,first,2026-03-03 16:32:51+00:00,23,901,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2437,501,github/copilot-sdk,github,release-changelog.md,6,last,2026-05-30 00:09:22+00:00,32,1538,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2438,502,github/copilot-sdk,github,sdk-consistency-review.md,1,first,2026-01-23 11:14:12+00:00,13,587,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2441,502,github/copilot-sdk,github,sdk-consistency-review.md,4,last,2026-06-05 20:14:34+00:00,13,623,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2442,503,natnew/Awesome-Data-Science,natnew,issue-triage-agent.md,1,first,2026-02-18 09:37:05+00:00,10,337,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+2444,503,natnew/Awesome-Data-Science,natnew,issue-triage-agent.md,3,last,2026-02-18 10:05:18+00:00,3,99,0.0,0.556,1,1,0.556,upstream template,partial copy (1 source),"declared, confirmed"
+2445,504,neverinfamous/memory-journal-mcp,neverinfamous,ci-health-monitor.md,1,first,2026-03-12 12:39:35+00:00,12,306,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2447,504,neverinfamous/memory-journal-mcp,neverinfamous,ci-health-monitor.md,3,last,2026-04-11 01:45:17+00:00,12,306,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2448,505,neverinfamous/memory-journal-mcp,neverinfamous,docs-drift-detector.md,1,first,2026-03-12 12:39:35+00:00,16,479,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2453,505,neverinfamous/memory-journal-mcp,neverinfamous,docs-drift-detector.md,6,last,2026-05-31 22:00:58+00:00,16,482,0.0,0.241,1,1,0.241,same repo,minor reuse,no upstream parent
+2454,506,neverinfamous/memory-journal-mcp,neverinfamous,wiki-drift-detector.md,1,first,2026-03-23 20:49:27+00:00,12,370,0.0,0.438,1,1,0.438,same repo,partial copy (1 source),no upstream parent
+2455,506,neverinfamous/memory-journal-mcp,neverinfamous,wiki-drift-detector.md,2,last,2026-04-11 01:45:17+00:00,12,370,0.0,0.438,1,1,0.438,same repo,partial copy (1 source),no upstream parent
+2456,507,microsoft/skills,microsoft,update-llms-txt.md,1,first,2026-01-19 18:07:27+00:00,7,155,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2460,507,microsoft/skills,microsoft,update-llms-txt.md,5,last,2026-01-29 05:06:40+00:00,7,155,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2461,508,copilot-community-sdk/copilot-sdk-java,copilot-community-sdk,weekly-upstream-sync.md,1,first,2026-02-09 21:54:12+00:00,17,587,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2468,508,copilot-community-sdk/copilot-sdk-java,copilot-community-sdk,weekly-upstream-sync.md,8,last,2026-03-02 22:01:32+00:00,16,541,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2469,509,chrisreddington/flight-school,chrisreddington,daily-accessibility-review.md,1,first,2026-02-23 14:58:36+00:00,8,312,0.087,0.0,0,0,0.0,,no shared paragraphs,"declared, body diverged from declared template"
+2470,509,chrisreddington/flight-school,chrisreddington,daily-accessibility-review.md,2,last,2026-05-24 20:50:16+00:00,8,315,0.086,0.0,0,0,0.0,,no shared paragraphs,"declared, body diverged from declared template"
+2471,510,chrisreddington/flight-school,chrisreddington,daily-perf-improver.md,1,first,2026-02-23 14:58:36+00:00,28,743,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2472,510,chrisreddington/flight-school,chrisreddington,daily-perf-improver.md,2,last,2026-05-24 20:50:16+00:00,28,743,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2473,511,chrisreddington/flight-school,chrisreddington,daily-qa.md,1,first,2026-02-23 14:58:36+00:00,8,272,0.099,0.371,1,1,0.371,upstream template,partial copy (1 source),"declared, confirmed"
+2476,511,chrisreddington/flight-school,chrisreddington,daily-qa.md,4,last,2026-05-24 20:50:16+00:00,8,275,0.098,0.367,1,1,0.367,upstream template,partial copy (1 source),"declared, confirmed"
+2477,512,chrisreddington/flight-school,chrisreddington,daily-test-improver.md,1,first,2026-02-23 14:58:36+00:00,16,367,0.158,0.082,1,0,0.082,,minor reuse,"declared, body diverged from declared template"
+2479,512,chrisreddington/flight-school,chrisreddington,daily-test-improver.md,3,last,2026-05-24 20:50:16+00:00,16,370,0.073,0.081,1,0,0.081,,minor reuse,"declared, body diverged from declared template"
+2480,513,chrisreddington/flight-school,chrisreddington,issue-triage.md,1,first,2026-01-24 00:54:10+00:00,12,538,0.05,0.95,1,1,0.95,upstream template,whole copy (1 source),"declared, confirmed"
+2481,514,f/prompts.chat,f,spam-check.md,1,first,2026-02-18 17:29:04+00:00,31,805,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2489,516,microsoft/GitHub-Copilot-for-Azure,microsoft,issue-triage.md,1,first,2026-02-20 23:28:32+00:00,14,464,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2492,516,microsoft/GitHub-Copilot-for-Azure,microsoft,issue-triage.md,4,last,2026-04-20 20:51:29+00:00,14,464,0.0,0.024,1,0,0.024,,minor reuse,no upstream parent
+2493,517,microsoft/GitHub-Copilot-for-Azure,microsoft,weekly-repo-status.md,1,first,2026-02-20 19:20:59+00:00,4,93,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+2498,517,microsoft/GitHub-Copilot-for-Azure,microsoft,weekly-repo-status.md,6,last,2026-06-18 18:57:04+00:00,8,252,0.0,0.258,1,1,0.258,upstream template,minor reuse,"declared, confirmed"
+2501,520,influxdata/docs-v2,influxdata,weekly-repo-status.md,1,first,2026-03-29 19:00:13+00:00,4,93,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+2502,521,Flare-Animate/Flare,Flare-Animate,agentic-auto-fix.md,1,first,2026-03-05 08:24:42+00:00,5,394,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2503,522,vbuch/oboapp,vbuch,ci-failure-fix.md,1,first,2026-04-17 16:13:54+00:00,3,212,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2504,523,shanselman/winget-tui,shanselman,repo-assist.md,1,first,2026-03-17 06:08:31+00:00,44,2580,0.303,0.697,1,1,0.697,upstream template,partial copy (1 source),"declared, confirmed"
+2505,524,chimon2000/good_first_issue,chimon2000,code-simplifier.md,1,first,2026-02-12 17:56:24+00:00,52,1434,0.01,0.99,1,1,0.99,upstream template,whole copy (1 source),"declared, confirmed"
+2507,524,chimon2000/good_first_issue,chimon2000,code-simplifier.md,3,last,2026-02-12 18:51:58+00:00,52,1428,0.011,0.989,1,1,0.989,upstream template,whole copy (1 source),"declared, confirmed"
+2508,525,chimon2000/good_first_issue,chimon2000,duplicate-code-detector.md,1,first,2026-02-12 18:02:39+00:00,29,1117,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+2511,525,chimon2000/good_first_issue,chimon2000,duplicate-code-detector.md,4,last,2026-02-12 20:01:24+00:00,29,1087,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+2512,526,intent-integrity-chain/kit,intent-integrity-chain,review-anthropic.md,1,first,2026-05-22 16:45:51+00:00,15,1140,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2513,526,intent-integrity-chain/kit,intent-integrity-chain,review-anthropic.md,2,last,2026-06-02 08:35:34+00:00,15,1140,0.0,0.937,1,1,0.937,same repo,whole copy (1 source),no upstream parent
+2514,527,intent-integrity-chain/kit,intent-integrity-chain,review-openai.md,1,first,2026-05-22 16:45:51+00:00,16,1435,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2515,527,intent-integrity-chain/kit,intent-integrity-chain,review-openai.md,2,last,2026-06-02 08:35:34+00:00,16,1435,0.0,0.81,1,1,0.81,same repo,whole copy (1 source),no upstream parent
+2516,528,doggy8088/Apptopia,doggy8088,issue-auto-labeler.md,1,first,2026-02-17 08:17:56+00:00,21,716,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2518,528,doggy8088/Apptopia,doggy8088,issue-auto-labeler.md,3,last,2026-02-18 18:46:19+00:00,33,1091,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2519,529,PureWeen/PolyPilot,PureWeen,agent-fix.md,1,first,2026-04-22 22:02:25+00:00,24,582,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2529,529,PureWeen/PolyPilot,PureWeen,agent-fix.md,11,last,2026-04-28 20:12:12+00:00,34,1141,0.0,0.047,1,0,0.047,,minor reuse,no upstream parent
+2530,530,PureWeen/PolyPilot,PureWeen,dep-update.md,1,first,2026-04-18 21:05:49+00:00,13,285,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2545,530,PureWeen/PolyPilot,PureWeen,dep-update.md,16,last,2026-04-22 04:06:24+00:00,27,992,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2547,532,PureWeen/PolyPilot,PureWeen,fix-review-findings.md,1,first,2026-04-28 16:58:41+00:00,21,567,0.0,0.071,1,0,0.071,,minor reuse,no upstream parent
+2551,532,PureWeen/PolyPilot,PureWeen,fix-review-findings.md,5,last,2026-04-30 20:30:32+00:00,29,756,0.0,0.053,1,0,0.053,,minor reuse,no upstream parent
+2553,534,PureWeen/PolyPilot,PureWeen,instruction-drift.agent.md,1,first,2026-04-21 18:54:21+00:00,22,524,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2563,534,PureWeen/PolyPilot,PureWeen,instruction-drift.agent.md,11,last,2026-04-24 20:48:47+00:00,20,525,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2569,536,PureWeen/PolyPilot,PureWeen,review-retro.agent.md,1,first,2026-04-22 03:16:04+00:00,27,746,0.0,0.051,2,0,0.035,,minor reuse,no upstream parent
+2570,536,PureWeen/PolyPilot,PureWeen,review-retro.agent.md,2,last,2026-04-28 16:58:41+00:00,27,746,0.0,0.051,2,0,0.035,,minor reuse,no upstream parent
+2571,537,jurre/huebar,jurre,code-review.md,1,first,2026-02-15 20:51:58+00:00,11,437,0.0,0.025,1,0,0.025,,minor reuse,no upstream parent
+2572,538,jurre/huebar,jurre,release-notes.md,1,first,2026-02-15 20:51:58+00:00,15,261,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2573,539,popey/sbom-vm,popey,repo-assist.md,1,first,2026-06-02 16:18:52+00:00,46,2808,0.254,0.746,1,1,0.746,upstream template,partial copy (1 source),"declared, confirmed"
+2576,539,popey/sbom-vm,popey,repo-assist.md,4,last,2026-06-04 07:57:02+00:00,46,2808,0.254,0.746,1,1,0.746,upstream template,partial copy (1 source),"declared, confirmed"
+2577,540,zircote/rlm-rs,zircote,ci-doctor.md,1,first,2026-02-17 02:34:49+00:00,24,914,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+2579,540,zircote/rlm-rs,zircote,ci-doctor.md,3,last,2026-05-15 13:22:59+00:00,24,914,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+2580,541,zircote/rlm-rs,zircote,daily-qa.md,1,first,2026-02-17 03:05:52+00:00,13,469,0.096,0.904,1,1,0.904,upstream template,whole copy (1 source),"declared, confirmed"
+2581,541,zircote/rlm-rs,zircote,daily-qa.md,2,last,2026-02-27 18:58:05+00:00,13,469,0.096,0.904,1,1,0.904,upstream template,whole copy (1 source),"declared, confirmed"
+2582,542,zircote/rlm-rs,zircote,docs-freshness.md,1,first,2026-02-26 21:36:38+00:00,8,315,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2583,543,zircote/rlm-rs,zircote,issue-triage.md,1,first,2026-02-17 02:34:33+00:00,12,537,0.05,0.95,1,1,0.95,upstream template,whole copy (1 source),"declared, confirmed"
+2584,544,brunoborges/jairosvg,brunoborges,effort-labeler.md,1,first,2026-03-05 04:02:37+00:00,6,323,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2589,544,brunoborges/jairosvg,brunoborges,effort-labeler.md,6,last,2026-04-01 19:42:47+00:00,8,408,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2590,545,microsoft/agentrc,microsoft,ci-doctor.md,1,first,2026-02-27 23:58:53+00:00,22,1017,0.0,0.744,1,1,0.744,upstream template,partial copy (1 source),undeclared template copy
+2591,545,microsoft/agentrc,microsoft,ci-doctor.md,2,last,2026-05-13 23:28:00+00:00,22,1017,0.0,0.761,2,1,0.744,upstream template,partial copy (1 source),undeclared template copy
+2592,546,microsoft/agentrc,microsoft,code-simplifier.md,1,first,2026-02-27 23:58:53+00:00,35,970,0.015,0.655,2,1,0.625,upstream template,partial copy (1 source),undeclared template copy
+2593,546,microsoft/agentrc,microsoft,code-simplifier.md,2,last,2026-05-13 23:28:00+00:00,35,970,0.015,0.691,2,1,0.661,other owner,partial copy (1 source),undeclared template copy
+2594,547,microsoft/agentrc,microsoft,daily-doc-updater.md,1,first,2026-02-27 23:58:53+00:00,25,792,0.0,0.559,1,1,0.559,upstream template,partial copy (1 source),undeclared template copy
+2596,547,microsoft/agentrc,microsoft,daily-doc-updater.md,3,last,2026-05-13 23:28:00+00:00,25,826,0.0,0.557,2,1,0.536,upstream template,partial copy (1 source),undeclared template copy
+2597,548,asizikov-demos/copilot-user-level-statistics-viewer,asizikov-demos,code-duplication-scan.md,1,first,2026-05-02 13:30:10+00:00,21,826,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2603,548,asizikov-demos/copilot-user-level-statistics-viewer,asizikov-demos,code-duplication-scan.md,7,last,2026-06-19 13:32:43+00:00,21,824,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2604,549,asizikov-demos/copilot-user-level-statistics-viewer,asizikov-demos,dependency-audit.md,1,first,2026-02-21 12:56:04+00:00,11,463,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2606,549,asizikov-demos/copilot-user-level-statistics-viewer,asizikov-demos,dependency-audit.md,3,last,2026-06-19 13:32:43+00:00,21,607,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2607,550,SonarSource/sonarqube-cli,SonarSource,ci-failure-triage-agent.md,1,first,2026-05-27 17:47:51+00:00,18,776,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2609,551,henrybravo/docker-sandbox-run-copilot,henrybravo,check-copilot-version.md,1,first,2026-03-12 14:04:34+00:00,15,323,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2610,551,henrybravo/docker-sandbox-run-copilot,henrybravo,check-copilot-version.md,2,last,2026-04-11 07:14:58+00:00,15,329,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2611,552,elastic/elastic-docs-skills,elastic,skill-eval-test.md,1,first,2026-03-05 10:09:04+00:00,15,444,0.0,0.257,1,1,0.257,same repo,minor reuse,no upstream parent
+2613,552,elastic/elastic-docs-skills,elastic,skill-eval-test.md,3,last,2026-06-22 06:45:07+00:00,16,484,0.0,0.302,1,1,0.302,same repo,minor reuse,no upstream parent
+2614,553,elastic/elastic-docs-skills,elastic,skill-freshness.md,1,first,2026-02-23 13:56:00+00:00,2,112,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2624,553,elastic/elastic-docs-skills,elastic,skill-freshness.md,11,last,2026-06-22 06:45:07+00:00,11,591,0.0,0.193,1,1,0.193,same repo,minor reuse,no upstream parent
+2625,554,elastic/elastic-docs-skills,elastic,skill-quality-review.md,1,first,2026-03-05 09:51:18+00:00,14,585,0.0,0.195,1,1,0.195,same repo,minor reuse,no upstream parent
+2628,554,elastic/elastic-docs-skills,elastic,skill-quality-review.md,4,last,2026-06-22 06:45:07+00:00,15,640,0.0,0.228,1,1,0.228,same repo,minor reuse,no upstream parent
+2629,555,AndreaGriffiths11/IssueCrush,AndreaGriffiths11,daily-repo-status.md,1,first,2026-02-15 05:01:28+00:00,4,93,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+2630,556,AndreaGriffiths11/IssueCrush,AndreaGriffiths11,update-docs.md,1,first,2026-02-15 05:01:28+00:00,17,456,0.099,0.901,1,1,0.901,upstream template,whole copy (1 source),"declared, confirmed"
+2631,557,hatch3r/hatch3r,hatch3r,generate-docusaurus-docs.md,1,first,2026-03-02 06:54:18+00:00,18,1013,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2632,558,pockebot/openpocket,pockebot,issue-fix.md,1,first,2026-02-23 01:29:41+00:00,1,65,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2633,558,pockebot/openpocket,pockebot,issue-fix.md,2,last,2026-02-23 01:53:40+00:00,1,78,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2634,559,pockebot/openpocket,pockebot,issue-plan.md,1,first,2026-02-23 01:29:41+00:00,1,77,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2635,560,FalkorDB/falkordb-rs-next-gen,FalkorDB,flaky-test-rca.md,1,first,2026-06-01 16:34:44+00:00,19,737,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2638,560,FalkorDB/falkordb-rs-next-gen,FalkorDB,flaky-test-rca.md,4,last,2026-06-04 09:08:43+00:00,35,1341,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2639,561,FalkorDB/falkordb-rs-next-gen,FalkorDB,flow-migration-rca.md,1,first,2026-06-04 15:31:29+00:00,56,1754,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2640,562,FalkorDB/falkordb-rs-next-gen,FalkorDB,flow-tests-migration.md,1,first,2026-06-01 17:21:42+00:00,32,1073,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2642,562,FalkorDB/falkordb-rs-next-gen,FalkorDB,flow-tests-migration.md,3,last,2026-06-04 15:31:29+00:00,60,2238,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2643,563,DevExpGbb/gh-devlake,DevExpGbb,docs-sync.md,1,first,2026-03-11 22:30:31+00:00,12,468,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2644,564,dorlugasigal/TermBeam,dorlugasigal,scorecard-monitor.md,1,first,2026-03-27 09:13:19+00:00,8,230,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2645,564,dorlugasigal/TermBeam,dorlugasigal,scorecard-monitor.md,2,last,2026-03-27 10:06:46+00:00,8,256,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2646,565,inference-sh/shadcn-registry,inference-sh,code-review.md,1,first,2026-05-19 08:11:17+00:00,6,90,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2647,565,inference-sh/shadcn-registry,inference-sh,code-review.md,2,last,2026-05-19 08:13:55+00:00,6,90,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2648,566,microsoft/Microsoft-AI-Decision-Framework,microsoft,link-checker.md,1,first,2026-02-27 21:40:24+00:00,4,195,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2654,566,microsoft/Microsoft-AI-Decision-Framework,microsoft,link-checker.md,7,last,2026-05-18 14:20:43+00:00,13,703,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2655,567,github/gh-aw-actions,github,daily-runtime-threat-scan.md,1,first,2026-05-13 01:23:54+00:00,15,666,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2656,567,github/gh-aw-actions,github,daily-runtime-threat-scan.md,2,last,2026-06-12 22:18:56+00:00,15,666,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2657,568,microsoft/physical-ai-toolchain,microsoft,aw-dependabot-pr-review.md,1,first,2026-04-20 16:15:27+00:00,7,314,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2667,568,microsoft/physical-ai-toolchain,microsoft,aw-dependabot-pr-review.md,11,last,2026-06-23 07:26:13+00:00,12,819,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2668,569,webmaxru/web-ai-agent-skills,webmaxru,skill-update-worker.md,1,first,2026-03-15 18:31:31+00:00,5,360,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2671,569,webmaxru/web-ai-agent-skills,webmaxru,skill-update-worker.md,4,last,2026-05-15 09:50:54+00:00,4,331,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2672,570,dotnet/maui-labs,dotnet,ai-docs-audit.md,1,first,2026-03-29 18:47:12+00:00,12,461,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2677,570,dotnet/maui-labs,dotnet,ai-docs-audit.md,6,last,2026-05-08 07:52:42+00:00,22,1338,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2678,571,dotnet/maui-labs,dotnet,pr-docs-check.md,1,first,2026-04-16 09:15:21+00:00,24,686,0.0,0.092,1,0,0.092,,minor reuse,no upstream parent
+2684,571,dotnet/maui-labs,dotnet,pr-docs-check.md,7,last,2026-05-08 11:50:31+00:00,26,667,0.0,0.039,1,0,0.039,,minor reuse,no upstream parent
+2689,574,dotnet/skills,dotnet,close-stale-prs.agent.md,1,first,2026-03-25 12:00:10+00:00,9,653,0.0,1.0,1,1,1.0,same owner,whole copy (1 source),no upstream parent
+2695,574,dotnet/skills,dotnet,close-stale-prs.agent.md,7,last,2026-06-25 22:35:22+00:00,9,653,0.0,1.0,1,1,1.0,same owner,whole copy (1 source),no upstream parent
+2696,575,dotnet/skills,dotnet,devops-health-check.md,1,first,2026-03-02 20:59:28+00:00,70,2155,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2716,575,dotnet/skills,dotnet,devops-health-check.md,21,last,2026-06-25 22:35:22+00:00,69,3197,0.0,0.006,1,0,0.006,,minor reuse,no upstream parent
+2717,576,dotnet/skills,dotnet,devops-health-groom.md,1,first,2026-03-05 09:23:47+00:00,37,1158,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2734,576,dotnet/skills,dotnet,devops-health-groom.md,18,last,2026-06-25 22:35:22+00:00,63,2702,0.0,0.011,2,0,0.007,,minor reuse,no upstream parent
+2735,577,dotnet/skills,dotnet,devops-health-investigate.md,1,first,2026-03-02 20:59:28+00:00,13,516,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2746,577,dotnet/skills,dotnet,devops-health-investigate.md,12,last,2026-06-25 22:35:22+00:00,17,564,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2747,578,dotnet/skills,dotnet,issue-investigate.md,1,first,2026-05-06 13:39:20+00:00,26,957,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2751,578,dotnet/skills,dotnet,issue-investigate.md,5,last,2026-06-25 22:35:22+00:00,26,957,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2752,579,dotnet/skills,dotnet,issue-triage.md,1,first,2026-05-06 13:39:20+00:00,22,889,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2759,579,dotnet/skills,dotnet,issue-triage.md,8,last,2026-06-25 22:35:22+00:00,27,1129,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2760,580,dotnet/skills,dotnet,markdown-linter.md,1,first,2026-04-23 13:57:45+00:00,13,288,0.111,0.889,1,1,0.889,upstream template,whole copy (1 source),undeclared template copy
+2763,580,dotnet/skills,dotnet,markdown-linter.md,4,last,2026-06-25 22:35:22+00:00,13,288,0.111,0.889,1,1,0.889,upstream template,whole copy (1 source),undeclared template copy
+2764,581,dotnet/skills,dotnet,pr-malicious-scan.agent.md,1,first,2026-06-03 20:01:19+00:00,28,1097,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2768,581,dotnet/skills,dotnet,pr-malicious-scan.agent.md,5,last,2026-06-25 22:35:22+00:00,28,1268,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2769,582,iamnbutler/gpui-unofficial,iamnbutler,ci-fix.md,1,first,2026-04-03 01:30:15+00:00,11,441,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2771,582,iamnbutler/gpui-unofficial,iamnbutler,ci-fix.md,3,last,2026-04-17 14:18:05+00:00,13,505,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2772,583,githubnext/autoloop,githubnext,autoloop.md,1,first,2026-04-03 06:23:35+00:00,92,4457,0.003,0.108,1,1,0.108,upstream template,minor reuse,"declared, unresolvable"
+2779,583,githubnext/autoloop,githubnext,autoloop.md,8,last,2026-04-25 14:55:20+00:00,88,4502,0.003,0.067,1,0,0.067,,minor reuse,"declared, unresolvable"
+2780,584,UbiHome/UbiHome,UbiHome,pr-documentation-check.md,1,first,2026-05-16 23:06:57+00:00,16,448,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2781,584,UbiHome/UbiHome,UbiHome,pr-documentation-check.md,2,last,2026-05-23 21:52:31+00:00,16,448,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2782,585,Azure/git-ape,Azure,daily-repo-status.md,1,first,2026-05-06 10:02:56+00:00,4,93,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+2783,585,Azure/git-ape,Azure,daily-repo-status.md,2,last,2026-05-27 02:02:48+00:00,4,93,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+2784,586,Azure/git-ape,Azure,git-ape-workshop-content-updater.md,1,first,2026-06-15 05:32:27+00:00,36,1343,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2785,586,Azure/git-ape,Azure,git-ape-workshop-content-updater.md,2,last,2026-06-18 05:26:45+00:00,36,1343,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2786,587,Azure/git-ape,Azure,issue-triage-agent.md,1,first,2026-05-06 10:49:25+00:00,10,337,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+2788,587,Azure/git-ape,Azure,issue-triage-agent.md,3,last,2026-05-25 02:52:05+00:00,10,337,0.0,1.0,1,1,1.0,upstream template,whole copy (1 source),"declared, confirmed"
+2789,588,Azure-Samples/octocat-supply,Azure-Samples,auto-analyze-failures.md,1,first,2026-03-05 23:41:27+00:00,10,385,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2790,589,Azure-Samples/octocat-supply,Azure-Samples,daily-repo-activity-summary.md,1,first,2026-03-05 23:41:27+00:00,5,235,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2791,590,microsoft/apm-action,microsoft,apm-demo.md,1,first,2026-03-05 22:35:04+00:00,4,83,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2792,591,DanWahlin/github-azure-agentic-journeys,DanWahlin,journey-e2e-test.md,1,first,2026-04-11 23:27:32+00:00,25,708,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2798,591,DanWahlin/github-azure-agentic-journeys,DanWahlin,journey-e2e-test.md,7,last,2026-05-18 15:42:39+00:00,40,1085,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2799,592,oboapp/oboapp,oboapp,ci-failure-fix.md,1,first,2026-04-17 16:13:54+00:00,3,212,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2804,596,fqfqgo/clash-verge-rev,fqfqgo,pr-ai-slop-review.md,1,first,2026-03-17 18:07:27+00:00,18,604,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2809,596,fqfqgo/clash-verge-rev,fqfqgo,pr-ai-slop-review.md,6,last,2026-05-10 09:17:43+00:00,23,996,0.0,1.0,1,1,1.0,other owner,whole copy (1 source),no upstream parent
+2810,597,microsoft/AI-Engineering-Coach,microsoft,issue-triage.md,1,first,2026-06-07 18:40:49+00:00,21,905,0.03,0.705,1,1,0.705,upstream template,partial copy (1 source),"declared, confirmed"
+2812,597,microsoft/AI-Engineering-Coach,microsoft,issue-triage.md,3,last,2026-06-19 08:30:28+00:00,21,905,0.03,0.705,1,1,0.705,upstream template,partial copy (1 source),"declared, confirmed"
+2813,598,drasi-project/drasi-server,drasi-project,pr-correctness-reviewer.md,1,first,2026-06-05 16:40:00+00:00,24,1430,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2814,599,drasi-project/drasi-server,drasi-project,pr-design-reviewer.md,1,first,2026-06-05 16:40:00+00:00,21,978,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2815,600,drasi-project/drasi-server,drasi-project,pr-docs-reviewer.md,1,first,2026-06-05 16:40:00+00:00,24,1082,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2816,601,drasi-project/drasi-server,drasi-project,pr-prior-art-reviewer.md,1,first,2026-06-05 16:40:00+00:00,26,1048,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2817,602,drasi-project/drasi-server,drasi-project,pr-security-reviewer.md,1,first,2026-06-05 16:40:00+00:00,27,1050,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2818,603,drasi-project/drasi-server,drasi-project,pr-testing-reviewer.md,1,first,2026-06-05 16:40:00+00:00,24,1102,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2819,604,drasi-project/drasi-server,drasi-project,validate-yaml-snippets.md,1,first,2026-01-15 23:14:12+00:00,7,294,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
+2820,604,drasi-project/drasi-server,drasi-project,validate-yaml-snippets.md,2,last,2026-06-16 21:32:02+00:00,7,323,0.0,0.0,0,0,0.0,,no shared paragraphs,no upstream parent
