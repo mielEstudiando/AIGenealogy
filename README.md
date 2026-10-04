@@ -2,7 +2,7 @@
 
 Replication package for a study of **relations between GitHub Agentic Workflows (GH-AW) instruction files**. The study asks how the natural-language `.md` workflow files (YAML frontmatter + Markdown body) relate to each other: across repositories, and across versions of the same file.
 
-> Status: **Stage 2, work in progress.** This is a partial replication package. Only data acquisition and loading are implemented so far.
+> Status: **Stage 2, partial replication package.** It implements the full preliminary RQ1 analysis on GHAW-H v0.1.2: template relations, cross-owner relations, paragraph reuse, evolution and a first manual validation. Thresholds are provisional (see Thresholds); a second coder and the remaining threshold checks are pending.
 
 - GitHub: <https://github.com/mielEstudiando/AIGenealogy>
 - Zenodo DOI (this version): _TBD_
