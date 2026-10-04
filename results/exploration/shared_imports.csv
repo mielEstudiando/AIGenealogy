@@ -19,9 +19,7 @@ shared/build-failure-analysis-shared.md,2,1,1,False
 shared/checkout.md,9,1,1,False
 shared/dispatch-code-factory.md,4,1,1,False
 shared/elastic-stack.md,2,1,1,False
-shared/engine.md,8,1,1,False
 shared/network-vendor-domains.md,10,1,1,False
-shared/network.md,8,1,1,False
 shared/otel-logfire.md,10,1,1,False
 shared/pre-agent-steps.md,9,1,1,False
 shared/pre-steps.md,9,1,1,False

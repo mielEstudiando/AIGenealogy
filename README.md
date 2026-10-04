@@ -40,12 +40,14 @@ Requirements: [uv](https://docs.astral.sh/uv/) and Python ≥ 3.12.
 ```bash
 uv sync                                    # create the environment
 uv run python scripts/download_data.py     # fetch GHAW-H tables into data/raw/ (checksum-verified)
+uv run python scripts/language_filter.py   # report repo languages; non-English/Spanish repos are excluded -> results/language/
 uv run python scripts/explore_relations.py # exploratory relation analysis -> results/exploration/
 uv run python scripts/trace_evolution.py   # version-level evolution analysis -> results/evolution/
 ```
 
 | Step | Output | Description |
 | --- | --- | --- |
+| `language_filter.py` | `results/language/repo_languages.csv` | Language of each repository's instructions. `load_snapshots()` excludes repos that are mostly not English or Spanish (3 repos), so all later steps use 259 repos |
 | `explore_relations.py` | `results/exploration/*.csv` | Exact matches, body similarity, shared fragments, `source:` validation, version changes, shared imports |
 | `trace_evolution.py` | `results/evolution/*.csv` | Evolution within each file history, earlier relatives across files (same repo / same owner / other owner), whether copies follow or drift from their relative |
 
@@ -57,6 +59,7 @@ uv run python scripts/trace_evolution.py   # version-level evolution analysis ->
 | Data loading (`ghaw_relations.data`) | done |
 | Exploratory relation analysis (exact, near, fragment, declared source, imports) | done (exploratory) |
 | Version-level evolution tracing | done (exploratory) |
+| Language filter (English/Spanish only, for manual checking) | done |
 | Calibrated relation classification | pending |
 | RQ1 results (tables, figures) | pending |
 

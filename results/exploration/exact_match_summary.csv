@@ -1,5 +1,5 @@
 level,distinct,groups_multi_history,groups_multi_repo,groups_multi_owner,versions_in_multi_repo_groups,histories_in_multi_repo_groups,largest_group_repos
-content,2507,86,83,52,324,145,49
-frontmatter,2102,92,89,50,369,153,49
-body,1275,53,48,36,518,186,51
-body_nonstub,1257,47,45,35,402,84,17
+content,2444,86,83,52,324,145,49
+frontmatter,2046,92,89,50,369,153,49
+body,1247,53,48,36,518,186,51
+body_nonstub,1229,47,45,35,402,84,17
