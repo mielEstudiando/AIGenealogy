@@ -25,7 +25,7 @@ from ghaw_relations.data import load_snapshots
 from ghaw_relations.relations import fit_tfidf, frontmatter_keys, frontmatter_source, is_stub, text_hash
 
 OUT_DIR = Path(__file__).resolve().parent.parent / "results" / "evolution"
-ORIGIN_THRESHOLD = 0.5  # placeholder: first-version prior match needed to track a file against a relative
+ORIGIN_THRESHOLD = 0.3  # first-version prior match needed to track a file against a relative; 0.5 until a small manual check (2026-10-04), may change
 DRIFT_DELTA = 0.1  # placeholder: drop in cosine to the origin version that counts as drifting away
 SCOPES = ("same_repo", "same_owner", "other_owner")
 

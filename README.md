@@ -60,8 +60,17 @@ uv run python scripts/trace_evolution.py   # version-level evolution analysis ->
 | Exploratory relation analysis (exact, near, fragment, declared source, imports) | done (exploratory) |
 | Version-level evolution tracing | done (exploratory) |
 | Language filter (English/Spanish only, for manual checking) | done |
-| Calibrated relation classification | pending |
+| Calibrated relation classification | partial: relation cutoff checked by hand on a small sample (see Thresholds) |
 | RQ1 results (tables, figures) | pending |
+
+## Thresholds
+
+Similarity thresholds are provisional and **may still change**.
+
+- **Relation cutoff (0.3):** the minimum body cosine for two files to count as related. It was lowered from 0.5 after a manual check of a small stratified sample (87 cases, one coder, 2026-10-04). In that check, adapted rewrites at cosine 0.36–0.40 were judged related and files at 0.21 or below were not. The new cutoff also sits in the gap of the bimodal nearest-neighbour distribution (0.2–0.3). In this repository it is `ORIGIN_THRESHOLD` in `scripts/trace_evolution.py`.
+- **Other values (0.9 near-identical, 0.1 drift, 20-word stubs):** still unvalidated placeholders.
+
+A second coder and a check against declared sources (`source:`) are planned before the thresholds are fixed.
 
 ## Citation of the dataset
 
