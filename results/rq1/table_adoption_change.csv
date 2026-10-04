@@ -1,0 +1,3 @@
+category,"adapted [0.3,0.9)",identical (same text),near-identical (>=0.9),rewritten (<0.3)
+"declared, confirmed",16,88,14,0
+undeclared template copy,13,4,10,0

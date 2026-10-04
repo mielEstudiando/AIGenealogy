@@ -1,0 +1,7 @@
+category,files,share
+no upstream parent,317,0.5364
+stub only (imports),121,0.2047
+"declared, confirmed",118,0.1997
+undeclared template copy,27,0.0457
+"declared, unresolvable",4,0.0068
+"declared, body diverged from declared template",4,0.0068

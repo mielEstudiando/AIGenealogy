@@ -1,0 +1,5 @@
+skeleton_opener,False,False,True,True
+skeleton_full,False,True,False,True
+period,,,,
+after skeleton,413,1,29,5
+before skeleton,22,0,0,0

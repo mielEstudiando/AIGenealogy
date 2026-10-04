@@ -39,7 +39,14 @@ Each transformation is listed here as it is added.
 - **TF-IDF:** word 1–2 grams with sublinear tf, fitted on the distinct bodies so that repeated versions don't skew the idf (`ghaw_relations.relations.fit_tfidf`).
 - **Time:** `committed_at` is parsed as UTC. An "earlier" version must be strictly earlier, so same-timestamp ties are never treated as earlier.
 - **Language filter (2026-10-04):** `load_snapshots()` drops, by default, repositories whose instructions the team can't read and check by hand (`ghaw_relations.language`). Each non-stub body is classified with `py3langid` after removing code blocks, inline code, `${{ ... }}` expressions, URLs and HTML tags or comments. A repository is excluded when more than 50% of its non-stub body words are in a language other than English or Spanish. Stubs have no prose, so they are ignored, and a repository with only stubs is kept. Excluded: `libxengine/XEngine_Authorize` (zh), `runhey/OnmyojiAutoScript` (zh) and `felipementel/GitHubCopilotDevDays-Curitiba-2026` (pt, 87%). That leaves **259 repos, 591 histories and 2,757 versions** of 262, 604 and 2,820. No version is in Spanish. The report is `scripts/language_filter.py` → `results/language/repo_languages.csv`. `load_snapshots(readable_only=False)` gives the unfiltered data.
-- Apart from the language filter, no rows are removed. Duplicate versions are kept and analyzed explicitly.
+- **Duplicates (team decision, 2026-10-04): no rows are removed; duplicates are flagged.** Repeated content across files is the phenomenon RQ1 studies, so it is never deduplicated.
+  - **Against double counting:** file-level analyses use one version per file (usually the first non-stub version), and TF-IDF is fitted on distinct bodies. At record level, GHAW-H has no duplicated version, snapshot or (history, commit) rows.
+  - **Flags,** from `scripts/flag_duplicates.py` → `results/quality/`:
+    - **whitespace-only versions:** 4. Content is identical to the previous version after normalization. Already a separate "no change" transition.
+    - **reverts:** 65 versions in 41 files return to an earlier, non-consecutive version; 36 are in `Azure/azure-sdk-for-js`. Kept as real history events.
+    - **forks:** 2 pairs, `clash-verge-rev` and `oboapp`. Same repository name under two owners, with shared bodies. Reported separately in cross-owner results (`upstream/attribute_parents.py` labels them "fork"). 3 more same-name pairs share no content: name collisions, not forks.
+    - **possible renames:** 1. `elastic/kibana` `reviewer-codex.md` ends 15.8 days before the near-identical `reviewer-scout.md` (cosine 0.91) starts. GHAW-H keeps one path per history and records no deletions, so a rename cannot be told apart from a new file derived from the old one.
+- Apart from the language filter, no rows are removed.
 
 ## Upstream templates (not part of GHAW-H)
 

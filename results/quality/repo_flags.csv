@@ -1,0 +1,11 @@
+name,repo,same_name_repos,shared_nonstub_bodies,fork
+android,dotnet/android,duckduckgo/Android,0,False
+android,duckduckgo/Android,dotnet/android,0,False
+aspire,CommunityToolkit/Aspire,microsoft/aspire,0,False
+aspire,microsoft/aspire,CommunityToolkit/Aspire,0,False
+clash-verge-rev,clash-verge-rev/clash-verge-rev,fqfqgo/clash-verge-rev,4,True
+clash-verge-rev,fqfqgo/clash-verge-rev,clash-verge-rev/clash-verge-rev,4,True
+oboapp,oboapp/oboapp,vbuch/oboapp,1,True
+oboapp,vbuch/oboapp,oboapp/oboapp,1,True
+skills,dotnet/skills,microsoft/skills,0,False
+skills,microsoft/skills,dotnet/skills,0,False

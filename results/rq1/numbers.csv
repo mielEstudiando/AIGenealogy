@@ -1,0 +1,93 @@
+section,key,value,denominator,share,description,source
+dataset,versions_raw,2820,,,GHAW-H versions before the language filter,GHAW-H v0.1.2
+dataset,repos_raw,262,,,repositories before the language filter,GHAW-H v0.1.2
+dataset,repos_excluded_language,3,,,repositories excluded: mostly not English or Spanish,results/language/repo_languages.csv
+dataset,versions,2757,,,versions analyzed,GHAW-H v0.1.2
+dataset,files,591,,,files (histories) analyzed,GHAW-H v0.1.2
+dataset,repos,259,,,repositories analyzed,GHAW-H v0.1.2
+dataset,owners,137,,,owners (users or organizations),GHAW-H v0.1.2
+dataset,files_multi_version,395,591.0,0.6684,files with more than one version,GHAW-H v0.1.2
+dataset,first_commit,2025-10-03,,,earliest commit,GHAW-H v0.1.2
+dataset,last_commit,2026-06-27,,,latest commit,GHAW-H v0.1.2
+dataset,stub_versions,193,2757.0,0.07,versions with a stub body (< 20 words),GHAW-H v0.1.2
+dataset,nonstub_files_latest,467,,,files whose latest version is not a stub,GHAW-H v0.1.2
+dataset,declared_source_files,224,591.0,0.379,files with a declared `source:` in some version,GHAW-H v0.1.2
+data quality,whitespace_only_versions,4,2757.0,0.0015,versions identical to the previous one after normalization,results/quality/version_flags.csv
+data quality,revert_versions,65,2757.0,0.0236,"versions returning to an earlier, non-consecutive version",results/quality/version_flags.csv
+data quality,revert_files,41,,,files with at least one revert,results/quality/version_flags.csv
+data quality,fork_pairs,2,,,"repository pairs that are forks (same name, shared bodies)",results/quality/repo_flags.csv
+data quality,name_collision_pairs,3,,,same-name repository pairs with no shared content,results/quality/repo_flags.csv
+data quality,rename_candidates,1,,,possible renames within a repository,results/quality/rename_candidates.csv
+template relations,first_version_no_upstream_parent,317,591.0,0.5364,first versions: no upstream parent,upstream/results/history_parents.csv
+template relations,first_version_stub_only_imports,121,591.0,0.2047,first versions: stub only (imports),upstream/results/history_parents.csv
+template relations,first_version_declared_confirmed,118,591.0,0.1997,"first versions: declared, confirmed",upstream/results/history_parents.csv
+template relations,first_version_undeclared_template_copy,27,591.0,0.0457,first versions: undeclared template copy,upstream/results/history_parents.csv
+template relations,first_version_declared_unresolvable,4,591.0,0.0068,"first versions: declared, unresolvable",upstream/results/history_parents.csv
+template relations,first_version_declared_body_diverged_from_declared_template,4,591.0,0.0068,"first versions: declared, body diverged from declared template",upstream/results/history_parents.csv
+template relations,template_related_files,147,591.0,0.2487,"files whose closest earlier template has body cosine >= 0.3 (confirmed and undeclared copies, plus declared sources that could not be resolved)",upstream/results/history_parents.csv
+template relations,declared_adapted,16,118.0,0.1356,"declared, confirmed: adapted [0.3,0.9)",upstream/results/history_parents.csv
+template relations,declared_identical,88,118.0,0.7458,"declared, confirmed: identical (same text)",upstream/results/history_parents.csv
+template relations,declared_near_identical,14,118.0,0.1186,"declared, confirmed: near-identical (>=0.9)",upstream/results/history_parents.csv
+template relations,declared_rewritten,0,118.0,0.0,"declared, confirmed: rewritten (<0.3)",upstream/results/history_parents.csv
+template relations,undeclared_adapted,13,27.0,0.4815,"undeclared template copy: adapted [0.3,0.9)",upstream/results/history_parents.csv
+template relations,undeclared_identical,4,27.0,0.1481,undeclared template copy: identical (same text),upstream/results/history_parents.csv
+template relations,undeclared_near_identical,10,27.0,0.3704,undeclared template copy: near-identical (>=0.9),upstream/results/history_parents.csv
+template relations,undeclared_rewritten,0,27.0,0.0,undeclared template copy: rewritten (<0.3),upstream/results/history_parents.csv
+template relations,frontmatter_identical,47,122.0,0.3852,"frontmatter identical to the declared template, ignoring `source:`",upstream/results/history_parents.csv
+template relations,fm_key_changed_engine,36,122.0,0.2951,adoptions changing frontmatter key `engine`,upstream/results/history_parents.csv
+template relations,fm_key_changed_on,28,122.0,0.2295,adoptions changing frontmatter key `on`,upstream/results/history_parents.csv
+template relations,fm_key_changed_imports,21,122.0,0.1721,adoptions changing frontmatter key `imports`,upstream/results/history_parents.csv
+template relations,fm_key_changed_safe-outputs,18,122.0,0.1475,adoptions changing frontmatter key `safe-outputs`,upstream/results/history_parents.csv
+template relations,fm_key_changed_description,14,122.0,0.1148,adoptions changing frontmatter key `description`,upstream/results/history_parents.csv
+template relations,adopted_latest_revision,104,147.0,0.7075,template-related files that adopted the latest revision available,upstream/results/history_parents.csv
+template relations,median_days_after_revision,23.4,,,median days between the template revision and its adoption,upstream/results/history_parents.csv
+template relations,template_changed_follows_template_updates,27,65.0,0.4154,after the template changed: follows template updates,upstream/results/history_parents.csv
+template relations,template_changed_stays_close,25,65.0,0.3846,after the template changed: stays close,upstream/results/history_parents.csv
+template relations,template_changed_drifts_away,13,65.0,0.2,after the template changed: drifts away,upstream/results/history_parents.csv
+template relations,follows_and_declared,25,27.0,0.9259,files following template updates that declare `source:`,upstream/results/history_parents.csv
+cross-owner relations,pairs_siblings,368,372.0,0.9892,near-identical cross-owner pairs: siblings (same template family),upstream/results/peer_pairs.csv
+cross-owner relations,pairs_fork,2,372.0,0.0054,near-identical cross-owner pairs: fork,upstream/results/peer_pairs.csv
+cross-owner relations,pairs_mixed,1,372.0,0.0027,near-identical cross-owner pairs: mixed (different or one-sided parent),upstream/results/peer_pairs.csv
+cross-owner relations,pairs_direct_copy,1,372.0,0.0027,near-identical cross-owner pairs: direct copy (no upstream parent),upstream/results/peer_pairs.csv
+cross-owner relations,files_near_verbatim_other_owner,65,467.0,0.1392,non-stub files with a near-verbatim (>= 0.99) file under another owner,results/exploration/file_nearest_neighbour.csv
+cross-owner relations,files_related_other_owner,141,467.0,0.3019,non-stub files with a related (>= 0.3) file under another owner,results/exploration/file_nearest_neighbour.csv
+cross-owner relations,files_unrelated_other_owner,324,467.0,0.6938,non-stub files with nothing above 0.2 under another owner,results/exploration/file_nearest_neighbour.csv
+cross-owner relations,same_source_median_cos,0.943,,,"median body cosine, pairs with the same declared source",results/exploration/source_validation.csv
+cross-owner relations,diff_source_q95_cos,0.106,,,"95th percentile body cosine, pairs with different declared sources",results/exploration/source_validation.csv
+evolution within a file,transitions_body_only,377,2166.0,0.1741,consecutive-version transitions: body only,results/exploration/version_changes.csv
+evolution within a file,transitions_both,537,2166.0,0.2479,consecutive-version transitions: both,results/exploration/version_changes.csv
+evolution within a file,transitions_frontmatter_only,1248,2166.0,0.5762,consecutive-version transitions: frontmatter only,results/exploration/version_changes.csv
+evolution within a file,transitions_no_change,4,2166.0,0.0018,consecutive-version transitions: no change,results/exploration/version_changes.csv
+evolution within a file,files_never_change_body,111,395.0,0.281,multi-version files whose body never changes,results/evolution/history_evolution.csv
+evolution within a file,files_rewritten,23,395.0,0.0582,multi-version files rewritten (first-to-last cosine < 0.3),results/evolution/history_evolution.csv
+evolution within a file,median_versions,5.0,,,median versions per multi-version file,results/evolution/history_evolution.csv
+evolution within a file,median_span_days,37.0,,,median days between first and last version,results/evolution/history_evolution.csv
+evolution within a file,tracked_files,152,,,files tracked against an earlier GHAW-H relative (cosine >= 0.3),results/evolution/origin_tracking.csv
+evolution within a file,same_owner_follow,21,32.0,0.6562,same owner copies following their relative's updates (multi-version),results/evolution/origin_tracking.csv
+evolution within a file,other_owner_follow,7,64.0,0.1094,other owner copies following their relative's updates (multi-version),results/evolution/origin_tracking.csv
+paragraph reuse,first_no_shared_paragraphs,233,470.0,0.4957,non-stub first versions: no shared paragraphs,upstream/results/collage_versions.csv
+paragraph reuse,first_whole_copy,102,470.0,0.217,non-stub first versions: whole copy (1 source),upstream/results/collage_versions.csv
+paragraph reuse,first_minor_reuse,73,470.0,0.1553,non-stub first versions: minor reuse,upstream/results/collage_versions.csv
+paragraph reuse,first_partial_copy,62,470.0,0.1319,non-stub first versions: partial copy (1 source),upstream/results/collage_versions.csv
+paragraph reuse,collage_any,1,842.0,0.0012,first or last versions that are collages,upstream/results/collage_versions.csv
+divergent: creator-prompt skeleton,first_versions,470,,,non-stub first versions checked,upstream/results/skeleton_files.csv
+divergent: creator-prompt skeleton,opener_files,34,470.0,0.0723,files opening with 'You are an AI agent that',upstream/results/skeleton_files.csv
+divergent: creator-prompt skeleton,full_skeleton_files,6,470.0,0.0128,files with all three skeleton headings,upstream/results/skeleton_files.csv
+divergent: creator-prompt skeleton,opener_before_skeleton,0,22.0,0.0,opener files first committed before the skeleton existed (2025-12-19),upstream/results/skeleton_files.csv
+divergent: creator-prompt skeleton,opener_no_template,34,34.0,1.0,opener files with no template relation,upstream/results/skeleton_files.csv
+divergent: creator-prompt skeleton,opener_pair_median_cos,0.034,,,"median body cosine, cross-owner pairs of opener files",computed from GHAW-H
+divergent: creator-prompt skeleton,opener_pair_max_cos,0.143,,,"maximum body cosine, cross-owner pairs of opener files",computed from GHAW-H
+divergent: creator-prompt skeleton,independent_pair_median_cos,0.026,,,"median body cosine, cross-owner pairs of independent files",computed from GHAW-H
+divergent: creator-prompt skeleton,convergent_pairs_placeholder,1,,,"similar-meaning, different-wording pairs at the placeholder cutoff",upstream/results/convergent_pairs.csv
+emoji use,files_any_emoji,268,591.0,0.4535,files with an emoji in some version,upstream/results/emoji_histories.csv
+emoji use,emoji_declared_body_diverged_from_declared_template,1,4.0,0.25,"files with emoji: declared, body diverged from declared template",upstream/results/emoji_histories.csv
+emoji use,emoji_declared_confirmed,98,118.0,0.8305,"files with emoji: declared, confirmed",upstream/results/emoji_histories.csv
+emoji use,emoji_declared_unresolvable,2,4.0,0.5,"files with emoji: declared, unresolvable",upstream/results/emoji_histories.csv
+emoji use,emoji_no_upstream_parent,137,317.0,0.4322,files with emoji: no upstream parent,upstream/results/emoji_histories.csv
+emoji use,emoji_stub_only_imports,10,121.0,0.0826,files with emoji: stub only (imports),upstream/results/emoji_histories.csv
+emoji use,emoji_undeclared_template_copy,20,27.0,0.7407,files with emoji: undeclared template copy,upstream/results/emoji_histories.csv
+emoji use,versions_emoji_in_prose,1205,2757.0,0.4371,versions with an emoji in prose,upstream/results/emoji_versions.csv
+emoji use,versions_emoji_in_frontmatter,513,2757.0,0.1861,versions with an emoji in frontmatter,upstream/results/emoji_versions.csv
+emoji use,versions_emoji_in_code,441,2757.0,0.16,versions with an emoji in code,upstream/results/emoji_versions.csv
+emoji use,versions_emoji_in_heading,73,2757.0,0.0265,versions with an emoji in heading,upstream/results/emoji_versions.csv
+emoji use,copies_all_inherited,113,117.0,0.9658,template copies with emoji that inherited all of them,upstream/results/emoji_inheritance.csv

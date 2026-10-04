@@ -1,0 +1,5 @@
+change,transitions,median_body_cos
+body only,377,0.964
+both,537,0.949
+frontmatter only,1248,1.0
+no change,4,1.0

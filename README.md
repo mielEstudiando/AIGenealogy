@@ -42,22 +42,44 @@ Requirements: [uv](https://docs.astral.sh/uv/) and Python ≥ 3.12.
 uv sync                                    # create the environment
 uv run python scripts/download_data.py     # fetch GHAW-H tables into data/raw/ (checksum-verified)
 uv run python scripts/language_filter.py   # report repo languages; non-English/Spanish repos are excluded -> results/language/
+uv run python scripts/flag_duplicates.py   # flag whitespace-only versions, reverts, forks, possible renames -> results/quality/
 uv run python scripts/explore_relations.py # exploratory relation analysis -> results/exploration/
 uv run python scripts/trace_evolution.py   # version-level evolution analysis -> results/evolution/
 uv run python upstream/attribute_parents.py # files vs. the upstream templates they relate to -> upstream/results/
 uv run python upstream/detect_scenarios.py  # partial copies, collages, AI-prompt skeleton -> upstream/results/
 uv run python upstream/emoji_tally.py       # emoji use by location, inherited or added -> upstream/results/
+uv run python scripts/rq1_numbers.py        # every reported RQ1 number + the data behind each table -> results/rq1/
 ```
 
 | Step | Output | Description |
 | --- | --- | --- |
 | `language_filter.py` | `results/language/repo_languages.csv` | Language of each repository's instructions. `load_snapshots()` excludes repos that are mostly not English or Spanish (3 repos), so all later steps use 259 repos |
+| `flag_duplicates.py` | `results/quality/*.csv` | Flags duplicates without removing rows: 4 whitespace-only versions, 65 reverts, 2 fork pairs, 1 possible rename |
 | `explore_relations.py` | `results/exploration/*.csv` | Exact matches, body similarity, shared fragments, `source:` validation, version changes, shared imports |
 | `upstream/fetch_upstream.py` | `upstream/data/*.parquet` | Fetches the templates GHAW-H files declare or import. The data is committed; rerun only to refresh (it downloads newer commits too) |
 | `upstream/attribute_parents.py` | `upstream/results/` | Each file's closest earlier template, declared vs. undeclared copies, change at adoption, whether files follow template updates, siblings vs. direct copies |
 | `upstream/detect_scenarios.py` | `upstream/results/` | Paragraph reuse (partial copy, collage), similar-meaning pairs, gh-aw creator-prompt skeleton |
 | `upstream/emoji_tally.py` | `upstream/results/` | Emoji use by location, and whether copies inherited it from the template |
+| `rq1_numbers.py` | `results/rq1/numbers.csv`, `results/rq1/table_*.csv` | Collects every number reported for RQ1, with denominator, description and source file, and the counts behind each table. Reads stored results only |
 | `trace_evolution.py` | `results/evolution/*.csv` | Evolution within each file history, earlier relatives across files (same repo / same owner / other owner), whether copies follow or drift from their relative |
+
+## Results for RQ1
+
+RQ1 asks how GitHub Agentic Workflows instruction files are related to each other. Each result maps to its script and output; `results/rq1/numbers.csv` lists every reported number with its source file.
+
+| Result | Produced by | Output |
+| --- | --- | --- |
+| Dataset, inclusion and exclusion (language filter, stubs, duplicate flags) | `language_filter.py`, `flag_duplicates.py` | `results/language/`, `results/quality/` |
+| Where files come from: template relation, declared vs. undeclared copies | `upstream/attribute_parents.py` | `upstream/results/history_parents.csv` → `results/rq1/table_attribution.csv` |
+| Change at adoption (identical, near-identical, adapted) and frontmatter keys changed | `upstream/attribute_parents.py` | `results/rq1/table_adoption_change.csv`, `table_frontmatter_keys_changed.csv` |
+| Whether files follow template updates | `upstream/attribute_parents.py` | `results/rq1/table_template_updates.csv` |
+| Cross-owner near-identical pairs: template siblings vs. direct copies | `upstream/attribute_parents.py`, `explore_relations.py` | `results/rq1/table_cross_owner_pairs.csv`, `table_nearest_neighbour.csv` |
+| Paragraph reuse: partial copies, collages | `upstream/detect_scenarios.py` | `results/rq1/table_paragraph_reuse.csv` |
+| Divergent relation: gh-aw creator-prompt skeleton; similar-meaning pairs | `upstream/detect_scenarios.py` | `results/rq1/table_skeleton.csv`, `table_convergent_bands.csv` |
+| Evolution within a file and against earlier relatives | `explore_relations.py`, `trace_evolution.py` | `results/rq1/table_version_changes.csv`, `table_relative_tracking.csv` |
+| Emoji use (descriptive) | `upstream/emoji_tally.py` | `results/rq1/table_emoji_by_attribution.csv` |
+
+The tables and figures in the course document are made by the authors from these files.
 
 ## Implementation status
 
@@ -70,7 +92,8 @@ uv run python upstream/emoji_tally.py       # emoji use by location, inherited o
 | Language filter (English/Spanish only, for manual checking) | done |
 | Upstream templates: fetch, attribution, scenarios, emoji tally | done (exploratory; relation cutoff checked by hand) |
 | Calibrated relation classification | partial: relation cutoff checked by hand on a small sample (see Thresholds) |
-| RQ1 results (tables, figures) | pending |
+| RQ1 numbers and table data (`results/rq1/`) | done (preliminary) |
+| RQ1 tables and figures for the document | made by the authors from `results/rq1/` |
 
 ## Thresholds
 
