@@ -1,0 +1,133 @@
+history_id,repo,filename,scope,relative_repo,relative_filename,relative_history_id,relative_versions,child_versions,cos_first_to_origin,cos_last_to_origin,cos_last_to_relative_then,cos_last_to_best_relative,matched_relative_rank_first,matched_relative_rank_last,pattern
+1,apache/cloudstack,daily-issue-triage.md,other_owner,microsoft/AI-Engineering-Coach,issue-triage.md,597,3,1,0.5264,0.5264,0.5264,0.5264,1,1,single version
+2,apache/cloudstack,daily-repo-status.md,other_owner,dotnet/maui,daily-repo-status.md,23,3,4,1.0,0.9928,0.9928,0.9928,1,1,stays close
+5,Activiti/activiti-cloud,supply-chain-review.md,other_owner,Alfresco/alfresco-ng2-components,supply-chain-review.md,82,3,3,1.0,0.9724,0.9749,0.9749,1,2,follows relative's updates
+7,duckduckgo/Android,daily-repo-status.md,other_owner,apache/cloudstack,daily-repo-status.md,2,4,1,1.0,1.0,1.0,1.0,1,1,single version
+9,executeautomation/ExecuteAutomationWebApp,daily-repo-status.md,other_owner,apache/cloudstack,daily-repo-status.md,2,4,1,1.0,1.0,1.0,1.0,1,1,single version
+15,uxsoft/AppleWirelessKeyboard,repo-assist.md,other_owner,py-why/dowhy,repo-assist.md,215,4,1,1.0,1.0,1.0,1.0,1,1,single version
+23,dotnet/maui,daily-repo-status.md,other_owner,microsoft/Web-Dev-For-Beginners,daily-repo-status.md,107,1,3,1.0,1.0,1.0,1.0,1,1,stays close
+25,dotnet/machinelearning,ci-scan-feedback.agent.md,same_owner,dotnet/runtime,ci-failure-scan-feedback.md,73,7,2,0.6524,0.6524,0.6535,0.6535,3,4,follows relative's updates
+34,microsoft/vstest,code-simplifier.md,other_owner,baizhiheizi/quill,code-simplifier.md,226,2,1,0.9974,0.9974,0.9974,0.9974,1,1,single version
+35,microsoft/vstest,daily-file-diet.md,other_owner,baizhiheizi/quill,large-file-simplifier.md,229,2,1,0.6327,0.6327,0.6327,0.6327,1,1,single version
+37,microsoft/vstest,efficiency-improver.md,other_owner,Shazwazza/Articulate,efficiency-improver.md,48,2,1,0.9733,0.9733,0.9733,0.9733,1,1,single version
+38,microsoft/vstest,http-link-checker.md,other_owner,githubnext/agentics,link-checker.md,432,6,2,0.9347,0.9347,0.9347,0.9347,1,1,stays close
+40,microsoft/vstest,malicious-code-scan.md,other_owner,baizhiheizi/quill,malicious-code-scan.md,230,2,1,0.9987,0.9987,0.9987,0.9987,1,1,single version
+41,microsoft/vstest,markdown-linter.md,other_owner,dotnet/skills,markdown-linter.md,580,4,1,0.9933,0.9933,0.9933,0.9933,1,1,single version
+42,microsoft/vstest,md-link-checker.md,other_owner,githubnext/agentics,link-checker.md,432,6,3,0.5796,0.5352,0.5352,0.5352,1,1,stays close
+46,microsoft/vstest,repository-quality-improver.md,other_owner,baizhiheizi/quill,repository-quality-improver.md,234,2,1,0.9985,0.9985,0.9985,0.9985,1,1,single version
+54,Azure/azure-sdk-for-net,issue-triage.md,same_owner,Azure/azure-sdk-for-rust,issue-triage.md,202,10,20,0.9024,0.1718,0.5698,0.5698,1,10,follows relative's updates
+58,ReactiveX/RxPY,repo-assist.md,other_owner,py-why/dowhy,repo-assist.md,215,4,2,0.648,0.648,0.648,0.648,1,1,stays close
+65,Azure/azure-sdk-for-python,doc-consistency-check.md,same_owner,Azure/azure-sdk-for-js,docs-consistency-check.md,93,7,1,0.806,0.806,0.806,0.806,1,1,single version
+66,taosdata/TDengine,issue-triage.md,other_owner,PowerShell/vscode-powershell,issue-triage.md,87,2,2,1.0,1.0,1.0,1.0,1,1,stays close
+68,openvinotoolkit/openvino,ci-doctor-mq.md,same_repo,openvinotoolkit/openvino,ci-doctor.md,69,5,10,0.551,0.4939,0.4939,0.4939,2,2,stays close
+69,openvinotoolkit/openvino,ci-doctor.md,other_owner,anweiss/cddl,ci-doctor.md,199,1,5,0.8451,0.7147,0.7147,0.7147,1,1,drifts away
+82,Alfresco/alfresco-ng2-components,supply-chain-review.md,same_owner,Alfresco/alfresco-build-tools,supply-chain-review.md,266,5,3,1.0,0.9724,1.0,1.0,1,5,follows relative's updates
+83,storybookjs/storybook,code-simplifier.md,other_owner,sytone/obsidian-queryallthethings,code-simplifier.md,275,1,2,1.0,0.9167,0.9167,0.9167,1,1,stays close
+84,storybookjs/storybook,duplicate-code-detector.md,other_owner,ptarmiganlabs/butler-sos,duplicate-code-detector.md,103,5,2,1.0,0.932,0.9016,0.932,1,1,stays close
+87,PowerShell/vscode-powershell,issue-triage.md,other_owner,appwrite/appwrite,issue-triage.md,106,13,2,1.0,0.0903,0.0758,0.0903,1,1,drifts away
+95,Azure/azure-sdk-for-js,issue-triage.md,same_owner,Azure/azure-sdk-for-net,issue-triage.md,54,20,7,0.8123,0.8123,0.7779,0.8123,15,15,stays close
+103,ptarmiganlabs/butler-sos,duplicate-code-detector.md,other_owner,chimon2000/good_first_issue,duplicate-code-detector.md,525,4,5,1.0,0.7929,0.804,0.804,1,2,follows relative's updates
+106,appwrite/appwrite,issue-triage.md,other_owner,kaito-project/aikit,issue-triage.md,427,2,13,1.0,0.5453,0.5453,0.5453,2,2,drifts away
+107,microsoft/Web-Dev-For-Beginners,daily-repo-status.md,other_owner,r12f/rnp,daily-repo-status.md,200,1,1,1.0,1.0,1.0,1.0,1,1,single version
+113,elastic/kibana,reviewer-codex.md,same_repo,elastic/kibana,reviewer-claude.md,112,11,5,0.8948,0.3451,0.8233,0.8233,1,8,follows relative's updates
+114,elastic/kibana,reviewer-scout.md,same_repo,elastic/kibana,reviewer-codex.md,113,5,2,0.9111,0.9111,0.9111,0.9111,5,5,stays close
+115,lablup/backend.ai-webui,daily-test-improver.md,other_owner,kaito-project/aikit,daily-test-improver.md,426,1,4,0.6802,0.6728,0.6728,0.6728,1,1,stays close
+117,lablup/backend.ai-webui,e2e-watchdog.md,same_repo,lablup/backend.ai-webui,e2e-healer.md,116,4,4,0.8231,0.8231,0.8231,0.8231,1,1,stays close
+119,lablup/backend.ai-webui,weekly-team-status.md,other_owner,kubestellar/docs,daily-team-status.md,451,5,2,0.9469,0.9469,0.9469,0.9469,1,1,stays close
+125,licensee/licensee,repo-assist.md,other_owner,ionide/ionide-vscode-fsharp,repo-assist.md,333,29,16,1.0,0.8826,0.6692,0.8826,10,10,drifts away
+157,Azure/azure-sdk-for-go,issue-triage.md,same_owner,Azure/azure-sdk-for-net,issue-triage.md,54,20,1,0.8347,0.8347,0.8347,0.8347,16,16,single version
+160,sergey-tihon/Clippit,clippy.md,other_owner,fslaborg/Deedle,repo-assist.md,332,12,18,0.9473,0.9198,0.9676,0.9676,1,10,follows relative's updates
+179,elastic/terraform-provider-elasticstack,duplicate-code-detector.md,other_owner,rancher/dashboard,duplicate-code-detector.md,317,5,13,0.939,0.926,0.926,0.926,1,1,stays close
+199,anweiss/cddl,ci-doctor.md,other_owner,zircote/rlm-rs,ci-doctor.md,540,3,1,0.8413,0.8413,0.8413,0.8413,1,1,single version
+200,r12f/rnp,daily-repo-status.md,other_owner,kubestellar/docs,daily-team-status.md,451,5,1,0.61,0.61,0.61,0.61,1,1,single version
+202,Azure/azure-sdk-for-rust,issue-triage.md,other_owner,taosdata/TDengine,issue-triage.md,66,2,10,0.5972,0.0951,0.0951,0.0951,1,1,drifts away
+204,microsoft/vscode-pylint,check-python-versions.md,same_owner,microsoft/vscode-isort,check-python-versions.md,216,4,4,1.0,0.9259,1.0,1.0,1,2,follows relative's updates
+210,pulumi/pulumi-cdk,cdk-pr-rereview.md,same_owner,pulumi/pulumi-terraform-bridge,terraform-bridge-pr-rereview.md,142,4,1,1.0,1.0,1.0,1.0,1,1,single version
+211,pulumi/pulumi-cdk,cdk-pr-review.md,same_owner,pulumi/pulumi-terraform-bridge,terraform-bridge-pr-review.md,143,4,1,1.0,1.0,1.0,1.0,1,1,single version
+212,microsoft/vscode-black-formatter,check-python-versions.md,same_owner,microsoft/vscode-isort,check-python-versions.md,216,4,3,0.9967,0.9967,0.9967,0.9967,2,2,stays close
+213,microsoft/vscode-black-formatter,extension-template-sync.md,same_owner,microsoft/vscode-pylint,extension-template-sync.md,205,7,7,0.9245,0.5156,0.9207,0.9207,1,5,follows relative's updates
+214,microsoft/vscode-black-formatter,issue-triage.md,same_owner,microsoft/vscode-pylint,issue-triage.md,206,6,5,0.8309,0.7291,0.8798,0.8798,1,5,follows relative's updates
+215,py-why/dowhy,repo-assist.md,other_owner,fslaborg/Deedle,repo-assist.md,332,12,4,1.0,1.0,1.0,1.0,1,1,stays close
+217,microsoft/vscode-isort,extension-template-sync.md,same_owner,microsoft/vscode-black-formatter,extension-template-sync.md,213,7,7,0.9233,0.5041,0.9193,0.9193,1,5,follows relative's updates
+218,microsoft/vscode-isort,issue-triage.md,same_owner,microsoft/vscode-pylint,issue-triage.md,206,6,5,0.8193,0.7174,0.8721,0.8721,1,5,follows relative's updates
+224,baizhiheizi/quill,accessibility-review.md,other_owner,rancher/dashboard,daily-accessibility-review.md,313,7,3,0.5571,0.7334,0.7334,0.7334,1,1,stays close
+226,baizhiheizi/quill,code-simplifier.md,other_owner,Kong/kongctl,code-simplifier.md,477,9,2,0.8716,0.8716,0.7028,0.8716,1,1,stays close
+228,baizhiheizi/quill,efficiency-improver.md,other_owner,Shazwazza/Articulate,efficiency-improver.md,48,2,2,1.0,1.0,1.0,1.0,1,1,stays close
+231,baizhiheizi/quill,perf-improver.md,other_owner,talk2MeGooseman/stream_closed_captioner_phoenix,daily-test-improver.md,252,8,6,0.5352,0.5352,0.5352,0.5352,8,8,stays close
+232,baizhiheizi/quill,pr-fix.md,other_owner,rancher/dashboard,pr-fix.md,319,4,2,0.7727,0.7727,0.7727,0.7727,1,1,stays close
+233,baizhiheizi/quill,repo-assist.md,other_owner,fslaborg/Deedle,repo-assist.md,332,12,3,1.0,1.0,1.0,1.0,10,10,stays close
+234,baizhiheizi/quill,repository-quality-improver.md,other_owner,talk2MeGooseman/stream_closed_captioner_phoenix,repository-quality-improver.md,253,1,2,1.0,1.0,1.0,1.0,1,1,stays close
+236,baizhiheizi/quill,test-improver.md,other_owner,talk2MeGooseman/stream_closed_captioner_phoenix,daily-test-improver.md,252,8,6,0.9997,0.9997,0.9997,0.9997,8,8,stays close
+252,talk2MeGooseman/stream_closed_captioner_phoenix,daily-test-improver.md,other_owner,lablup/backend.ai-webui,daily-test-improver.md,115,4,8,1.0,0.1394,0.1387,0.1394,1,1,drifts away
+263,microsoft/vscode-mypy,check-python-versions.md,same_owner,microsoft/vscode-isort,check-python-versions.md,216,4,4,1.0,0.9259,1.0,1.0,1,2,follows relative's updates
+264,microsoft/vscode-mypy,extension-template-sync.md,same_owner,microsoft/vscode-isort,extension-template-sync.md,217,7,7,0.9387,0.5063,0.9354,0.9354,1,5,follows relative's updates
+265,microsoft/vscode-mypy,issue-triage.md,same_owner,microsoft/vscode-isort,issue-triage.md,218,5,5,0.8306,0.7234,0.8812,0.8812,1,4,follows relative's updates
+275,sytone/obsidian-queryallthethings,code-simplifier.md,other_owner,chimon2000/good_first_issue,code-simplifier.md,524,3,1,0.9664,0.9664,0.9321,0.9664,1,1,single version
+280,Azure/LogicAppsUX,daily-repo-status.md,other_owner,apache/cloudstack,daily-repo-status.md,2,4,1,1.0,1.0,1.0,1.0,1,1,single version
+292,jonathanpeppers/dotnes,dotnes-reviewer.md,other_owner,dotnet/android-tools,android-tools-reviewer.md,357,6,1,0.6454,0.6454,0.6454,0.6454,2,2,single version
+294,microsoft/aspire,daily-repo-status.md,same_owner,microsoft/Web-Dev-For-Beginners,daily-repo-status.md,107,1,7,1.0,0.0664,0.0664,0.0664,1,1,drifts away
+305,openvinotoolkit/openvino.genai,ci-doctor.md,other_owner,zircote/rlm-rs,ci-doctor.md,540,3,8,0.9541,0.6148,0.6148,0.6148,1,1,drifts away
+310,KunalSin9h/meltcd,daily-repo-status.md,other_owner,apache/cloudstack,daily-repo-status.md,2,4,2,1.0,1.0,1.0,1.0,1,1,stays close
+315,rancher/dashboard,daily-repo-status.md,other_owner,apache/cloudstack,daily-repo-status.md,2,4,4,0.9839,0.9839,0.9767,0.9839,1,1,stays close
+316,rancher/dashboard,daily-test-improver.md,other_owner,talk2MeGooseman/stream_closed_captioner_phoenix,daily-test-improver.md,252,8,6,0.9559,0.8598,0.8608,0.8608,6,8,follows relative's updates
+317,rancher/dashboard,duplicate-code-detector.md,other_owner,storybookjs/storybook,duplicate-code-detector.md,84,2,5,0.8089,0.8089,0.8089,0.8089,2,2,stays close
+318,rancher/dashboard,issue-triage.md,other_owner,taosdata/TDengine,issue-triage.md,66,2,4,0.9163,0.9163,0.9163,0.9163,1,1,stays close
+322,lrascao/rebar3_gpb_plugin,daily-repo-status.md,other_owner,dotnet/maui,daily-repo-status.md,23,3,2,1.0,0.9448,0.9448,0.9448,1,1,stays close
+330,dotnet/fsharp,repo-assist.md,other_owner,ionide/ionide-vscode-fsharp,repo-assist.md,333,29,11,0.6768,0.325,0.3161,0.325,13,13,drifts away
+331,fable-compiler/Fable,repo-assist.md,other_owner,fslaborg/Deedle,repo-assist.md,332,12,10,0.7558,0.7092,0.6847,0.7092,1,1,stays close
+332,fslaborg/Deedle,repo-assist.md,other_owner,fsprojects/FSharpx.Collections,repo-assist.md,341,19,12,1.0,0.9518,1.0,1.0,1,17,follows relative's updates
+333,ionide/ionide-vscode-fsharp,repo-assist.md,same_owner,ionide/FsAutoComplete,repo-assist.md,337,30,29,1.0,0.653,1.0,1.0,2,29,follows relative's updates
+334,fsprojects/fantomas,repo-assist.md,same_owner,fsprojects/FSharp.Formatting,repo-assist.md,335,32,30,1.0,0.5521,0.74,0.74,9,30,follows relative's updates
+335,fsprojects/FSharp.Formatting,repo-assist.md,same_owner,fsprojects/FSharp.Control.AsyncSeq,repo-assist.md,344,38,32,1.0,0.3203,1.0,1.0,4,36,follows relative's updates
+336,fsprojects/FsHttp,repo-assist.md,same_owner,fsprojects/FSharp.Formatting,repo-assist.md,335,32,1,1.0,1.0,1.0,1.0,20,20,single version
+337,ionide/FsAutoComplete,repo-assist.md,other_owner,fsprojects/FSharp.Formatting,repo-assist.md,335,32,30,1.0,0.6415,1.0,1.0,5,30,follows relative's updates
+339,fsprojects/FSharp.TypeProviders.SDK,repo-assist.md,same_owner,fsprojects/FSharp.Formatting,repo-assist.md,335,32,26,1.0,0.755,1.0,1.0,10,30,follows relative's updates
+340,fsprojects/SwaggerProvider,repo-assist.md,same_owner,fsprojects/FSharpx.Collections,repo-assist.md,341,19,24,1.0,0.9518,1.0,1.0,1,17,follows relative's updates
+341,fsprojects/FSharpx.Collections,repo-assist.md,same_owner,fsprojects/FSharp.Data.SqlClient,repo-assist.md,342,16,19,1.0,0.9518,1.0,1.0,3,14,follows relative's updates
+342,fsprojects/FSharp.Data.SqlClient,repo-assist.md,same_owner,fsprojects/FSharp.Formatting,repo-assist.md,335,32,16,1.0,0.9531,1.0,1.0,17,30,follows relative's updates
+343,fslaborg/FSharp.Stats,repo-assist.md,same_owner,fslaborg/Deedle,repo-assist.md,332,12,13,1.0,0.9518,1.0,1.0,1,10,follows relative's updates
+345,fable-compiler/Fable.Python,repo-assist.md,other_owner,py-why/dowhy,repo-assist.md,215,4,2,0.6735,0.6735,0.6735,0.6735,1,1,stays close
+346,fsprojects/FSharp.Control.TaskSeq,repo-assist.md,same_owner,fsprojects/FSharp.Formatting,repo-assist.md,335,32,19,1.0,0.9531,1.0,1.0,17,30,follows relative's updates
+354,dotnet/java-interop,java-interop-reviewer.md,same_owner,dotnet/android,android-reviewer.md,355,12,8,0.8238,0.8238,0.7549,0.8238,6,6,stays close
+357,dotnet/android-tools,android-tools-reviewer.md,same_owner,dotnet/android,android-reviewer.md,355,12,6,0.9429,0.8098,0.7679,0.8381,1,6,follows relative's updates
+358,erigontech/erigon,daily-repo-status.md,other_owner,dotnet/maui,daily-repo-status.md,23,3,2,0.9365,0.8347,0.8347,0.8347,1,1,drifts away
+359,timrogers/iata-code-decoder-api,daily-repo-status.md,other_owner,apache/cloudstack,daily-repo-status.md,2,4,1,0.9928,0.9928,0.9928,0.9928,1,1,single version
+377,foxminchan/BookWorm,pr-triage.md,same_repo,foxminchan/BookWorm,issue-triage.md,376,7,9,0.6244,0.3715,0.4195,0.4195,1,6,drifts away
+380,IgniteUI/igniteui-xplat-docs,sync-jp-docs.md,same_owner,IgniteUI/igniteui-docfx,sync-jp-docs.md,105,2,8,0.7546,0.6698,0.5692,0.6698,1,1,stays close
+381,alexandru/social-publish,code-simplifier.md,other_owner,storybookjs/storybook,code-simplifier.md,83,2,1,1.0,1.0,0.9167,1.0,1,1,single version
+385,popey/slomore,repo-assist.md,same_owner,popey/grummage,repo-assist.md,397,4,3,1.0,1.0,1.0,1.0,1,1,stays close
+397,popey/grummage,repo-assist.md,other_owner,fslaborg/Deedle,repo-assist.md,332,12,4,1.0,1.0,1.0,1.0,10,10,stays close
+401,dotnet/macios,macios-reviewer.md,same_owner,dotnet/android,android-reviewer.md,355,12,6,0.8394,0.8009,0.6703,0.8009,1,1,stays close
+407,czlonkowski/n8n-mcp,issue-triage.md,other_owner,taosdata/TDengine,issue-triage.md,66,2,2,0.7873,0.7873,0.7873,0.7873,1,1,stays close
+423,microsoft/wassette,pr-triage.md,same_repo,microsoft/wassette,issue-triage.md,421,2,2,0.6391,0.6391,0.6391,0.6391,2,2,stays close
+427,kaito-project/aikit,issue-triage.md,other_owner,microsoft/wassette,issue-triage.md,421,2,2,0.8291,0.7915,0.7915,0.7915,2,2,stays close
+435,MiguelElGallo/mpzsql,code-simplifier.md,other_owner,storybookjs/storybook,code-simplifier.md,83,2,2,1.0,1.0,0.9167,1.0,1,1,stays close
+436,fideus-labs/ngff-zarr,daily-doc-updater.md,other_owner,microsoft/apm,daily-doc-updater.md,470,3,5,0.6047,0.4412,0.4412,0.4412,1,1,drifts away
+437,fideus-labs/ngff-zarr,daily-repo-status.md,other_owner,apache/cloudstack,daily-repo-status.md,2,4,6,1.0,0.8097,0.8156,0.8156,1,3,follows relative's updates
+452,kubestellar/docs,devstats.md,same_repo,kubestellar/docs,daily-team-status.md,451,5,3,1.0,1.0,1.0,1.0,1,1,stays close
+460,YousefHadder/markdown-plus.nvim,code-simplifier.md,other_owner,sytone/obsidian-queryallthethings,code-simplifier.md,275,1,5,0.961,0.6574,0.6574,0.6574,1,1,drifts away
+463,YousefHadder/markdown-plus.nvim,daily-doc-updater.md,other_owner,microsoft/apm,daily-doc-updater.md,470,3,4,0.6614,0.3978,0.3978,0.3978,1,1,drifts away
+466,cncf/contribute-site,link-checker.md,other_owner,kubestellar/docs,link-checker.md,453,7,10,0.6354,0.5432,0.5432,0.5432,2,2,stays close
+468,kaito-tokyo/live-backgroundremoval-lite,validate-pr.md,other_owner,royshil/obs-backgroundremoval,validate-pr.md,150,1,1,1.0,1.0,1.0,1.0,1,1,single version
+474,informedica/GenPRES,repo-assist.md,other_owner,ionide/ionide-vscode-fsharp,repo-assist.md,333,29,2,1.0,1.0,0.7438,1.0,8,8,stays close
+475,pikax/verter,update-docs.md,other_owner,AndreaGriffiths11/IssueCrush,update-docs.md,556,1,3,1.0,0.7891,0.7891,0.7891,1,1,drifts away
+477,Kong/kongctl,code-simplifier.md,other_owner,chimon2000/good_first_issue,code-simplifier.md,524,3,9,0.679,0.5829,0.5755,0.5829,1,1,stays close
+483,Kong/kongctl,weekly-repo-status.md,other_owner,dotnet/maui,daily-repo-status.md,23,3,5,0.8543,0.571,0.571,0.571,1,1,drifts away
+484,shanselman/WindowsEdgeLight,repo-assist.md,same_owner,shanselman/winget-tui,repo-assist.md,523,1,1,1.0,1.0,1.0,1.0,1,1,single version
+485,chrisreddington/trend-radar,repo-assist.md,other_owner,py-why/dowhy,repo-assist.md,215,4,2,1.0,1.0,1.0,1.0,1,1,stays close
+486,mcpc-tech/dev-inspector-mcp,daily-repo-status.md,other_owner,microsoft/Web-Dev-For-Beginners,daily-repo-status.md,107,1,1,1.0,1.0,1.0,1.0,1,1,single version
+487,hemanth/mcp-web-client,daily-repo-status.md,other_owner,dotnet/maui,daily-repo-status.md,23,3,1,1.0,1.0,1.0,1.0,1,1,single version
+503,natnew/Awesome-Data-Science,issue-triage-agent.md,other_owner,meteostat/meteostat,issue-triage-agent.md,489,2,3,0.7784,0.3977,0.3977,0.3977,1,1,drifts away
+513,chrisreddington/flight-school,issue-triage.md,other_owner,appwrite/appwrite,issue-triage.md,106,13,1,1.0,1.0,0.5453,1.0,1,1,single version
+517,microsoft/GitHub-Copilot-for-Azure,weekly-repo-status.md,other_owner,lrascao/rebar3_gpb_plugin,daily-repo-status.md,322,2,6,1.0,0.4961,0.4961,0.4961,2,2,drifts away
+520,influxdata/docs-v2,weekly-repo-status.md,other_owner,lrascao/rebar3_gpb_plugin,daily-repo-status.md,322,2,1,1.0,1.0,1.0,1.0,2,2,single version
+523,shanselman/winget-tui,repo-assist.md,other_owner,fslaborg/Deedle,repo-assist.md,332,12,1,1.0,1.0,1.0,1.0,1,1,single version
+539,popey/sbom-vm,repo-assist.md,same_owner,popey/slomore,repo-assist.md,385,3,4,1.0,1.0,1.0,1.0,1,1,stays close
+543,zircote/rlm-rs,issue-triage.md,other_owner,appwrite/appwrite,issue-triage.md,106,13,1,1.0,1.0,0.5453,1.0,1,1,single version
+545,microsoft/agentrc,ci-doctor.md,other_owner,zircote/rlm-rs,ci-doctor.md,540,3,2,0.6591,0.6591,0.6591,0.6591,1,1,stays close
+546,microsoft/agentrc,code-simplifier.md,other_owner,chimon2000/good_first_issue,code-simplifier.md,524,3,2,0.6114,0.6114,0.606,0.6114,1,1,stays close
+547,microsoft/agentrc,daily-doc-updater.md,same_owner,microsoft/apm,daily-doc-updater.md,470,3,3,0.5715,0.5486,0.5486,0.5486,1,1,stays close
+555,AndreaGriffiths11/IssueCrush,daily-repo-status.md,other_owner,dotnet/maui,daily-repo-status.md,23,3,1,1.0,1.0,1.0,1.0,1,1,single version
+574,dotnet/skills,close-stale-prs.agent.md,same_owner,dotnet/msbuild,close-stale-prs.agent.md,49,6,7,0.977,0.977,0.977,0.977,2,2,stays close
+585,Azure/git-ape,daily-repo-status.md,same_owner,Azure/LogicAppsUX,daily-repo-status.md,280,1,2,1.0,1.0,1.0,1.0,1,1,stays close
+587,Azure/git-ape,issue-triage-agent.md,other_owner,natnew/Awesome-Data-Science,issue-triage-agent.md,503,3,3,1.0,1.0,0.3273,1.0,1,1,stays close

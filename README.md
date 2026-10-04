@@ -4,7 +4,7 @@ Replication package for a study of **relations between GitHub Agentic Workflows 
 
 > Status: **Stage 2, work in progress.** This is a partial replication package. Only data acquisition and loading are implemented so far.
 
-- GitHub: _TBD_
+- GitHub: <https://github.com/mielEstudiando/AIGenealogy>
 - Zenodo DOI (this version): _TBD_
 - Repository version used for the submitted results: _TBD (tag or commit)_
 
@@ -40,9 +40,14 @@ Requirements: [uv](https://docs.astral.sh/uv/) and Python ≥ 3.12.
 ```bash
 uv sync                                    # create the environment
 uv run python scripts/download_data.py     # fetch GHAW-H tables into data/raw/ (checksum-verified)
+uv run python scripts/explore_relations.py # exploratory relation analysis -> results/exploration/
+uv run python scripts/trace_evolution.py   # version-level evolution analysis -> results/evolution/
 ```
 
-Analysis steps and the results they produce for RQ1 will be listed here as they are implemented.
+| Step | Output | Description |
+| --- | --- | --- |
+| `explore_relations.py` | `results/exploration/*.csv` | Exact matches, body similarity, shared fragments, `source:` validation, version changes, shared imports |
+| `trace_evolution.py` | `results/evolution/*.csv` | Evolution within each file history, earlier relatives across files (same repo / same owner / other owner), whether copies follow or drift from their relative |
 
 ## Implementation status
 
@@ -50,10 +55,23 @@ Analysis steps and the results they produce for RQ1 will be listed here as they 
 | --- | --- |
 | Pinned, checksum-verified data download | done |
 | Data loading (`ghaw_relations.data`) | done |
-| Similarity computation (frontmatter / body) | pending |
-| Relation classification | pending |
+| Exploratory relation analysis (exact, near, fragment, declared source, imports) | done (exploratory) |
+| Version-level evolution tracing | done (exploratory) |
+| Calibrated relation classification | pending |
 | RQ1 results (tables, figures) | pending |
 
 ## Citation of the dataset
 
 > Valenzuela-Toledo, P., Kehrer, T., & Panichella, S. (2026). *GHAW-H: A Dataset of GitHub Agentic Workflow Histories* (Version v0.1.2) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.22084012
+
+## License
+
+Different parts of this repository are under different licenses:
+
+| Path | License |
+|------|---------|
+| Code (`src/`, `scripts/`, `notebooks/`), docs and configuration | [CC0 1.0](LICENSE) |
+| `results/`, `data/processed/` | Derived from GHAW-H, which is CC-BY-4.0. Our own contribution is CC0 1.0, but reuse must still credit GHAW-H. See [`results/LICENSE.md`](results/LICENSE.md). |
+| `data/raw/` (not committed) | GHAW-H, CC-BY-4.0. Content from each source repository keeps its original license. |
+
+CC-BY-4.0 has no share-alike clause, so CC0 is allowed for our own work. Attribution to GHAW-H still applies to anything derived from it, whatever license we put on our part.

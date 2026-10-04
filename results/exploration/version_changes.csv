@@ -1,0 +1,2217 @@
+source_markdown_file_version_id,history_id,rank,change,body_cosine_to_previous
+3,2,2,frontmatter only,1.0
+4,2,3,both,0.9928
+5,2,4,frontmatter only,1.0
+7,3,2,body only,0.8656
+8,3,3,both,0.9199
+10,4,2,frontmatter only,1.0
+12,5,2,both,0.9974
+13,5,3,both,0.9749
+15,6,2,both,0.8528
+16,6,3,both,0.9036
+21,10,2,both,0.9603
+24,12,2,frontmatter only,1.0
+25,12,3,both,0.9508
+26,12,4,frontmatter only,1.0
+27,12,5,frontmatter only,1.0
+28,12,6,both,0.7181
+29,12,7,both,0.9073
+30,12,8,body only,0.9983
+32,13,2,frontmatter only,1.0
+33,13,3,both,0.9608
+34,13,4,frontmatter only,1.0
+35,13,5,both,0.8284
+36,13,6,body only,0.985
+37,13,7,both,0.8912
+38,13,8,body only,0.9952
+40,14,2,body only,0.9834
+41,14,3,both,0.1375
+42,14,4,frontmatter only,1.0
+43,14,5,frontmatter only,1.0
+44,14,6,frontmatter only,1.0
+45,14,7,frontmatter only,1.0
+46,14,8,frontmatter only,1.0
+47,14,9,body only,0.7745
+48,14,10,both,0.1825
+49,14,11,both,0.2274
+50,14,12,both,0.8356
+51,14,13,both,0.9828
+52,14,14,both,0.7786
+53,14,15,body only,0.9982
+56,16,2,frontmatter only,1.0
+57,16,3,frontmatter only,1.0
+58,16,4,frontmatter only,1.0
+59,16,5,both,0.9701
+60,16,6,frontmatter only,1.0
+64,19,2,frontmatter only,1.0
+65,19,3,frontmatter only,1.0
+66,19,4,body only,0.8341
+67,19,5,both,0.8977
+69,20,2,frontmatter only,1.0
+70,20,3,frontmatter only,1.0
+71,20,4,body only,0.8359
+72,20,5,both,0.8998
+74,21,2,frontmatter only,1.0
+75,21,3,both,0.7727
+76,21,4,both,0.9712
+77,21,5,frontmatter only,1.0
+78,21,6,frontmatter only,1.0
+80,22,2,both,0.9544
+81,22,3,body only,0.8472
+82,22,4,frontmatter only,1.0
+83,22,5,frontmatter only,1.0
+84,22,6,frontmatter only,1.0
+85,22,7,body only,0.5545
+87,23,2,frontmatter only,1.0
+88,23,3,frontmatter only,1.0
+90,24,2,both,0.9875
+91,24,3,frontmatter only,1.0
+92,24,4,both,0.9273
+93,24,5,both,0.6016
+95,25,2,frontmatter only,1.0
+99,28,2,frontmatter only,1.0
+101,29,2,frontmatter only,1.0
+103,30,2,frontmatter only,1.0
+105,31,2,body only,0.9727
+106,31,3,body only,0.2505
+112,36,2,frontmatter only,1.0
+113,36,3,both,0.9767
+114,36,4,body only,0.955
+115,36,5,body only,0.9229
+116,36,6,frontmatter only,1.0
+117,36,7,body only,0.9644
+120,38,2,frontmatter only,1.0
+122,39,2,both,0.9512
+123,39,3,body only,0.9292
+124,39,4,body only,0.9203
+125,39,5,frontmatter only,1.0
+126,39,6,both,0.8717
+127,39,7,frontmatter only,1.0
+128,39,8,body only,0.928
+129,39,9,both,0.9462
+130,39,10,body only,0.9657
+131,39,11,body only,0.8413
+135,42,2,frontmatter only,1.0
+136,42,3,both,0.7377
+139,44,2,frontmatter only,1.0
+140,44,3,body only,0.9917
+141,44,4,body only,0.8041
+142,44,5,both,0.9612
+143,44,6,both,0.9628
+145,45,2,frontmatter only,1.0
+146,45,3,body only,0.8988
+147,45,4,frontmatter only,1.0
+148,45,5,body only,0.9623
+149,45,6,body only,0.972
+150,45,7,body only,0.9464
+151,45,8,body only,0.9864
+152,45,9,body only,0.9496
+155,47,2,both,0.9788
+156,47,3,both,0.9317
+157,47,4,both,0.6304
+158,47,5,frontmatter only,1.0
+160,48,2,frontmatter only,1.0
+162,49,2,both,0.4176
+163,49,3,frontmatter only,1.0
+164,49,4,frontmatter only,1.0
+165,49,5,frontmatter only,1.0
+166,49,6,frontmatter only,1.0
+168,50,2,both,0.9848
+169,50,3,body only,0.9811
+170,50,4,both,0.9334
+171,50,5,both,0.761
+172,50,6,both,0.9813
+173,50,7,body only,0.9465
+174,50,8,body only,0.9958
+175,50,9,frontmatter only,1.0
+176,50,10,frontmatter only,1.0
+178,51,2,both,0.9944
+179,51,3,body only,0.9534
+180,51,4,frontmatter only,1.0
+181,51,5,frontmatter only,1.0
+183,52,2,frontmatter only,1.0
+184,52,3,frontmatter only,1.0
+185,52,4,frontmatter only,1.0
+186,52,5,frontmatter only,1.0
+187,52,6,frontmatter only,1.0
+188,52,7,frontmatter only,1.0
+189,52,8,frontmatter only,1.0
+190,52,9,frontmatter only,1.0
+191,52,10,frontmatter only,1.0
+192,52,11,frontmatter only,1.0
+193,52,12,frontmatter only,1.0
+195,53,2,frontmatter only,1.0
+196,53,3,frontmatter only,1.0
+197,53,4,frontmatter only,1.0
+198,53,5,frontmatter only,1.0
+199,53,6,frontmatter only,1.0
+201,54,2,both,0.216
+202,54,3,both,0.9538
+203,54,4,both,0.9504
+204,54,5,both,0.9126
+205,54,6,both,0.9855
+206,54,7,both,0.9791
+207,54,8,both,0.9843
+208,54,9,both,0.9481
+209,54,10,both,0.9272
+210,54,11,both,0.9926
+211,54,12,body only,0.9956
+212,54,13,both,0.9677
+213,54,14,body only,0.9847
+214,54,15,both,0.9934
+215,54,16,body only,0.9509
+216,54,17,both,0.977
+217,54,18,frontmatter only,1.0
+218,54,19,frontmatter only,1.0
+219,54,20,frontmatter only,1.0
+221,55,2,both,0.9118
+222,55,3,both,0.9685
+223,55,4,body only,0.9231
+224,55,5,body only,0.895
+225,55,6,body only,0.9739
+226,55,7,frontmatter only,1.0
+227,55,8,frontmatter only,1.0
+230,57,2,body only,0.9897
+231,57,3,frontmatter only,1.0
+232,57,4,frontmatter only,1.0
+234,58,2,frontmatter only,1.0
+243,66,2,no change,1.0
+246,68,2,frontmatter only,1.0
+247,68,3,frontmatter only,1.0
+248,68,4,both,0.9651
+249,68,5,both,0.9927
+250,68,6,both,0.9542
+251,68,7,frontmatter only,1.0
+252,68,8,frontmatter only,1.0
+253,68,9,frontmatter only,1.0
+254,68,10,both,0.9659
+256,69,2,both,0.8431
+257,69,3,frontmatter only,1.0
+258,69,4,frontmatter only,1.0
+259,69,5,frontmatter only,1.0
+261,70,2,body only,0.9978
+262,70,3,body only,0.9734
+263,70,4,body only,0.8032
+264,70,5,body only,0.9956
+266,71,2,frontmatter only,1.0
+268,72,2,body only,0.9951
+270,73,2,both,0.6744
+271,73,3,body only,0.6317
+272,73,4,both,0.9922
+273,73,5,both,0.7438
+274,73,6,frontmatter only,1.0
+275,73,7,body only,0.9855
+277,74,2,frontmatter only,1.0
+278,74,3,frontmatter only,1.0
+279,74,4,body only,0.7711
+280,74,5,body only,0.5756
+281,74,6,body only,0.9586
+282,74,7,both,0.834
+283,74,8,body only,0.7477
+284,74,9,body only,0.9863
+285,74,10,body only,0.986
+286,74,11,body only,0.9816
+287,74,12,body only,0.9952
+288,74,13,body only,0.9975
+289,74,14,body only,0.9786
+290,74,15,body only,0.9873
+291,74,16,both,0.8301
+292,74,17,body only,0.9983
+293,74,18,both,0.9258
+295,75,2,frontmatter only,1.0
+296,75,3,both,0.6313
+298,76,2,frontmatter only,1.0
+300,77,2,frontmatter only,1.0
+304,80,2,both,0.9638
+305,80,3,frontmatter only,1.0
+307,81,2,both,0.9724
+308,81,3,body only,0.8861
+309,81,4,body only,0.9251
+310,81,5,both,0.9804
+311,81,6,frontmatter only,1.0
+312,81,7,frontmatter only,1.0
+313,81,8,body only,0.9885
+314,81,9,body only,0.9319
+315,81,10,both,0.0802
+316,81,11,frontmatter only,1.0
+317,81,12,frontmatter only,1.0
+319,82,2,both,0.9974
+320,82,3,both,0.9749
+322,83,2,both,0.9167
+324,84,2,both,0.932
+326,85,2,body only,0.877
+327,85,3,both,0.9748
+330,87,2,both,0.0903
+333,89,2,frontmatter only,1.0
+334,89,3,frontmatter only,1.0
+335,89,4,frontmatter only,1.0
+337,90,2,frontmatter only,1.0
+338,90,3,frontmatter only,1.0
+339,90,4,body only,0.9503
+340,90,5,frontmatter only,1.0
+341,90,6,frontmatter only,1.0
+342,90,7,frontmatter only,1.0
+343,90,8,frontmatter only,1.0
+344,90,9,frontmatter only,1.0
+345,90,10,both,0.9741
+346,90,11,frontmatter only,1.0
+347,90,12,frontmatter only,1.0
+348,90,13,frontmatter only,1.0
+349,90,14,frontmatter only,1.0
+350,90,15,frontmatter only,1.0
+351,90,16,frontmatter only,1.0
+353,91,2,frontmatter only,1.0
+354,91,3,frontmatter only,1.0
+355,91,4,frontmatter only,1.0
+356,91,5,body only,0.7194
+357,91,6,frontmatter only,1.0
+358,91,7,frontmatter only,1.0
+359,91,8,frontmatter only,1.0
+360,91,9,both,0.9861
+361,91,10,frontmatter only,1.0
+362,91,11,frontmatter only,1.0
+363,91,12,frontmatter only,1.0
+364,91,13,frontmatter only,1.0
+365,91,14,frontmatter only,1.0
+366,91,15,frontmatter only,1.0
+368,92,2,frontmatter only,1.0
+369,92,3,frontmatter only,1.0
+370,92,4,frontmatter only,1.0
+371,92,5,frontmatter only,1.0
+372,92,6,frontmatter only,1.0
+373,92,7,frontmatter only,1.0
+374,92,8,frontmatter only,1.0
+375,92,9,frontmatter only,1.0
+376,92,10,both,0.9769
+377,92,11,frontmatter only,1.0
+378,92,12,frontmatter only,1.0
+379,92,13,frontmatter only,1.0
+380,92,14,frontmatter only,1.0
+381,92,15,frontmatter only,1.0
+382,92,16,frontmatter only,1.0
+384,93,2,frontmatter only,1.0
+385,93,3,frontmatter only,1.0
+386,93,4,frontmatter only,1.0
+387,93,5,frontmatter only,1.0
+388,93,6,frontmatter only,1.0
+389,93,7,frontmatter only,1.0
+391,94,2,frontmatter only,1.0
+392,94,3,body only,0.8057
+393,94,4,frontmatter only,1.0
+394,94,5,both,0.8006
+395,94,6,frontmatter only,1.0
+396,94,7,frontmatter only,1.0
+397,94,8,body only,0.9623
+398,94,9,frontmatter only,1.0
+399,94,10,frontmatter only,1.0
+400,94,11,frontmatter only,1.0
+402,95,2,frontmatter only,1.0
+403,95,3,frontmatter only,1.0
+404,95,4,frontmatter only,1.0
+405,95,5,frontmatter only,1.0
+406,95,6,frontmatter only,1.0
+407,95,7,frontmatter only,1.0
+409,96,2,frontmatter only,1.0
+410,96,3,frontmatter only,1.0
+411,96,4,frontmatter only,1.0
+413,97,2,frontmatter only,1.0
+414,97,3,frontmatter only,1.0
+415,97,4,both,0.5378
+416,97,5,both,0.9152
+417,97,6,both,0.91
+418,97,7,both,0.9596
+419,97,8,frontmatter only,1.0
+420,97,9,body only,0.9972
+421,97,10,both,0.8393
+422,97,11,both,0.9687
+423,97,12,body only,0.9515
+424,97,13,frontmatter only,1.0
+425,97,14,frontmatter only,1.0
+426,97,15,both,0.994
+427,97,16,frontmatter only,1.0
+428,97,17,frontmatter only,1.0
+429,97,18,both,0.9615
+430,97,19,both,0.9582
+431,97,20,frontmatter only,1.0
+432,97,21,frontmatter only,1.0
+433,97,22,both,0.4962
+434,97,23,frontmatter only,1.0
+435,97,24,frontmatter only,1.0
+436,97,25,frontmatter only,1.0
+438,98,2,frontmatter only,1.0
+439,98,3,frontmatter only,1.0
+440,98,4,frontmatter only,1.0
+441,98,5,frontmatter only,1.0
+442,98,6,frontmatter only,1.0
+443,98,7,frontmatter only,1.0
+444,98,8,frontmatter only,1.0
+445,98,9,both,0.9728
+446,98,10,frontmatter only,1.0
+447,98,11,frontmatter only,1.0
+448,98,12,frontmatter only,1.0
+449,98,13,frontmatter only,1.0
+450,98,14,frontmatter only,1.0
+451,98,15,frontmatter only,1.0
+453,99,2,frontmatter only,1.0
+454,99,3,frontmatter only,1.0
+455,99,4,frontmatter only,1.0
+456,99,5,frontmatter only,1.0
+457,99,6,frontmatter only,1.0
+458,99,7,frontmatter only,1.0
+459,99,8,frontmatter only,1.0
+460,99,9,both,0.981
+461,99,10,frontmatter only,1.0
+462,99,11,frontmatter only,1.0
+463,99,12,frontmatter only,1.0
+464,99,13,frontmatter only,1.0
+465,99,14,frontmatter only,1.0
+466,99,15,frontmatter only,1.0
+468,100,2,frontmatter only,1.0
+469,100,3,frontmatter only,1.0
+470,100,4,frontmatter only,1.0
+471,100,5,frontmatter only,1.0
+472,100,6,frontmatter only,1.0
+473,100,7,frontmatter only,1.0
+474,100,8,frontmatter only,1.0
+475,100,9,both,0.975
+476,100,10,frontmatter only,1.0
+477,100,11,frontmatter only,1.0
+478,100,12,frontmatter only,1.0
+479,100,13,frontmatter only,1.0
+480,100,14,frontmatter only,1.0
+481,100,15,frontmatter only,1.0
+483,101,2,frontmatter only,1.0
+484,101,3,frontmatter only,1.0
+485,101,4,frontmatter only,1.0
+486,101,5,frontmatter only,1.0
+487,101,6,frontmatter only,1.0
+488,101,7,both,0.9963
+491,103,2,both,0.9048
+492,103,3,frontmatter only,1.0
+493,103,4,both,0.7815
+494,103,5,frontmatter only,1.0
+496,104,2,frontmatter only,1.0
+497,104,3,frontmatter only,1.0
+499,105,2,body only,0.8343
+501,106,2,both,0.8791
+502,106,3,body only,0.9446
+503,106,4,frontmatter only,1.0
+504,106,5,body only,0.9725
+505,106,6,body only,0.9924
+506,106,7,frontmatter only,1.0
+507,106,8,frontmatter only,1.0
+508,106,9,both,0.8407
+509,106,10,body only,0.8028
+510,106,11,body only,0.9524
+511,106,12,body only,0.9526
+512,106,13,body only,0.9771
+515,108,2,frontmatter only,1.0
+516,108,3,frontmatter only,1.0
+518,109,2,both,0.9522
+519,109,3,both,0.882
+520,109,4,body only,0.9315
+521,109,5,body only,0.704
+522,109,6,frontmatter only,1.0
+523,109,7,both,0.9883
+525,110,2,frontmatter only,1.0
+526,110,3,frontmatter only,1.0
+527,110,4,both,0.2768
+528,110,5,frontmatter only,1.0
+529,110,6,body only,0.6136
+530,110,7,both,0.6385
+531,110,8,both,0.8226
+532,110,9,frontmatter only,1.0
+533,110,10,both,0.8536
+534,110,11,both,0.9868
+535,110,12,both,0.9745
+536,110,13,both,0.9396
+537,110,14,frontmatter only,1.0
+539,111,2,frontmatter only,1.0
+540,111,3,both,0.9029
+541,111,4,frontmatter only,1.0
+542,111,5,both,0.8334
+543,111,6,frontmatter only,1.0
+545,112,2,frontmatter only,1.0
+546,112,3,frontmatter only,1.0
+547,112,4,frontmatter only,1.0
+548,112,5,both,0.5534
+549,112,6,frontmatter only,1.0
+550,112,7,frontmatter only,1.0
+551,112,8,both,0.7635
+552,112,9,frontmatter only,1.0
+553,112,10,frontmatter only,1.0
+554,112,11,frontmatter only,1.0
+556,113,2,both,0.4626
+557,113,3,frontmatter only,1.0
+558,113,4,frontmatter only,1.0
+559,113,5,both,0.8039
+561,114,2,frontmatter only,1.0
+563,115,2,body only,0.989
+564,115,3,frontmatter only,1.0
+565,115,4,frontmatter only,1.0
+567,116,2,frontmatter only,1.0
+568,116,3,frontmatter only,1.0
+569,116,4,frontmatter only,1.0
+571,117,2,frontmatter only,1.0
+572,117,3,frontmatter only,1.0
+573,117,4,frontmatter only,1.0
+576,119,2,frontmatter only,1.0
+578,120,2,both,0.9163
+579,120,3,frontmatter only,1.0
+585,125,2,frontmatter only,1.0
+586,125,3,body only,0.96
+587,125,4,body only,1.0
+588,125,5,body only,0.9979
+589,125,6,body only,0.9512
+590,125,7,body only,0.9512
+591,125,8,frontmatter only,1.0
+592,125,9,frontmatter only,1.0
+593,125,10,frontmatter only,1.0
+594,125,11,frontmatter only,1.0
+595,125,12,body only,0.9944
+596,125,13,both,0.9773
+597,125,14,both,0.9878
+598,125,15,body only,0.9717
+599,125,16,body only,0.9679
+601,126,2,frontmatter only,1.0
+602,126,3,both,0.477
+604,127,2,frontmatter only,1.0
+605,127,3,both,0.3353
+621,142,2,both,0.2241
+622,142,3,frontmatter only,1.0
+623,142,4,both,0.477
+625,143,2,both,0.1388
+626,143,3,frontmatter only,1.0
+627,143,4,both,0.3353
+636,151,2,both,0.9435
+637,151,3,body only,0.9698
+638,151,4,body only,0.8185
+639,151,5,frontmatter only,1.0
+640,151,6,frontmatter only,1.0
+641,151,7,frontmatter only,1.0
+643,152,2,both,0.8703
+644,152,3,body only,0.9783
+645,152,4,frontmatter only,1.0
+649,155,2,both,0.8601
+650,155,3,frontmatter only,1.0
+651,155,4,both,0.8612
+652,155,5,both,0.6584
+653,155,6,frontmatter only,1.0
+655,156,2,frontmatter only,1.0
+656,156,3,both,0.7018
+659,158,2,both,0.8637
+662,160,2,both,0.9871
+663,160,3,frontmatter only,1.0
+664,160,4,frontmatter only,1.0
+665,160,5,frontmatter only,1.0
+666,160,6,frontmatter only,1.0
+667,160,7,both,0.9605
+668,160,8,frontmatter only,1.0
+669,160,9,both,0.9946
+670,160,10,both,0.9981
+671,160,11,both,0.9957
+672,160,12,frontmatter only,1.0
+673,160,13,frontmatter only,1.0
+674,160,14,frontmatter only,1.0
+675,160,15,frontmatter only,1.0
+676,160,16,frontmatter only,1.0
+677,160,17,frontmatter only,1.0
+678,160,18,frontmatter only,1.0
+680,161,2,body only,0.9914
+681,161,3,frontmatter only,1.0
+684,163,2,frontmatter only,1.0
+686,164,2,both,0.9851
+687,164,3,frontmatter only,1.0
+693,169,2,body only,0.8017
+694,169,3,body only,0.9241
+695,169,4,frontmatter only,1.0
+696,169,5,frontmatter only,1.0
+697,169,6,body only,0.9536
+698,169,7,frontmatter only,1.0
+706,176,2,frontmatter only,1.0
+707,176,3,both,0.966
+708,176,4,frontmatter only,1.0
+709,176,5,frontmatter only,1.0
+710,176,6,frontmatter only,1.0
+711,176,7,frontmatter only,1.0
+712,176,8,body only,0.8949
+713,176,9,both,0.8873
+714,176,10,both,0.9829
+715,176,11,frontmatter only,1.0
+716,176,12,both,0.9749
+717,176,13,frontmatter only,1.0
+718,176,14,frontmatter only,1.0
+719,176,15,frontmatter only,1.0
+720,176,16,frontmatter only,1.0
+721,176,17,frontmatter only,1.0
+722,176,18,frontmatter only,1.0
+723,176,19,frontmatter only,1.0
+724,176,20,frontmatter only,1.0
+725,176,21,frontmatter only,1.0
+726,176,22,frontmatter only,1.0
+727,176,23,frontmatter only,1.0
+729,177,2,frontmatter only,1.0
+730,177,3,both,0.939
+731,177,4,frontmatter only,1.0
+732,177,5,frontmatter only,1.0
+733,177,6,body only,0.9935
+734,177,7,frontmatter only,1.0
+735,177,8,frontmatter only,1.0
+736,177,9,frontmatter only,1.0
+738,178,2,frontmatter only,1.0
+739,178,3,frontmatter only,1.0
+740,178,4,frontmatter only,1.0
+741,178,5,frontmatter only,1.0
+742,178,6,both,0.923
+743,178,7,frontmatter only,1.0
+744,178,8,frontmatter only,1.0
+745,178,9,frontmatter only,1.0
+746,178,10,frontmatter only,1.0
+747,178,11,both,0.9271
+748,178,12,body only,0.9532
+749,178,13,both,0.9747
+750,178,14,frontmatter only,1.0
+751,178,15,frontmatter only,1.0
+752,178,16,frontmatter only,1.0
+753,178,17,frontmatter only,1.0
+754,178,18,frontmatter only,1.0
+755,178,19,frontmatter only,1.0
+756,178,20,both,0.8216
+757,178,21,frontmatter only,1.0
+758,178,22,frontmatter only,1.0
+759,178,23,frontmatter only,1.0
+760,178,24,frontmatter only,1.0
+761,178,25,frontmatter only,1.0
+762,178,26,both,0.882
+763,178,27,frontmatter only,1.0
+764,178,28,frontmatter only,1.0
+765,178,29,body only,0.8411
+766,178,30,frontmatter only,1.0
+768,179,2,frontmatter only,1.0
+769,179,3,frontmatter only,1.0
+770,179,4,body only,0.9978
+771,179,5,frontmatter only,1.0
+772,179,6,frontmatter only,1.0
+773,179,7,frontmatter only,1.0
+774,179,8,frontmatter only,1.0
+775,179,9,frontmatter only,1.0
+776,179,10,frontmatter only,1.0
+777,179,11,frontmatter only,1.0
+778,179,12,both,0.9889
+779,179,13,frontmatter only,1.0
+781,180,2,both,0.9872
+782,180,3,frontmatter only,1.0
+783,180,4,frontmatter only,1.0
+784,180,5,frontmatter only,1.0
+785,180,6,frontmatter only,1.0
+786,180,7,frontmatter only,1.0
+788,181,2,frontmatter only,1.0
+789,181,3,frontmatter only,1.0
+790,181,4,frontmatter only,1.0
+791,181,5,frontmatter only,1.0
+792,181,6,frontmatter only,1.0
+794,182,2,frontmatter only,1.0
+795,182,3,both,0.9581
+796,182,4,frontmatter only,1.0
+797,182,5,frontmatter only,1.0
+798,182,6,frontmatter only,1.0
+799,182,7,frontmatter only,1.0
+800,182,8,frontmatter only,1.0
+801,182,9,frontmatter only,1.0
+802,182,10,frontmatter only,1.0
+803,182,11,frontmatter only,1.0
+805,183,2,both,0.995
+806,183,3,both,0.8957
+807,183,4,both,0.9225
+808,183,5,both,0.6264
+809,183,6,frontmatter only,1.0
+810,183,7,both,0.909
+811,183,8,both,0.9669
+812,183,9,both,0.844
+813,183,10,both,0.9312
+814,183,11,both,0.8247
+815,183,12,body only,0.9936
+816,183,13,body only,0.9812
+817,183,14,both,0.9299
+818,183,15,frontmatter only,1.0
+819,183,16,body only,0.9797
+820,183,17,frontmatter only,1.0
+821,183,18,frontmatter only,1.0
+822,183,19,frontmatter only,1.0
+823,183,20,frontmatter only,1.0
+824,183,21,frontmatter only,1.0
+825,183,22,frontmatter only,1.0
+826,183,23,body only,0.6823
+827,183,24,body only,0.6823
+828,183,25,frontmatter only,1.0
+829,183,26,frontmatter only,1.0
+830,183,27,frontmatter only,1.0
+831,183,28,frontmatter only,1.0
+832,183,29,frontmatter only,1.0
+833,183,30,frontmatter only,1.0
+835,184,2,frontmatter only,1.0
+836,184,3,frontmatter only,1.0
+837,184,4,frontmatter only,1.0
+838,184,5,both,0.8711
+839,184,6,frontmatter only,1.0
+840,184,7,frontmatter only,1.0
+841,184,8,both,0.902
+842,184,9,frontmatter only,1.0
+843,184,10,frontmatter only,1.0
+844,184,11,frontmatter only,1.0
+845,184,12,frontmatter only,1.0
+846,184,13,frontmatter only,1.0
+848,185,2,both,0.9955
+849,185,3,both,0.7403
+850,185,4,both,0.987
+851,185,5,frontmatter only,1.0
+852,185,6,frontmatter only,1.0
+853,185,7,frontmatter only,1.0
+854,185,8,frontmatter only,1.0
+855,185,9,frontmatter only,1.0
+856,185,10,frontmatter only,1.0
+857,185,11,frontmatter only,1.0
+858,185,12,frontmatter only,1.0
+859,185,13,frontmatter only,1.0
+860,185,14,frontmatter only,1.0
+861,185,15,frontmatter only,1.0
+862,185,16,frontmatter only,1.0
+863,185,17,frontmatter only,1.0
+864,185,18,frontmatter only,1.0
+865,185,19,frontmatter only,1.0
+867,186,2,frontmatter only,1.0
+868,186,3,body only,0.8427
+869,186,4,body only,0.9078
+870,186,5,body only,0.9805
+871,186,6,frontmatter only,1.0
+872,186,7,both,0.9327
+873,186,8,body only,1.0
+874,186,9,frontmatter only,1.0
+875,186,10,body only,0.9958
+876,186,11,body only,0.9938
+877,186,12,both,0.8845
+878,186,13,both,0.9281
+879,186,14,body only,0.726
+880,186,15,frontmatter only,1.0
+881,186,16,frontmatter only,1.0
+882,186,17,both,0.9949
+883,186,18,frontmatter only,1.0
+884,186,19,frontmatter only,1.0
+885,186,20,both,0.9624
+886,186,21,both,0.9809
+887,186,22,frontmatter only,1.0
+888,186,23,frontmatter only,1.0
+889,186,24,frontmatter only,1.0
+890,186,25,frontmatter only,1.0
+891,186,26,frontmatter only,1.0
+892,186,27,frontmatter only,1.0
+893,186,28,frontmatter only,1.0
+895,187,2,frontmatter only,1.0
+897,188,2,frontmatter only,1.0
+898,188,3,both,0.9931
+899,188,4,frontmatter only,1.0
+900,188,5,frontmatter only,1.0
+901,188,6,frontmatter only,1.0
+902,188,7,frontmatter only,1.0
+903,188,8,both,0.9961
+904,188,9,frontmatter only,1.0
+905,188,10,frontmatter only,1.0
+906,188,11,frontmatter only,1.0
+907,188,12,both,0.9923
+908,188,13,frontmatter only,1.0
+909,188,14,frontmatter only,1.0
+917,195,2,both,0.8415
+918,195,3,body only,0.9798
+919,195,4,body only,0.9935
+920,195,5,body only,0.9996
+921,195,6,body only,0.9923
+922,195,7,frontmatter only,1.0
+923,195,8,frontmatter only,1.0
+925,196,2,both,0.8858
+926,196,3,frontmatter only,1.0
+927,196,4,frontmatter only,1.0
+928,196,5,body only,0.9453
+929,196,6,body only,0.9873
+930,196,7,body only,0.9984
+931,196,8,body only,0.9993
+932,196,9,body only,0.9946
+933,196,10,body only,0.8001
+934,196,11,frontmatter only,1.0
+940,201,2,frontmatter only,1.0
+941,201,3,frontmatter only,1.0
+943,202,2,both,0.3245
+944,202,3,frontmatter only,1.0
+945,202,4,frontmatter only,1.0
+946,202,5,frontmatter only,1.0
+947,202,6,frontmatter only,1.0
+948,202,7,frontmatter only,1.0
+949,202,8,both,0.974
+950,202,9,both,0.9656
+951,202,10,both,0.2257
+954,204,2,both,0.9259
+955,204,3,frontmatter only,1.0
+956,204,4,frontmatter only,1.0
+958,205,2,body only,0.9687
+959,205,3,both,0.6289
+960,205,4,body only,0.9437
+961,205,5,body only,0.9798
+962,205,6,frontmatter only,1.0
+963,205,7,frontmatter only,1.0
+965,206,2,frontmatter only,1.0
+966,206,3,both,0.9762
+967,206,4,both,0.9906
+968,206,5,both,0.8995
+969,206,6,frontmatter only,1.0
+971,207,2,both,0.9895
+977,212,2,frontmatter only,1.0
+978,212,3,frontmatter only,1.0
+980,213,2,body only,0.9687
+981,213,3,both,0.6287
+982,213,4,body only,0.9437
+983,213,5,body only,0.9798
+984,213,6,frontmatter only,1.0
+985,213,7,frontmatter only,1.0
+987,214,2,both,0.9761
+988,214,3,both,0.9906
+989,214,4,both,0.8995
+990,214,5,frontmatter only,1.0
+992,215,2,frontmatter only,1.0
+993,215,3,frontmatter only,1.0
+994,215,4,frontmatter only,1.0
+996,216,2,both,0.9259
+997,216,3,frontmatter only,1.0
+998,216,4,frontmatter only,1.0
+1000,217,2,body only,0.9671
+1001,217,3,both,0.6087
+1002,217,4,body only,0.9405
+1003,217,5,body only,0.9787
+1004,217,6,frontmatter only,1.0
+1005,217,7,frontmatter only,1.0
+1007,218,2,both,0.9756
+1008,218,3,both,0.9904
+1009,218,4,both,0.8978
+1010,218,5,frontmatter only,1.0
+1014,221,2,frontmatter only,1.0
+1015,221,3,frontmatter only,1.0
+1016,221,4,both,0.9791
+1017,221,5,frontmatter only,1.0
+1021,224,2,frontmatter only,1.0
+1022,224,3,both,0.7539
+1024,225,2,frontmatter only,1.0
+1026,226,2,frontmatter only,1.0
+1028,227,2,frontmatter only,1.0
+1030,228,2,frontmatter only,1.0
+1032,229,2,frontmatter only,1.0
+1034,230,2,frontmatter only,1.0
+1036,231,2,frontmatter only,1.0
+1037,231,3,frontmatter only,1.0
+1038,231,4,frontmatter only,1.0
+1039,231,5,frontmatter only,1.0
+1040,231,6,frontmatter only,1.0
+1042,232,2,frontmatter only,1.0
+1044,233,2,frontmatter only,1.0
+1045,233,3,frontmatter only,1.0
+1047,234,2,frontmatter only,1.0
+1049,235,2,frontmatter only,1.0
+1051,236,2,frontmatter only,1.0
+1052,236,3,frontmatter only,1.0
+1053,236,4,frontmatter only,1.0
+1054,236,5,frontmatter only,1.0
+1055,236,6,frontmatter only,1.0
+1057,237,2,frontmatter only,1.0
+1059,238,2,frontmatter only,1.0
+1061,239,2,frontmatter only,1.0
+1062,239,3,frontmatter only,1.0
+1063,239,4,frontmatter only,1.0
+1064,239,5,frontmatter only,1.0
+1065,239,6,frontmatter only,1.0
+1067,240,2,both,0.3151
+1068,240,3,frontmatter only,1.0
+1069,240,4,body only,0.9935
+1070,240,5,frontmatter only,1.0
+1071,240,6,frontmatter only,1.0
+1073,241,2,frontmatter only,1.0
+1074,241,3,both,0.9986
+1075,241,4,frontmatter only,1.0
+1076,241,5,both,0.9635
+1077,241,6,frontmatter only,1.0
+1078,241,7,both,0.7984
+1079,241,8,both,0.9657
+1080,241,9,body only,0.9785
+1081,241,10,both,0.9973
+1083,242,2,both,0.8727
+1085,243,2,frontmatter only,1.0
+1087,244,2,both,0.9624
+1088,244,3,frontmatter only,1.0
+1089,244,4,frontmatter only,1.0
+1090,244,5,frontmatter only,1.0
+1091,244,6,frontmatter only,1.0
+1092,244,7,frontmatter only,1.0
+1093,244,8,both,0.7822
+1094,244,9,frontmatter only,1.0
+1095,244,10,frontmatter only,1.0
+1096,244,11,frontmatter only,1.0
+1097,244,12,body only,0.947
+1098,244,13,body only,0.9924
+1100,245,2,frontmatter only,1.0
+1101,245,3,frontmatter only,1.0
+1102,245,4,frontmatter only,1.0
+1103,245,5,both,0.9562
+1104,245,6,frontmatter only,1.0
+1105,245,7,frontmatter only,1.0
+1106,245,8,frontmatter only,1.0
+1107,245,9,frontmatter only,1.0
+1108,245,10,frontmatter only,1.0
+1109,245,11,frontmatter only,1.0
+1110,245,12,frontmatter only,1.0
+1111,245,13,frontmatter only,1.0
+1112,245,14,frontmatter only,1.0
+1113,245,15,frontmatter only,1.0
+1114,245,16,frontmatter only,1.0
+1115,245,17,frontmatter only,1.0
+1116,245,18,body only,0.9562
+1117,245,19,frontmatter only,1.0
+1118,245,20,frontmatter only,1.0
+1126,252,2,frontmatter only,1.0
+1127,252,3,frontmatter only,1.0
+1128,252,4,frontmatter only,1.0
+1129,252,5,frontmatter only,1.0
+1130,252,6,both,0.1393
+1131,252,7,frontmatter only,1.0
+1132,252,8,both,0.9988
+1144,263,2,both,0.9259
+1145,263,3,frontmatter only,1.0
+1146,263,4,frontmatter only,1.0
+1148,264,2,body only,0.9668
+1149,264,3,both,0.6037
+1150,264,4,body only,0.9397
+1151,264,5,body only,0.9785
+1152,264,6,frontmatter only,1.0
+1153,264,7,frontmatter only,1.0
+1155,265,2,both,0.975
+1156,265,3,both,0.9901
+1157,265,4,both,0.8962
+1158,265,5,frontmatter only,1.0
+1160,266,2,body only,1.0
+1161,266,3,body only,0.9993
+1162,266,4,body only,0.9984
+1163,266,5,body only,0.9749
+1165,267,2,frontmatter only,1.0
+1167,268,2,frontmatter only,1.0
+1168,268,3,frontmatter only,1.0
+1170,269,2,frontmatter only,1.0
+1171,269,3,frontmatter only,1.0
+1173,270,2,both,0.5386
+1174,270,3,frontmatter only,1.0
+1176,271,2,both,0.5249
+1178,272,2,body only,0.9247
+1179,272,3,frontmatter only,1.0
+1180,272,4,body only,0.9964
+1181,272,5,both,0.7501
+1183,273,2,both,0.9707
+1184,273,3,frontmatter only,1.0
+1185,273,4,body only,0.9979
+1186,273,5,frontmatter only,1.0
+1188,274,2,body only,0.9129
+1189,274,3,frontmatter only,1.0
+1197,281,2,frontmatter only,1.0
+1198,281,3,body only,0.8059
+1200,282,2,body only,0.9302
+1202,283,2,frontmatter only,1.0
+1203,283,3,frontmatter only,1.0
+1204,283,4,frontmatter only,1.0
+1206,284,2,frontmatter only,1.0
+1207,284,3,body only,0.9881
+1208,284,4,body only,0.973
+1209,284,5,frontmatter only,1.0
+1210,284,6,frontmatter only,1.0
+1211,284,7,frontmatter only,1.0
+1212,284,8,frontmatter only,1.0
+1214,285,2,frontmatter only,1.0
+1215,285,3,both,0.975
+1216,285,4,both,0.9667
+1217,285,5,frontmatter only,1.0
+1219,286,2,frontmatter only,1.0
+1220,286,3,both,0.9753
+1221,286,4,body only,0.955
+1222,286,5,both,0.2882
+1223,286,6,both,0.989
+1224,286,7,body only,0.767
+1225,286,8,both,0.5536
+1226,286,9,body only,0.751
+1227,286,10,both,0.9955
+1228,286,11,both,0.9955
+1229,286,12,body only,0.9819
+1230,286,13,frontmatter only,1.0
+1232,287,2,both,0.9946
+1233,287,3,frontmatter only,1.0
+1240,293,2,both,0.7951
+1241,293,3,frontmatter only,1.0
+1243,294,2,both,0.0663
+1244,294,3,both,0.9219
+1245,294,4,body only,0.9173
+1246,294,5,both,1.0
+1247,294,6,frontmatter only,1.0
+1248,294,7,frontmatter only,1.0
+1250,295,2,frontmatter only,1.0
+1251,295,3,body only,0.9723
+1252,295,4,body only,0.9742
+1253,295,5,frontmatter only,1.0
+1254,295,6,frontmatter only,1.0
+1256,296,2,both,0.3528
+1257,296,3,both,0.958
+1258,296,4,both,0.971
+1259,296,5,both,0.9025
+1260,296,6,both,0.9205
+1261,296,7,frontmatter only,1.0
+1262,296,8,body only,0.9989
+1263,296,9,frontmatter only,1.0
+1264,296,10,body only,0.9897
+1265,296,11,body only,0.9982
+1266,296,12,frontmatter only,1.0
+1267,296,13,frontmatter only,1.0
+1269,297,2,both,0.9434
+1270,297,3,frontmatter only,1.0
+1271,297,4,frontmatter only,1.0
+1272,297,5,frontmatter only,1.0
+1273,297,6,both,0.8039
+1274,297,7,both,0.817
+1275,297,8,frontmatter only,1.0
+1276,297,9,both,0.7927
+1277,297,10,both,0.8257
+1278,297,11,both,0.6422
+1279,297,12,body only,0.9996
+1280,297,13,frontmatter only,1.0
+1281,297,14,frontmatter only,1.0
+1282,297,15,both,0.9988
+1283,297,16,both,0.6768
+1285,298,2,both,0.8263
+1286,298,3,frontmatter only,1.0
+1287,298,4,body only,0.9756
+1288,298,5,frontmatter only,1.0
+1289,298,6,frontmatter only,1.0
+1290,298,7,frontmatter only,1.0
+1292,299,2,frontmatter only,1.0
+1293,299,3,frontmatter only,1.0
+1294,299,4,frontmatter only,1.0
+1295,299,5,frontmatter only,1.0
+1297,300,2,both,0.432
+1298,300,3,frontmatter only,1.0
+1299,300,4,frontmatter only,1.0
+1301,301,2,both,0.7681
+1302,301,3,both,0.8773
+1304,302,2,frontmatter only,1.0
+1305,302,3,both,0.8442
+1306,302,4,frontmatter only,1.0
+1307,302,5,body only,0.9268
+1308,302,6,body only,0.9704
+1309,302,7,frontmatter only,1.0
+1310,302,8,frontmatter only,1.0
+1311,302,9,body only,0.851
+1312,302,10,frontmatter only,1.0
+1313,302,11,frontmatter only,1.0
+1314,302,12,body only,0.9515
+1315,302,13,body only,0.8577
+1316,302,14,frontmatter only,1.0
+1320,305,2,both,0.7142
+1321,305,3,frontmatter only,1.0
+1322,305,4,frontmatter only,1.0
+1323,305,5,body only,0.9439
+1324,305,6,body only,0.9681
+1325,305,7,frontmatter only,1.0
+1326,305,8,body only,0.918
+1331,309,2,both,0.885
+1332,309,3,frontmatter only,1.0
+1334,310,2,frontmatter only,1.0
+1336,311,2,both,0.0046
+1338,312,2,frontmatter only,1.0
+1339,312,3,frontmatter only,1.0
+1340,312,4,frontmatter only,1.0
+1342,313,2,frontmatter only,1.0
+1343,313,3,frontmatter only,1.0
+1344,313,4,frontmatter only,1.0
+1345,313,5,both,0.9633
+1346,313,6,frontmatter only,1.0
+1347,313,7,frontmatter only,1.0
+1349,314,2,both,0.9828
+1350,314,3,frontmatter only,1.0
+1351,314,4,frontmatter only,1.0
+1352,314,5,frontmatter only,1.0
+1353,314,6,body only,0.9129
+1354,314,7,frontmatter only,1.0
+1355,314,8,frontmatter only,1.0
+1356,314,9,frontmatter only,1.0
+1358,315,2,frontmatter only,1.0
+1359,315,3,frontmatter only,1.0
+1360,315,4,frontmatter only,1.0
+1362,316,2,body only,0.9966
+1363,316,3,body only,0.9901
+1364,316,4,body only,0.9087
+1365,316,5,body only,0.9911
+1366,316,6,body only,0.9987
+1368,317,2,frontmatter only,1.0
+1369,317,3,frontmatter only,1.0
+1370,317,4,frontmatter only,1.0
+1371,317,5,frontmatter only,1.0
+1373,318,2,frontmatter only,1.0
+1374,318,3,frontmatter only,1.0
+1375,318,4,frontmatter only,1.0
+1377,319,2,frontmatter only,1.0
+1378,319,3,frontmatter only,1.0
+1379,319,4,frontmatter only,1.0
+1382,321,2,body only,0.9845
+1383,321,3,body only,0.9747
+1385,322,2,both,0.9448
+1387,323,2,both,0.9916
+1388,323,3,body only,0.9776
+1389,323,4,frontmatter only,1.0
+1390,323,5,both,0.1206
+1392,324,2,both,0.7832
+1393,324,3,frontmatter only,1.0
+1394,324,4,frontmatter only,1.0
+1395,324,5,frontmatter only,1.0
+1396,324,6,body only,0.9424
+1397,324,7,frontmatter only,1.0
+1398,324,8,both,0.2788
+1399,324,9,frontmatter only,1.0
+1402,326,2,frontmatter only,1.0
+1403,326,3,both,0.9872
+1404,326,4,frontmatter only,1.0
+1405,326,5,frontmatter only,1.0
+1407,327,2,body only,0.9842
+1408,327,3,both,0.8591
+1409,327,4,frontmatter only,1.0
+1410,327,5,body only,0.9175
+1411,327,6,frontmatter only,1.0
+1414,329,2,body only,0.9534
+1415,329,3,both,0.8861
+1416,329,4,body only,0.9897
+1417,329,5,frontmatter only,1.0
+1418,329,6,frontmatter only,1.0
+1420,330,2,frontmatter only,1.0
+1421,330,3,body only,0.792
+1422,330,4,frontmatter only,1.0
+1423,330,5,frontmatter only,1.0
+1424,330,6,both,0.5511
+1425,330,7,body only,0.9662
+1426,330,8,frontmatter only,1.0
+1427,330,9,body only,0.9958
+1428,330,10,frontmatter only,1.0
+1429,330,11,frontmatter only,1.0
+1431,331,2,frontmatter only,1.0
+1432,331,3,frontmatter only,1.0
+1433,331,4,body only,0.9962
+1434,331,5,frontmatter only,1.0
+1435,331,6,both,0.9889
+1436,331,7,both,0.9893
+1437,331,8,body only,0.9833
+1438,331,9,body only,0.9644
+1439,331,10,frontmatter only,1.0
+1441,332,2,frontmatter only,1.0
+1442,332,3,frontmatter only,1.0
+1443,332,4,frontmatter only,1.0
+1444,332,5,frontmatter only,1.0
+1445,332,6,frontmatter only,1.0
+1446,332,7,frontmatter only,1.0
+1447,332,8,frontmatter only,1.0
+1448,332,9,both,0.9618
+1449,332,10,both,0.9901
+1450,332,11,frontmatter only,1.0
+1451,332,12,frontmatter only,1.0
+1453,333,2,frontmatter only,1.0
+1454,333,3,both,0.9402
+1455,333,4,both,0.9891
+1456,333,5,both,0.9671
+1457,333,6,both,0.9489
+1458,333,7,frontmatter only,1.0
+1459,333,8,both,0.9715
+1460,333,9,both,0.918
+1461,333,10,both,0.9687
+1462,333,11,frontmatter only,1.0
+1463,333,12,frontmatter only,1.0
+1464,333,13,both,0.7764
+1465,333,14,frontmatter only,1.0
+1466,333,15,frontmatter only,1.0
+1467,333,16,both,0.9906
+1468,333,17,frontmatter only,1.0
+1469,333,18,frontmatter only,1.0
+1470,333,19,frontmatter only,1.0
+1471,333,20,frontmatter only,1.0
+1472,333,21,frontmatter only,1.0
+1473,333,22,frontmatter only,1.0
+1474,333,23,frontmatter only,1.0
+1475,333,24,frontmatter only,1.0
+1476,333,25,frontmatter only,1.0
+1477,333,26,both,0.9618
+1478,333,27,both,0.9901
+1479,333,28,frontmatter only,1.0
+1480,333,29,frontmatter only,1.0
+1482,334,2,body only,0.9059
+1483,334,3,both,0.9423
+1484,334,4,both,0.8926
+1485,334,5,both,0.9553
+1486,334,6,frontmatter only,1.0
+1487,334,7,frontmatter only,1.0
+1488,334,8,both,0.8543
+1489,334,9,body only,0.9307
+1490,334,10,frontmatter only,1.0
+1491,334,11,both,0.8355
+1492,334,12,both,0.9952
+1493,334,13,frontmatter only,1.0
+1494,334,14,frontmatter only,1.0
+1495,334,15,frontmatter only,1.0
+1496,334,16,frontmatter only,1.0
+1497,334,17,frontmatter only,1.0
+1498,334,18,frontmatter only,1.0
+1499,334,19,frontmatter only,1.0
+1500,334,20,frontmatter only,1.0
+1501,334,21,frontmatter only,1.0
+1502,334,22,frontmatter only,1.0
+1503,334,23,frontmatter only,1.0
+1504,334,24,frontmatter only,1.0
+1505,334,25,both,0.9976
+1506,334,26,both,0.9795
+1507,334,27,both,0.9995
+1508,334,28,both,0.9946
+1509,334,29,frontmatter only,1.0
+1510,334,30,frontmatter only,1.0
+1512,335,2,frontmatter only,1.0
+1513,335,3,both,0.9935
+1514,335,4,both,0.4111
+1515,335,5,both,0.9976
+1516,335,6,both,0.9885
+1517,335,7,both,0.9402
+1518,335,8,both,0.9891
+1519,335,9,both,0.9671
+1520,335,10,both,0.9489
+1521,335,11,frontmatter only,1.0
+1522,335,12,both,0.9715
+1523,335,13,both,0.918
+1524,335,14,both,0.9687
+1525,335,15,frontmatter only,1.0
+1526,335,16,frontmatter only,1.0
+1527,335,17,both,0.7764
+1528,335,18,frontmatter only,1.0
+1529,335,19,frontmatter only,1.0
+1530,335,20,both,0.9906
+1531,335,21,frontmatter only,1.0
+1532,335,22,frontmatter only,1.0
+1533,335,23,frontmatter only,1.0
+1534,335,24,frontmatter only,1.0
+1535,335,25,frontmatter only,1.0
+1536,335,26,frontmatter only,1.0
+1537,335,27,frontmatter only,1.0
+1538,335,28,frontmatter only,1.0
+1539,335,29,both,0.9618
+1540,335,30,both,0.9901
+1541,335,31,frontmatter only,1.0
+1542,335,32,frontmatter only,1.0
+1545,337,2,both,0.9885
+1546,337,3,both,0.9402
+1547,337,4,both,0.9891
+1548,337,5,both,0.9671
+1549,337,6,frontmatter only,1.0
+1550,337,7,both,0.9489
+1551,337,8,frontmatter only,1.0
+1552,337,9,both,0.9715
+1553,337,10,both,0.918
+1554,337,11,both,0.9687
+1555,337,12,frontmatter only,1.0
+1556,337,13,frontmatter only,1.0
+1557,337,14,both,0.7764
+1558,337,15,frontmatter only,1.0
+1559,337,16,frontmatter only,1.0
+1560,337,17,frontmatter only,1.0
+1561,337,18,both,0.9906
+1562,337,19,frontmatter only,1.0
+1563,337,20,frontmatter only,1.0
+1564,337,21,frontmatter only,1.0
+1565,337,22,frontmatter only,1.0
+1566,337,23,frontmatter only,1.0
+1567,337,24,frontmatter only,1.0
+1568,337,25,frontmatter only,1.0
+1569,337,26,frontmatter only,1.0
+1570,337,27,frontmatter only,1.0
+1571,337,28,both,0.9618
+1572,337,29,both,0.9901
+1573,337,30,frontmatter only,1.0
+1576,339,2,both,0.9715
+1577,339,3,both,0.918
+1578,339,4,both,0.9687
+1579,339,5,frontmatter only,1.0
+1580,339,6,frontmatter only,1.0
+1581,339,7,both,0.7764
+1582,339,8,frontmatter only,1.0
+1583,339,9,frontmatter only,1.0
+1584,339,10,both,0.9906
+1585,339,11,frontmatter only,1.0
+1586,339,12,frontmatter only,1.0
+1587,339,13,frontmatter only,1.0
+1588,339,14,frontmatter only,1.0
+1589,339,15,frontmatter only,1.0
+1590,339,16,frontmatter only,1.0
+1591,339,17,frontmatter only,1.0
+1592,339,18,frontmatter only,1.0
+1593,339,19,frontmatter only,1.0
+1594,339,20,frontmatter only,1.0
+1595,339,21,frontmatter only,1.0
+1596,339,22,frontmatter only,1.0
+1597,339,23,both,0.9618
+1598,339,24,both,0.9901
+1599,339,25,frontmatter only,1.0
+1600,339,26,frontmatter only,1.0
+1602,340,2,frontmatter only,1.0
+1603,340,3,frontmatter only,1.0
+1604,340,4,frontmatter only,1.0
+1605,340,5,frontmatter only,1.0
+1606,340,6,frontmatter only,1.0
+1607,340,7,frontmatter only,1.0
+1608,340,8,frontmatter only,1.0
+1609,340,9,frontmatter only,1.0
+1610,340,10,frontmatter only,1.0
+1611,340,11,frontmatter only,1.0
+1612,340,12,frontmatter only,1.0
+1613,340,13,both,0.9618
+1614,340,14,frontmatter only,1.0
+1615,340,15,both,0.9944
+1616,340,16,both,0.9956
+1617,340,17,frontmatter only,1.0
+1618,340,18,frontmatter only,1.0
+1619,340,19,frontmatter only,1.0
+1620,340,20,frontmatter only,1.0
+1621,340,21,frontmatter only,1.0
+1622,340,22,frontmatter only,1.0
+1623,340,23,frontmatter only,1.0
+1624,340,24,frontmatter only,1.0
+1626,341,2,frontmatter only,1.0
+1627,341,3,frontmatter only,1.0
+1628,341,4,frontmatter only,1.0
+1629,341,5,frontmatter only,1.0
+1630,341,6,frontmatter only,1.0
+1631,341,7,frontmatter only,1.0
+1632,341,8,frontmatter only,1.0
+1633,341,9,frontmatter only,1.0
+1634,341,10,frontmatter only,1.0
+1635,341,11,frontmatter only,1.0
+1636,341,12,frontmatter only,1.0
+1637,341,13,frontmatter only,1.0
+1638,341,14,frontmatter only,1.0
+1639,341,15,frontmatter only,1.0
+1640,341,16,both,0.9618
+1641,341,17,both,0.9901
+1642,341,18,frontmatter only,1.0
+1643,341,19,frontmatter only,1.0
+1645,342,2,both,0.9967
+1646,342,3,both,0.994
+1647,342,4,frontmatter only,1.0
+1648,342,5,frontmatter only,1.0
+1649,342,6,frontmatter only,1.0
+1650,342,7,frontmatter only,1.0
+1651,342,8,frontmatter only,1.0
+1652,342,9,frontmatter only,1.0
+1653,342,10,frontmatter only,1.0
+1654,342,11,frontmatter only,1.0
+1655,342,12,frontmatter only,1.0
+1656,342,13,both,0.9618
+1657,342,14,both,0.9901
+1658,342,15,frontmatter only,1.0
+1659,342,16,frontmatter only,1.0
+1661,343,2,frontmatter only,1.0
+1662,343,3,frontmatter only,1.0
+1663,343,4,frontmatter only,1.0
+1664,343,5,frontmatter only,1.0
+1665,343,6,frontmatter only,1.0
+1666,343,7,frontmatter only,1.0
+1667,343,8,frontmatter only,1.0
+1668,343,9,frontmatter only,1.0
+1669,343,10,both,0.9618
+1670,343,11,both,0.9901
+1671,343,12,frontmatter only,1.0
+1672,343,13,frontmatter only,1.0
+1674,344,2,frontmatter only,1.0
+1675,344,3,both,0.9808
+1676,344,4,both,0.9166
+1677,344,5,both,0.9935
+1678,344,6,both,0.4111
+1679,344,7,both,0.9976
+1680,344,8,both,0.9885
+1681,344,9,both,0.9402
+1682,344,10,both,0.9891
+1683,344,11,both,0.9671
+1684,344,12,both,0.9489
+1685,344,13,both,1.0
+1686,344,14,frontmatter only,1.0
+1687,344,15,both,0.9715
+1688,344,16,both,0.918
+1689,344,17,both,0.9687
+1690,344,18,frontmatter only,1.0
+1691,344,19,frontmatter only,1.0
+1692,344,20,both,0.7764
+1693,344,21,frontmatter only,1.0
+1694,344,22,frontmatter only,1.0
+1695,344,23,both,0.9906
+1696,344,24,frontmatter only,1.0
+1697,344,25,frontmatter only,1.0
+1698,344,26,frontmatter only,1.0
+1699,344,27,frontmatter only,1.0
+1700,344,28,frontmatter only,1.0
+1701,344,29,frontmatter only,1.0
+1702,344,30,frontmatter only,1.0
+1703,344,31,frontmatter only,1.0
+1704,344,32,frontmatter only,1.0
+1705,344,33,frontmatter only,1.0
+1706,344,34,frontmatter only,1.0
+1707,344,35,both,0.9618
+1708,344,36,both,0.9901
+1709,344,37,frontmatter only,1.0
+1710,344,38,frontmatter only,1.0
+1712,345,2,frontmatter only,1.0
+1714,346,2,both,0.9967
+1715,346,3,both,0.994
+1716,346,4,frontmatter only,1.0
+1717,346,5,frontmatter only,1.0
+1718,346,6,frontmatter only,1.0
+1719,346,7,frontmatter only,1.0
+1720,346,8,frontmatter only,1.0
+1721,346,9,frontmatter only,1.0
+1722,346,10,frontmatter only,1.0
+1723,346,11,frontmatter only,1.0
+1724,346,12,frontmatter only,1.0
+1725,346,13,frontmatter only,1.0
+1726,346,14,frontmatter only,1.0
+1727,346,15,frontmatter only,1.0
+1728,346,16,both,0.9618
+1729,346,17,both,0.9901
+1730,346,18,frontmatter only,1.0
+1731,346,19,frontmatter only,1.0
+1733,347,2,frontmatter only,1.0
+1734,347,3,frontmatter only,1.0
+1735,347,4,body only,0.9967
+1736,347,5,frontmatter only,1.0
+1737,347,6,frontmatter only,1.0
+1738,347,7,frontmatter only,1.0
+1739,347,8,frontmatter only,1.0
+1740,347,9,frontmatter only,1.0
+1741,347,10,frontmatter only,1.0
+1742,347,11,frontmatter only,1.0
+1743,347,12,frontmatter only,1.0
+1744,347,13,frontmatter only,1.0
+1746,348,2,both,0.9711
+1747,348,3,frontmatter only,1.0
+1748,348,4,frontmatter only,1.0
+1749,348,5,frontmatter only,1.0
+1750,348,6,frontmatter only,1.0
+1751,348,7,body only,0.9912
+1752,348,8,frontmatter only,1.0
+1753,348,9,frontmatter only,1.0
+1754,348,10,frontmatter only,1.0
+1755,348,11,frontmatter only,1.0
+1756,348,12,frontmatter only,1.0
+1757,348,13,frontmatter only,1.0
+1758,348,14,frontmatter only,1.0
+1759,348,15,frontmatter only,1.0
+1760,348,16,frontmatter only,1.0
+1761,348,17,frontmatter only,1.0
+1762,348,18,frontmatter only,1.0
+1763,348,19,frontmatter only,1.0
+1764,348,20,frontmatter only,1.0
+1766,349,2,frontmatter only,1.0
+1767,349,3,body only,0.995
+1768,349,4,frontmatter only,1.0
+1769,349,5,frontmatter only,1.0
+1770,349,6,frontmatter only,1.0
+1771,349,7,frontmatter only,1.0
+1772,349,8,frontmatter only,1.0
+1773,349,9,frontmatter only,1.0
+1774,349,10,frontmatter only,1.0
+1775,349,11,frontmatter only,1.0
+1776,349,12,frontmatter only,1.0
+1777,349,13,frontmatter only,1.0
+1778,349,14,frontmatter only,1.0
+1779,349,15,frontmatter only,1.0
+1781,350,2,both,0.9949
+1782,350,3,frontmatter only,1.0
+1783,350,4,frontmatter only,1.0
+1784,350,5,frontmatter only,1.0
+1785,350,6,frontmatter only,1.0
+1786,350,7,frontmatter only,1.0
+1787,350,8,body only,0.987
+1788,350,9,frontmatter only,1.0
+1789,350,10,frontmatter only,1.0
+1790,350,11,frontmatter only,1.0
+1791,350,12,frontmatter only,1.0
+1792,350,13,frontmatter only,1.0
+1793,350,14,frontmatter only,1.0
+1794,350,15,frontmatter only,1.0
+1795,350,16,frontmatter only,1.0
+1796,350,17,frontmatter only,1.0
+1797,350,18,frontmatter only,1.0
+1798,350,19,frontmatter only,1.0
+1799,350,20,frontmatter only,1.0
+1800,350,21,frontmatter only,1.0
+1804,353,2,both,0.8129
+1805,353,3,body only,1.0
+1807,354,2,frontmatter only,1.0
+1808,354,3,frontmatter only,1.0
+1809,354,4,frontmatter only,1.0
+1810,354,5,frontmatter only,1.0
+1811,354,6,frontmatter only,1.0
+1812,354,7,frontmatter only,1.0
+1813,354,8,frontmatter only,1.0
+1815,355,2,frontmatter only,1.0
+1816,355,3,frontmatter only,1.0
+1817,355,4,frontmatter only,1.0
+1818,355,5,frontmatter only,1.0
+1819,355,6,body only,0.9122
+1820,355,7,body only,0.9152
+1821,355,8,frontmatter only,1.0
+1822,355,9,frontmatter only,1.0
+1823,355,10,frontmatter only,1.0
+1824,355,11,frontmatter only,1.0
+1825,355,12,both,0.9169
+1827,356,2,frontmatter only,1.0
+1828,356,3,both,0.3324
+1829,356,4,frontmatter only,1.0
+1830,356,5,both,1.0
+1831,356,6,frontmatter only,1.0
+1832,356,7,frontmatter only,1.0
+1833,356,8,frontmatter only,1.0
+1835,357,2,body only,0.9263
+1836,357,3,body only,0.9409
+1837,357,4,frontmatter only,1.0
+1838,357,5,frontmatter only,1.0
+1839,357,6,frontmatter only,1.0
+1841,358,2,body only,0.8727
+1844,360,2,frontmatter only,1.0
+1845,360,3,body only,0.7035
+1846,360,4,body only,0.811
+1847,360,5,frontmatter only,1.0
+1848,360,6,frontmatter only,1.0
+1849,360,7,frontmatter only,1.0
+1850,360,8,frontmatter only,1.0
+1851,360,9,frontmatter only,1.0
+1853,361,2,body only,0.7807
+1854,361,3,frontmatter only,1.0
+1855,361,4,frontmatter only,1.0
+1856,361,5,frontmatter only,1.0
+1857,361,6,frontmatter only,1.0
+1858,361,7,frontmatter only,1.0
+1859,361,8,both,0.9725
+1861,362,2,both,0.9592
+1862,362,3,body only,0.9891
+1863,362,4,body only,0.945
+1864,362,5,body only,0.909
+1865,362,6,frontmatter only,1.0
+1866,362,7,frontmatter only,1.0
+1867,362,8,frontmatter only,1.0
+1868,362,9,frontmatter only,1.0
+1869,362,10,body only,0.9835
+1870,362,11,frontmatter only,1.0
+1872,363,2,frontmatter only,1.0
+1873,363,3,frontmatter only,1.0
+1874,363,4,frontmatter only,1.0
+1875,363,5,frontmatter only,1.0
+1877,364,2,frontmatter only,1.0
+1878,364,3,frontmatter only,1.0
+1880,365,2,both,0.9362
+1881,365,3,both,0.9313
+1882,365,4,frontmatter only,1.0
+1883,365,5,body only,0.8923
+1884,365,6,body only,0.8201
+1885,365,7,frontmatter only,1.0
+1886,365,8,frontmatter only,1.0
+1887,365,9,frontmatter only,1.0
+1888,365,10,frontmatter only,1.0
+1890,366,2,frontmatter only,1.0
+1891,366,3,frontmatter only,1.0
+1892,366,4,frontmatter only,1.0
+1893,366,5,frontmatter only,1.0
+1895,367,2,body only,0.9688
+1896,367,3,frontmatter only,1.0
+1897,367,4,frontmatter only,1.0
+1898,367,5,frontmatter only,1.0
+1899,367,6,frontmatter only,1.0
+1901,368,2,frontmatter only,1.0
+1902,368,3,frontmatter only,1.0
+1903,368,4,frontmatter only,1.0
+1904,368,5,frontmatter only,1.0
+1906,369,2,frontmatter only,1.0
+1907,369,3,body only,0.6241
+1908,369,4,body only,0.943
+1909,369,5,both,1.0
+1910,369,6,both,0.9634
+1911,369,7,body only,0.9149
+1912,369,8,both,0.9134
+1913,369,9,frontmatter only,1.0
+1914,369,10,frontmatter only,1.0
+1915,369,11,frontmatter only,1.0
+1917,370,2,frontmatter only,1.0
+1919,371,2,body only,0.7457
+1920,371,3,body only,0.9238
+1922,372,2,frontmatter only,1.0
+1923,372,3,both,0.9552
+1924,372,4,frontmatter only,1.0
+1927,374,2,both,0.5181
+1928,374,3,both,0.9942
+1929,374,4,frontmatter only,1.0
+1930,374,5,frontmatter only,1.0
+1931,374,6,frontmatter only,1.0
+1933,375,2,body only,1.0
+1934,375,3,both,0.9965
+1935,375,4,both,0.9488
+1936,375,5,frontmatter only,1.0
+1937,375,6,both,0.9973
+1939,376,2,both,0.941
+1940,376,3,both,0.8022
+1941,376,4,frontmatter only,1.0
+1942,376,5,frontmatter only,1.0
+1943,376,6,both,0.9891
+1944,376,7,frontmatter only,1.0
+1946,377,2,body only,0.9872
+1947,377,3,both,0.9515
+1948,377,4,both,0.8512
+1949,377,5,frontmatter only,1.0
+1950,377,6,frontmatter only,1.0
+1951,377,7,both,0.9935
+1952,377,8,frontmatter only,1.0
+1953,377,9,body only,0.9917
+1956,379,2,body only,0.5206
+1958,380,2,frontmatter only,1.0
+1959,380,3,both,0.9799
+1960,380,4,body only,0.9199
+1961,380,5,frontmatter only,1.0
+1962,380,6,frontmatter only,1.0
+1963,380,7,body only,0.9871
+1964,380,8,body only,0.9647
+1969,384,2,both,0.7934
+1970,384,3,body only,0.901
+1971,384,4,body only,1.0
+1972,384,5,body only,0.9277
+1974,385,2,frontmatter only,1.0
+1975,385,3,frontmatter only,1.0
+1977,386,2,frontmatter only,1.0
+1978,386,3,frontmatter only,1.0
+1980,387,2,frontmatter only,1.0
+1981,387,3,frontmatter only,1.0
+1983,388,2,frontmatter only,1.0
+1984,388,3,frontmatter only,1.0
+1986,389,2,frontmatter only,1.0
+1987,389,3,frontmatter only,1.0
+1989,390,2,frontmatter only,1.0
+1990,390,3,frontmatter only,1.0
+1992,391,2,frontmatter only,1.0
+1993,391,3,frontmatter only,1.0
+1995,392,2,frontmatter only,1.0
+1996,392,3,frontmatter only,1.0
+1998,393,2,frontmatter only,1.0
+2000,394,2,frontmatter only,1.0
+2001,394,3,frontmatter only,1.0
+2003,395,2,frontmatter only,1.0
+2004,395,3,frontmatter only,1.0
+2005,395,4,frontmatter only,1.0
+2006,395,5,frontmatter only,1.0
+2007,395,6,frontmatter only,1.0
+2008,395,7,frontmatter only,1.0
+2010,396,2,both,0.9969
+2011,396,3,frontmatter only,1.0
+2012,396,4,body only,0.9116
+2014,397,2,frontmatter only,1.0
+2015,397,3,frontmatter only,1.0
+2016,397,4,frontmatter only,1.0
+2019,399,2,frontmatter only,1.0
+2020,399,3,frontmatter only,1.0
+2021,399,4,frontmatter only,1.0
+2023,400,2,frontmatter only,1.0
+2024,400,3,frontmatter only,1.0
+2025,400,4,frontmatter only,1.0
+2026,400,5,both,1.0
+2027,400,6,both,0.8785
+2028,400,7,frontmatter only,1.0
+2029,400,8,frontmatter only,1.0
+2030,400,9,frontmatter only,1.0
+2031,400,10,both,0.8534
+2032,400,11,frontmatter only,1.0
+2033,400,12,frontmatter only,1.0
+2034,400,13,frontmatter only,1.0
+2035,400,14,both,0.9645
+2037,401,2,body only,0.9235
+2038,401,3,frontmatter only,1.0
+2039,401,4,both,0.9044
+2040,401,5,frontmatter only,1.0
+2041,401,6,frontmatter only,1.0
+2043,402,2,both,0.9838
+2048,406,2,body only,0.9812
+2049,406,3,frontmatter only,1.0
+2051,407,2,frontmatter only,1.0
+2053,408,2,body only,0.9852
+2054,408,3,both,0.9847
+2055,408,4,both,0.988
+2057,409,2,frontmatter only,1.0
+2058,409,3,frontmatter only,1.0
+2059,409,4,frontmatter only,1.0
+2060,409,5,frontmatter only,1.0
+2061,409,6,both,0.9956
+2063,410,2,both,0.9575
+2065,411,2,both,0.9771
+2066,411,3,body only,0.9748
+2067,411,4,frontmatter only,1.0
+2068,411,5,both,0.9896
+2070,412,2,frontmatter only,1.0
+2071,412,3,frontmatter only,1.0
+2073,413,2,body only,0.7674
+2079,418,2,frontmatter only,1.0
+2083,421,2,both,0.8903
+2086,423,2,frontmatter only,1.0
+2091,427,2,both,0.9746
+2094,429,2,both,0.9941
+2095,429,3,both,0.8161
+2096,429,4,body only,0.9716
+2097,429,5,body only,1.0
+2098,429,6,frontmatter only,1.0
+2099,429,7,frontmatter only,1.0
+2100,429,8,body only,0.998
+2101,429,9,frontmatter only,1.0
+2103,430,2,both,0.9633
+2104,430,3,frontmatter only,1.0
+2105,430,4,frontmatter only,1.0
+2106,430,5,frontmatter only,1.0
+2107,430,6,frontmatter only,1.0
+2108,430,7,frontmatter only,1.0
+2109,430,8,frontmatter only,1.0
+2110,430,9,frontmatter only,1.0
+2111,430,10,frontmatter only,1.0
+2113,431,2,frontmatter only,1.0
+2114,431,3,body only,0.9923
+2115,431,4,body only,0.8939
+2116,431,5,body only,1.0
+2117,431,6,frontmatter only,1.0
+2118,431,7,frontmatter only,1.0
+2120,432,2,frontmatter only,1.0
+2121,432,3,frontmatter only,1.0
+2122,432,4,frontmatter only,1.0
+2123,432,5,both,0.9884
+2124,432,6,frontmatter only,1.0
+2126,433,2,frontmatter only,1.0
+2127,433,3,frontmatter only,1.0
+2128,433,4,frontmatter only,1.0
+2129,433,5,frontmatter only,1.0
+2130,433,6,body only,0.8752
+2131,433,7,both,0.9951
+2132,433,8,frontmatter only,1.0
+2133,433,9,frontmatter only,1.0
+2134,433,10,frontmatter only,1.0
+2135,433,11,frontmatter only,1.0
+2136,433,12,frontmatter only,1.0
+2138,434,2,body only,0.995
+2140,435,2,frontmatter only,1.0
+2142,436,2,frontmatter only,1.0
+2143,436,3,both,0.7245
+2144,436,4,frontmatter only,1.0
+2145,436,5,frontmatter only,1.0
+2147,437,2,frontmatter only,1.0
+2148,437,3,frontmatter only,1.0
+2149,437,4,both,0.9928
+2150,437,5,frontmatter only,1.0
+2151,437,6,body only,0.8156
+2153,438,2,body only,0.875
+2154,438,3,frontmatter only,1.0
+2158,441,2,frontmatter only,1.0
+2160,442,2,body only,0.8848
+2161,442,3,frontmatter only,1.0
+2163,443,2,frontmatter only,1.0
+2164,443,3,body only,0.8218
+2165,443,4,both,0.801
+2166,443,5,frontmatter only,1.0
+2168,444,2,frontmatter only,1.0
+2169,444,3,body only,0.9109
+2170,444,4,frontmatter only,1.0
+2172,445,2,frontmatter only,1.0
+2174,446,2,body only,0.9177
+2175,446,3,frontmatter only,1.0
+2177,447,2,body only,0.849
+2178,447,3,body only,0.9858
+2179,447,4,frontmatter only,1.0
+2181,448,2,frontmatter only,1.0
+2182,448,3,body only,0.9946
+2183,448,4,frontmatter only,1.0
+2187,451,2,frontmatter only,1.0
+2188,451,3,no change,1.0
+2189,451,4,frontmatter only,1.0
+2190,451,5,frontmatter only,1.0
+2192,452,2,frontmatter only,1.0
+2193,452,3,frontmatter only,1.0
+2195,453,2,both,0.7655
+2196,453,3,frontmatter only,1.0
+2197,453,4,frontmatter only,1.0
+2198,453,5,frontmatter only,1.0
+2199,453,6,body only,0.9943
+2200,453,7,body only,0.7986
+2202,454,2,both,1.0
+2203,454,3,both,0.9829
+2204,454,4,both,0.9959
+2205,454,5,both,0.9982
+2206,454,6,both,0.998
+2207,454,7,body only,1.0
+2208,454,8,body only,0.9967
+2210,455,2,frontmatter only,1.0
+2211,455,3,frontmatter only,1.0
+2212,455,4,frontmatter only,1.0
+2213,455,5,frontmatter only,1.0
+2214,455,6,both,0.9749
+2215,455,7,body only,1.0
+2216,455,8,frontmatter only,1.0
+2218,456,2,both,0.8071
+2219,456,3,frontmatter only,1.0
+2220,456,4,frontmatter only,1.0
+2221,456,5,body only,0.9604
+2223,457,2,frontmatter only,1.0
+2224,457,3,both,0.9318
+2225,457,4,both,0.8448
+2226,457,5,both,0.8157
+2227,457,6,both,0.967
+2228,457,7,both,0.9351
+2229,457,8,body only,0.9875
+2230,457,9,body only,0.9517
+2231,457,10,frontmatter only,1.0
+2232,457,11,frontmatter only,1.0
+2233,457,12,frontmatter only,1.0
+2234,457,13,frontmatter only,1.0
+2235,457,14,frontmatter only,1.0
+2236,457,15,frontmatter only,1.0
+2237,457,16,frontmatter only,1.0
+2238,457,17,both,0.9316
+2239,457,18,frontmatter only,1.0
+2240,457,19,frontmatter only,1.0
+2241,457,20,both,0.955
+2245,460,2,both,0.8567
+2246,460,3,both,0.8226
+2247,460,4,frontmatter only,1.0
+2248,460,5,both,0.9988
+2250,461,2,frontmatter only,1.0
+2251,461,3,both,0.9903
+2253,462,2,body only,0.8959
+2254,462,3,both,0.8791
+2255,462,4,both,0.9905
+2256,462,5,both,0.9882
+2258,463,2,both,0.8422
+2259,463,3,frontmatter only,1.0
+2260,463,4,both,0.7106
+2262,464,2,frontmatter only,1.0
+2263,464,3,frontmatter only,1.0
+2264,464,4,both,0.9979
+2265,464,5,frontmatter only,1.0
+2267,465,2,both,0.8832
+2269,466,2,both,0.9352
+2270,466,3,both,0.9925
+2271,466,4,frontmatter only,1.0
+2272,466,5,body only,0.9879
+2273,466,6,both,0.9422
+2274,466,7,frontmatter only,1.0
+2275,466,8,frontmatter only,1.0
+2276,466,9,frontmatter only,1.0
+2277,466,10,body only,0.9717
+2279,467,2,both,0.9539
+2280,467,3,frontmatter only,1.0
+2281,467,4,body only,0.9834
+2282,467,5,body only,0.9871
+2283,467,6,body only,0.9706
+2284,467,7,both,0.9989
+2285,467,8,body only,0.9815
+2288,469,2,body only,0.9815
+2290,470,2,frontmatter only,1.0
+2291,470,3,frontmatter only,1.0
+2294,472,2,frontmatter only,1.0
+2295,472,3,both,0.9919
+2296,472,4,both,0.9348
+2297,472,5,body only,0.5557
+2298,472,6,both,0.737
+2299,472,7,body only,0.6798
+2300,472,8,both,0.8129
+2301,472,9,frontmatter only,1.0
+2302,472,10,both,0.9236
+2303,472,11,both,0.9143
+2304,472,12,frontmatter only,1.0
+2306,473,2,both,0.9495
+2307,473,3,both,0.9863
+2308,473,4,body only,0.9919
+2309,473,5,both,0.9507
+2310,473,6,frontmatter only,1.0
+2311,473,7,frontmatter only,1.0
+2312,473,8,body only,0.9412
+2313,473,9,body only,0.8977
+2314,473,10,both,0.9215
+2315,473,11,both,0.975
+2317,474,2,frontmatter only,1.0
+2319,475,2,body only,0.7891
+2320,475,3,body only,1.0
+2322,476,2,both,0.9648
+2324,477,2,frontmatter only,1.0
+2325,477,3,frontmatter only,1.0
+2326,477,4,both,0.8487
+2327,477,5,frontmatter only,1.0
+2328,477,6,frontmatter only,1.0
+2329,477,7,frontmatter only,1.0
+2330,477,8,both,0.9388
+2331,477,9,body only,0.9773
+2333,478,2,body only,0.9194
+2334,478,3,body only,0.9809
+2335,478,4,body only,0.9982
+2336,478,5,body only,0.8925
+2338,479,2,both,0.8175
+2339,479,3,frontmatter only,1.0
+2340,479,4,body only,0.8826
+2341,479,5,both,0.9925
+2342,479,6,both,0.7408
+2343,479,7,both,0.9901
+2344,479,8,both,0.9078
+2345,479,9,frontmatter only,1.0
+2346,479,10,body only,0.9379
+2348,480,2,both,0.0306
+2349,480,3,body only,0.9985
+2350,480,4,frontmatter only,1.0
+2351,480,5,body only,0.9304
+2352,480,6,body only,0.8221
+2353,480,7,frontmatter only,1.0
+2355,481,2,body only,0.9867
+2356,481,3,frontmatter only,1.0
+2357,481,4,body only,0.9718
+2358,481,5,body only,0.9883
+2359,481,6,frontmatter only,1.0
+2360,481,7,frontmatter only,1.0
+2361,481,8,frontmatter only,1.0
+2362,481,9,frontmatter only,1.0
+2363,481,10,body only,0.962
+2364,481,11,body only,0.9407
+2365,481,12,frontmatter only,1.0
+2366,481,13,frontmatter only,1.0
+2367,481,14,frontmatter only,1.0
+2368,481,15,body only,0.8823
+2370,482,2,both,0.0306
+2371,482,3,body only,0.9977
+2372,482,4,frontmatter only,1.0
+2373,482,5,body only,0.9478
+2374,482,6,body only,0.8161
+2375,482,7,frontmatter only,1.0
+2376,482,8,frontmatter only,1.0
+2377,482,9,frontmatter only,1.0
+2378,482,10,frontmatter only,1.0
+2379,482,11,frontmatter only,1.0
+2381,483,2,frontmatter only,1.0
+2382,483,3,frontmatter only,1.0
+2383,483,4,both,0.7958
+2384,483,5,body only,0.8172
+2387,485,2,frontmatter only,1.0
+2391,488,2,frontmatter only,1.0
+2393,489,2,frontmatter only,1.0
+2395,490,2,body only,0.8535
+2396,490,3,body only,0.7401
+2397,490,4,frontmatter only,1.0
+2398,490,5,both,0.7245
+2399,490,6,body only,0.9913
+2400,490,7,frontmatter only,1.0
+2401,490,8,frontmatter only,1.0
+2403,491,2,both,0.972
+2405,492,2,frontmatter only,1.0
+2406,492,3,body only,0.9932
+2407,492,4,both,0.9473
+2408,492,5,both,0.9834
+2409,492,6,frontmatter only,1.0
+2410,492,7,both,0.9804
+2411,492,8,both,0.9926
+2412,492,9,both,0.9482
+2413,492,10,both,1.0
+2415,493,2,frontmatter only,1.0
+2417,494,2,frontmatter only,1.0
+2419,495,2,frontmatter only,1.0
+2421,496,2,frontmatter only,1.0
+2424,498,2,frontmatter only,1.0
+2425,498,3,frontmatter only,1.0
+2426,498,4,frontmatter only,1.0
+2427,498,5,both,0.9858
+2429,499,2,both,0.9889
+2431,500,2,body only,0.9992
+2433,501,2,body only,0.9322
+2434,501,3,both,0.9013
+2435,501,4,body only,0.9519
+2436,501,5,both,0.9302
+2437,501,6,body only,0.9524
+2439,502,2,frontmatter only,1.0
+2440,502,3,both,0.9451
+2441,502,4,frontmatter only,1.0
+2443,503,2,frontmatter only,1.0
+2444,503,3,both,0.3273
+2446,504,2,frontmatter only,1.0
+2447,504,3,frontmatter only,1.0
+2449,505,2,body only,0.9882
+2450,505,3,body only,0.9873
+2451,505,4,frontmatter only,1.0
+2452,505,5,frontmatter only,1.0
+2453,505,6,body only,0.9631
+2455,506,2,frontmatter only,1.0
+2457,507,2,frontmatter only,1.0
+2458,507,3,frontmatter only,1.0
+2459,507,4,frontmatter only,1.0
+2460,507,5,body only,0.9752
+2462,508,2,body only,0.9929
+2463,508,3,body only,0.9192
+2464,508,4,frontmatter only,1.0
+2465,508,5,frontmatter only,1.0
+2466,508,6,frontmatter only,1.0
+2467,508,7,body only,0.9775
+2468,508,8,frontmatter only,1.0
+2470,509,2,body only,0.9843
+2472,510,2,body only,0.9974
+2474,511,2,both,0.9856
+2475,511,3,frontmatter only,1.0
+2476,511,4,body only,0.9724
+2478,512,2,both,0.9778
+2479,512,3,body only,0.9833
+2483,515,2,both,0.8626
+2484,515,3,frontmatter only,1.0
+2485,515,4,frontmatter only,1.0
+2486,515,5,frontmatter only,1.0
+2487,515,6,frontmatter only,1.0
+2488,515,7,frontmatter only,1.0
+2490,516,2,body only,0.995
+2491,516,3,frontmatter only,1.0
+2492,516,4,frontmatter only,1.0
+2494,517,2,body only,0.4961
+2495,517,3,frontmatter only,1.0
+2496,517,4,frontmatter only,1.0
+2497,517,5,frontmatter only,1.0
+2498,517,6,frontmatter only,1.0
+2506,524,2,frontmatter only,1.0
+2507,524,3,body only,0.9642
+2509,525,2,both,0.9594
+2510,525,3,both,0.9594
+2511,525,4,both,0.9594
+2513,526,2,body only,0.9758
+2515,527,2,body only,0.9803
+2517,528,2,both,0.7857
+2518,528,3,frontmatter only,1.0
+2520,529,2,body only,0.8442
+2521,529,3,both,0.9644
+2522,529,4,body only,1.0
+2523,529,5,body only,0.9441
+2524,529,6,both,0.9735
+2525,529,7,body only,0.8875
+2526,529,8,both,0.9797
+2527,529,9,both,0.8847
+2528,529,10,body only,0.9615
+2529,529,11,frontmatter only,1.0
+2531,530,2,frontmatter only,1.0
+2532,530,3,body only,0.7654
+2533,530,4,frontmatter only,1.0
+2534,530,5,body only,0.7171
+2535,530,6,body only,0.9512
+2536,530,7,both,0.9076
+2537,530,8,body only,0.9534
+2538,530,9,body only,0.8849
+2539,530,10,body only,0.9853
+2540,530,11,body only,0.9123
+2541,530,12,body only,0.97
+2542,530,13,frontmatter only,1.0
+2543,530,14,both,0.9491
+2544,530,15,body only,0.9976
+2545,530,16,body only,0.9396
+2548,532,2,both,0.843
+2549,532,3,body only,0.9727
+2550,532,4,body only,0.868
+2551,532,5,both,0.9046
+2554,534,2,body only,0.9629
+2555,534,3,both,0.5634
+2556,534,4,both,0.3955
+2557,534,5,both,0.3828
+2558,534,6,frontmatter only,1.0
+2559,534,7,both,0.4376
+2560,534,8,both,0.986
+2561,534,9,both,0.8322
+2562,534,10,body only,0.8766
+2563,534,11,body only,0.5251
+2565,535,2,frontmatter only,1.0
+2566,535,3,frontmatter only,1.0
+2567,535,4,frontmatter only,1.0
+2568,535,5,frontmatter only,1.0
+2570,536,2,body only,0.9983
+2574,539,2,frontmatter only,1.0
+2575,539,3,frontmatter only,1.0
+2576,539,4,frontmatter only,1.0
+2578,540,2,both,1.0
+2579,540,3,frontmatter only,1.0
+2581,541,2,frontmatter only,1.0
+2585,544,2,body only,0.9947
+2586,544,3,both,0.9556
+2587,544,4,frontmatter only,1.0
+2588,544,5,frontmatter only,1.0
+2589,544,6,body only,0.9806
+2591,545,2,frontmatter only,1.0
+2593,546,2,frontmatter only,1.0
+2595,547,2,body only,0.9408
+2596,547,3,frontmatter only,1.0
+2598,548,2,frontmatter only,1.0
+2599,548,3,frontmatter only,1.0
+2600,548,4,frontmatter only,1.0
+2601,548,5,frontmatter only,1.0
+2602,548,6,body only,0.9501
+2603,548,7,frontmatter only,1.0
+2605,549,2,both,0.823
+2606,549,3,frontmatter only,1.0
+2608,550,2,both,0.0089
+2610,551,2,body only,0.9884
+2612,552,2,body only,0.9547
+2613,552,3,frontmatter only,1.0
+2615,553,2,frontmatter only,1.0
+2616,553,3,body only,0.7647
+2617,553,4,body only,0.7448
+2618,553,5,body only,0.7504
+2619,553,6,body only,0.7185
+2620,553,7,body only,0.7533
+2621,553,8,body only,0.9061
+2622,553,9,body only,0.9825
+2623,553,10,body only,0.9371
+2624,553,11,frontmatter only,1.0
+2626,554,2,body only,0.9707
+2627,554,3,body only,0.9844
+2628,554,4,frontmatter only,1.0
+2633,558,2,both,0.1688
+2636,560,2,both,0.8405
+2637,560,3,body only,0.9755
+2638,560,4,both,0.64
+2641,562,2,both,0.8385
+2642,562,3,both,0.5233
+2645,564,2,body only,0.8933
+2647,565,2,frontmatter only,1.0
+2649,566,2,frontmatter only,1.0
+2650,566,3,frontmatter only,1.0
+2651,566,4,both,0.0982
+2652,566,5,both,0.3086
+2653,566,6,frontmatter only,1.0
+2654,566,7,body only,0.731
+2656,567,2,frontmatter only,1.0
+2658,568,2,frontmatter only,1.0
+2659,568,3,frontmatter only,1.0
+2660,568,4,both,0.7269
+2661,568,5,frontmatter only,1.0
+2662,568,6,frontmatter only,1.0
+2663,568,7,both,0.9138
+2664,568,8,both,0.7133
+2665,568,9,both,0.8005
+2666,568,10,body only,0.9572
+2667,568,11,frontmatter only,1.0
+2669,569,2,both,0.7363
+2670,569,3,frontmatter only,1.0
+2671,569,4,frontmatter only,1.0
+2673,570,2,body only,0.9634
+2674,570,3,body only,0.9956
+2675,570,4,both,0.5268
+2676,570,5,body only,0.9496
+2677,570,6,both,0.6976
+2679,571,2,both,0.7023
+2680,571,3,both,0.8654
+2681,571,4,both,0.8243
+2682,571,5,frontmatter only,1.0
+2683,571,6,both,0.5948
+2684,571,7,frontmatter only,1.0
+2686,572,2,frontmatter only,1.0
+2688,573,2,frontmatter only,1.0
+2690,574,2,frontmatter only,1.0
+2691,574,3,frontmatter only,1.0
+2692,574,4,no change,1.0
+2693,574,5,frontmatter only,1.0
+2694,574,6,frontmatter only,1.0
+2695,574,7,frontmatter only,1.0
+2697,575,2,both,0.9719
+2698,575,3,body only,0.9951
+2699,575,4,both,0.9405
+2700,575,5,both,0.9848
+2701,575,6,both,0.9885
+2702,575,7,body only,0.9933
+2703,575,8,both,0.9945
+2704,575,9,body only,0.9495
+2705,575,10,frontmatter only,1.0
+2706,575,11,frontmatter only,1.0
+2707,575,12,frontmatter only,1.0
+2708,575,13,frontmatter only,1.0
+2709,575,14,body only,0.9874
+2710,575,15,both,0.8553
+2711,575,16,body only,0.949
+2712,575,17,body only,0.9132
+2713,575,18,frontmatter only,1.0
+2714,575,19,frontmatter only,1.0
+2715,575,20,both,0.9753
+2716,575,21,frontmatter only,1.0
+2718,576,2,both,0.9634
+2719,576,3,body only,0.9146
+2720,576,4,body only,0.9759
+2721,576,5,frontmatter only,1.0
+2722,576,6,frontmatter only,1.0
+2723,576,7,frontmatter only,1.0
+2724,576,8,frontmatter only,1.0
+2725,576,9,body only,0.9436
+2726,576,10,frontmatter only,1.0
+2727,576,11,body only,0.7635
+2728,576,12,both,0.9225
+2729,576,13,both,0.8902
+2730,576,14,body only,0.9174
+2731,576,15,frontmatter only,1.0
+2732,576,16,frontmatter only,1.0
+2733,576,17,body only,0.9508
+2734,576,18,frontmatter only,1.0
+2736,577,2,both,0.9164
+2737,577,3,both,0.9927
+2738,577,4,frontmatter only,1.0
+2739,577,5,frontmatter only,1.0
+2740,577,6,frontmatter only,1.0
+2741,577,7,frontmatter only,1.0
+2742,577,8,frontmatter only,1.0
+2743,577,9,both,0.991
+2744,577,10,frontmatter only,1.0
+2745,577,11,frontmatter only,1.0
+2746,577,12,frontmatter only,1.0
+2748,578,2,no change,1.0
+2749,578,3,frontmatter only,1.0
+2750,578,4,frontmatter only,1.0
+2751,578,5,frontmatter only,1.0
+2753,579,2,both,0.9475
+2754,579,3,frontmatter only,1.0
+2755,579,4,body only,0.9959
+2756,579,5,frontmatter only,1.0
+2757,579,6,frontmatter only,1.0
+2758,579,7,both,0.932
+2759,579,8,frontmatter only,1.0
+2761,580,2,frontmatter only,1.0
+2762,580,3,frontmatter only,1.0
+2763,580,4,frontmatter only,1.0
+2765,581,2,both,0.8956
+2766,581,3,frontmatter only,1.0
+2767,581,4,frontmatter only,1.0
+2768,581,5,frontmatter only,1.0
+2770,582,2,both,1.0
+2771,582,3,body only,0.9666
+2773,583,2,both,0.9758
+2774,583,3,body only,0.9893
+2775,583,4,frontmatter only,1.0
+2776,583,5,both,0.9229
+2777,583,6,frontmatter only,1.0
+2778,583,7,body only,0.9979
+2779,583,8,both,0.9989
+2781,584,2,body only,0.9873
+2783,585,2,frontmatter only,1.0
+2785,586,2,frontmatter only,1.0
+2787,587,2,frontmatter only,1.0
+2788,587,3,frontmatter only,1.0
+2793,591,2,both,0.8483
+2794,591,3,frontmatter only,1.0
+2795,591,4,frontmatter only,1.0
+2796,591,5,both,0.9153
+2797,591,6,body only,0.9796
+2798,591,7,both,0.8913
+2803,595,2,both,0.013
+2805,596,2,frontmatter only,1.0
+2806,596,3,both,0.8442
+2807,596,4,frontmatter only,1.0
+2808,596,5,body only,0.9268
+2809,596,6,body only,0.9704
+2811,597,2,frontmatter only,1.0
+2812,597,3,frontmatter only,1.0
+2820,604,2,both,0.9424

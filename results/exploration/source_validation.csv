@@ -1,0 +1,4 @@
+pair_group,n_pairs,q0.05,q0.25,q0.5,q0.75,q0.95
+same declared source,605,0.174,0.657,0.944,1.0,1.0
+different declared source,6758,0.017,0.032,0.049,0.069,0.107
+no declared source (either side),106632,0.008,0.025,0.035,0.046,0.067

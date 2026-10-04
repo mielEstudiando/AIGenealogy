@@ -25,15 +25,17 @@ We do not re-run the extraction from GitHub. The analysis starts from the publis
 
 The full column dictionary is in the [GHAW-H table dictionary](https://huggingface.co/datasets/pavtch/GHAW-H/blob/main/docs/table_dictionary.md).
 
-## First observations (2026-10-03)
-
-These come from `ghaw_relations.data.load_snapshots()`, which joins the version, snapshot and repository tables:
-
-- 2,820 rows covering 262 repositories and 604 histories. Every snapshot has a frontmatter and a non-empty body.
-- Commit timestamps range from 2025-10-03 to 2026-06-27.
-- There are 1,287 distinct bodies (after trimming whitespace). 52 of them appear in more than one repository, and one body appears in 51 repositories.
-- 302 rows have `content` identical to an earlier row.
-
 ## Transformations
 
-None yet. Each transformation will be recorded here as it is added: normalization, deduplication, filtering, and so on.
+Each transformation is listed here as it is added.
+
+- **Joins:** `load_snapshots()` joins version → snapshot (1:1) → repository (n:1). `owner` is the part of `repo_full_name` before the `/`.
+- **Exact matching:** whitespace normalization only. CRLF becomes LF, trailing spaces are stripped, runs of 3+ newlines become 2, and the text is trimmed. Then it's hashed with SHA-1 (`ghaw_relations.relations.normalize_text`).
+- **Frontmatter parsing:** `yaml.BaseLoader`, so all values are strings and `on` stays a key rather than becoming `True`. One frontmatter fails to parse and gets null keys.
+- **Fragments:** the body is split on blank lines, lowercased, and whitespace is collapsed. Fragments under 8 words are dropped.
+- **Files:** each history is represented by its latest version (max `rank`) in `explore_relations.py`. `trace_evolution.py` uses every version.
+- **Stub bodies:** bodies under 20 words (`ghaw_relations.relations.is_stub`) are flagged and excluded from body-similarity comparisons. Their instructions mostly come from `imports:` (176 of 193 stub versions).
+- **Imports:** `imports:` entries are read as strings, or as the `path`/`uses`/first key of mapping entries.
+- **TF-IDF:** word 1–2 grams with sublinear tf, fitted on the distinct bodies so that repeated versions don't skew the idf (`ghaw_relations.relations.fit_tfidf`).
+- **Time:** `committed_at` is parsed as UTC. An "earlier" version must be strictly earlier, so same-timestamp ties are never treated as earlier.
+- No rows are removed. Duplicate versions are kept and analyzed explicitly.
