@@ -1,0 +1,90 @@
+case_id,coder,verdict,relation_type,notes,blind_at_label,labeled_at,first_verdict,first_relation_type,stratum,machine_verdict,agrees_with_machine
+C001,miel,not_related,"divergent: same starting point, different content","same skeleton, one seems to be the source
+
+",true,2026-10-04T21:15:21.159Z,related,"divergent: same starting point, different content",creator prompt: full skeleton,not_related,false
+C002,miel,related,near-identical copy,,true,2026-10-04T21:16:01.023Z,related,near-identical copy,template: undeclared copy,related,true
+C003,miel,related,identical copy,,true,2026-10-04T21:17:26.665Z,related,identical copy,"template: declared, identical",related,true
+C004,miel,not_related,"divergent: same starting point, different content",,true,2026-10-04T21:18:02.220Z,not_related,"divergent: same starting point, different content",creator prompt: full skeleton,not_related,true
+C005,miel,related,adapted copy,,true,2026-10-04T21:18:33.854Z,related,adapted copy,template: undeclared copy,related,true
+C006,miel,related,near-identical copy,,true,2026-10-04T21:18:58.166Z,related,near-identical copy,"template: declared, near-identical",related,true
+C007,miel,related,identical copy,,true,2026-10-04T21:19:22.379Z,related,identical copy,template: undeclared copy,related,true
+C008,miel,related,,"this one is actually very related. it is rewritten from the stated template, where almost all of the template is in the new file, adapted to the needs. even in line 4 it is quite clear the similitude between cases. must take a look at it later with the agent",true,2026-10-04T21:22:39.658Z,related,,template: declared but rewritten,not_related,false
+C009,miel,related,near-identical copy,,true,2026-10-04T21:22:57.042Z,related,near-identical copy,cross-owner pair: siblings,related,true
+C010,miel,related,,,true,2026-10-04T21:24:02.034Z,related,,cross-owner pair: siblings,related,true
+C011,miel,not_related,,,true,2026-10-04T21:24:28.594Z,not_related,,"meaning, not wording: q10",not_related,true
+C012,miel,not_related,,,true,2026-10-04T21:25:18.242Z,not_related,,near miss: no template relation (best 0.1-0.5),not_related,true
+C013,miel,related,adapted copy,,true,2026-10-04T21:26:38.741Z,related,adapted copy,paragraphs: collage (strict or loose),related,true
+C014,miel,not_related,,,true,2026-10-04T21:26:46.690Z,not_related,,"meaning, not wording: q10",not_related,true
+C015,miel,related,identical copy,,true,2026-10-04T21:27:17.810Z,related,identical copy,template: undeclared copy,related,true
+C016,miel,related,adapted copy,,true,2026-10-04T21:28:19.340Z,related,adapted copy,"template: declared, adapted",related,true
+C017,miel,related,adapted copy,"line 7 in source 1 is actually the same as lines 6, 7 and 8 in the file. it is an adapted copy, but some identical lines arent detected due to the kong file having spaces between some lines, which makes it report as ""partial copy""",true,2026-10-04T21:30:57.122Z,related,adapted copy,paragraphs: partial copy (1 source),related,true
+C018,miel,not_related,,,true,2026-10-04T21:31:27.179Z,not_related,,"meaning, not wording: q10",not_related,true
+C019,miel,not_related,,,true,2026-10-04T21:31:56.227Z,not_related,,near miss: no template relation (best 0.1-0.5),not_related,true
+C020,miel,not_related,,,true,2026-10-04T21:32:06.746Z,not_related,,control: no template relation (best < 0.1),not_related,true
+C021,miel,related,"divergent: same starting point, different content","id say it is related enough, even if its flagged as not. it does use the template, change and delete what they dont like, and the different parts keep the same intent",true,2026-10-04T21:36:08.804Z,related,"divergent: same starting point, different content",template: declared but rewritten,not_related,false
+C022,miel,unsure,"divergent: same starting point, different content","seems to use the template as a guide, might be better flagged as unsure, but a lot of this seems to be adapted ",true,2026-10-04T21:41:18.154Z,not_related,"divergent: same starting point, different content",paragraphs: partial copy (1 source),related,false
+C023,miel,related,,,true,2026-10-04T21:41:25.530Z,related,,paragraphs: partial copy (1 source),related,true
+C024,miel,related,,,true,2026-10-04T21:41:28.971Z,related,,"template: declared, identical",related,true
+C025,miel,related,,very funny case of just renaming the tool as clippy... i might copy the idea ,true,2026-10-04T21:42:47.979Z,related,,"template: declared, near-identical",related,true
+C026,miel,related,,"just a ""-"" difference",true,2026-10-04T21:43:35.938Z,related,,template: undeclared copy,related,true
+C027,miel,related,,,true,2026-10-04T21:43:42.194Z,related,,"template: declared, near-identical",related,true
+C028,miel,not_related,,,true,2026-10-04T21:43:49.353Z,not_related,,template: declared but rewritten,not_related,true
+C029,miel,related,near-identical copy,"yes, identical copy, i flag it as near... funny enough, the same issue of a line being separated into more than one means it doesnt get flagged as the same line",true,2026-10-04T21:45:01.714Z,related,near-identical copy,template: undeclared copy,related,true
+C030,miel,related,,,true,2026-10-04T21:45:09.977Z,related,,template: undeclared copy,related,true
+C031,miel,not_related,,,true,2026-10-04T21:45:13.913Z,not_related,,control: no template relation (best < 0.1),not_related,true
+C032,miel,not_related,,,true,2026-10-04T21:45:18.634Z,not_related,,creator prompt: opener only,not_related,true
+C033,miel,related,,using ai to detect ai slop lmao,true,2026-10-04T21:45:57.314Z,related,,cross-owner pair: fork / direct / mixed,related,true
+C034,miel,not_related,,,true,2026-10-04T21:46:08.289Z,not_related,,"meaning, not wording: q50",related,false
+C035,miel,not_related,,,true,2026-10-04T21:46:16.737Z,not_related,,creator prompt: opener only,not_related,true
+C036,miel,not_related,,,true,2026-10-04T21:46:29.914Z,not_related,,creator prompt: full skeleton,not_related,true
+C037,miel,related,adapted copy,,true,2026-10-04T21:47:22.861Z,related,adapted copy,template: undeclared copy,related,true
+C038,miel,not_related,,,true,2026-10-04T21:47:30.633Z,not_related,,near miss: no template relation (best 0.1-0.5),not_related,true
+C039,miel,related,,,true,2026-10-04T21:47:33.473Z,related,,cross-owner pair: siblings,related,true
+C040,miel,not_related,,,true,2026-10-04T21:47:42.586Z,not_related,,"meaning, not wording: q10",not_related,true
+C041,miel,unsure,partial copy (some paragraphs),"more similar than the machine might flag, with a lot of the lines sharing the intent. clearly based on the github template though heavily editen and rewritten",true,2026-10-04T21:49:24.321Z,unsure,partial copy (some paragraphs),template: declared but rewritten,not_related,
+C042,miel,not_related,,,true,2026-10-04T21:49:36.794Z,not_related,,"meaning, not wording: q10",not_related,true
+C043,miel,related,,,true,2026-10-04T21:49:48.233Z,related,,"template: declared, adapted",related,true
+C044,miel,not_related,,,true,2026-10-04T21:49:53.097Z,not_related,,near miss: no template relation (best 0.1-0.5),not_related,true
+C045,miel,related,,,true,2026-10-04T21:49:58.506Z,related,,paragraphs: collage (strict or loose),related,true
+C046,miel,not_related,,,true,2026-10-04T21:50:03.217Z,not_related,,near miss: no template relation (best 0.1-0.5),not_related,true
+C047,miel,related,,,true,2026-10-04T21:50:08.257Z,related,,template: undeclared copy,related,true
+C048,miel,related,,,true,2026-10-04T21:50:11.569Z,related,,cross-owner pair: fork / direct / mixed,related,true
+C049,miel,not_related,,"copies some paragraphs, but are quite different. requieres more manual review",true,2026-10-04T21:51:21.026Z,not_related,,paragraphs: partial copy (1 source),related,false
+C050,miel,not_related,,,true,2026-10-04T21:51:43.153Z,not_related,,"meaning, not wording: q10",not_related,true
+C051,miel,related,,,true,2026-10-04T21:51:46.673Z,related,,paragraphs: partial copy (1 source),related,true
+C052,miel,related,,,true,2026-10-04T21:51:56.882Z,related,,cross-owner pair: fork / direct / mixed,related,true
+C053,miel,related,,,true,2026-10-04T21:52:00.905Z,related,,cross-owner pair: siblings,related,true
+C054,miel,related,,,true,2026-10-04T21:52:05.353Z,related,,"template: declared, near-identical",related,true
+C055,miel,related,,,true,2026-10-04T21:52:07.832Z,related,,"template: declared, identical",related,true
+C056,miel,related,,,true,2026-10-04T21:52:25.953Z,related,,paragraphs: partial copy (1 source),related,true
+C057,miel,not_related,,,true,2026-10-04T21:52:30.514Z,not_related,,creator prompt: opener only,not_related,true
+C058,miel,not_related,,,true,2026-10-04T21:52:35.001Z,not_related,,creator prompt: full skeleton,not_related,true
+C059,miel,related,,"lines 18 and 34 quite similar, other coincidences likely, seems like they copied their own file",true,2026-10-04T21:53:56.738Z,related,,paragraphs: collage (strict or loose),related,true
+C060,miel,not_related,,,true,2026-10-04T21:54:00.921Z,not_related,,"meaning, not wording: q25",not_related,true
+C061,miel,not_related,,,true,2026-10-04T21:54:02.753Z,not_related,,template: declared but rewritten,not_related,true
+C062,miel,related,,,true,2026-10-04T21:54:18.881Z,related,,paragraphs: partial copy (1 source),related,true
+C063,miel,related,,,true,2026-10-04T21:54:36.514Z,related,,"template: declared, adapted",related,true
+C064,miel,related,,,true,2026-10-04T21:54:55.385Z,related,,template: undeclared copy,related,true
+C065,miel,related,,,true,2026-10-04T21:54:58.521Z,related,,cross-owner pair: fork / direct / mixed,related,true
+C066,miel,not_related,,,true,2026-10-04T21:55:21.168Z,not_related,,"meaning, not wording: q25",not_related,true
+C067,miel,not_related,,,true,2026-10-04T21:55:27.832Z,not_related,,"meaning, not wording: q10",not_related,true
+C068,miel,related,,,true,2026-10-04T21:55:37.904Z,related,,"template: declared, adapted",related,true
+C069,miel,not_related,,"in idea it is surprisingly similar, although rewritten. maybe same inspo?",true,2026-10-04T21:56:17.161Z,not_related,,"meaning, not wording: q10",not_related,true
+C070,miel,not_related,,,true,2026-10-04T21:56:22.961Z,not_related,,template: declared but rewritten,not_related,true
+C071,miel,related,,,true,2026-10-04T21:56:54.129Z,related,,paragraphs: partial copy (1 source),related,true
+C072,miel,related,,,true,2026-10-04T21:56:56.961Z,related,,"template: declared, adapted",related,true
+C073,miel,not_related,,"bruh. this one is empty. giving a deeper look, it is empty now but it used to have something, b ut it was renamed",true,2026-10-04T21:58:59.834Z,not_related,,paragraphs: partial copy (1 source),related,false
+C074,miel,related,,,true,2026-10-04T21:59:06.704Z,related,,cross-owner pair: siblings,related,true
+C075,miel,related,,"looks similar enough, even though its just a couple of paragraphs. we must play a bit more with those thresholds",true,2026-10-04T22:00:08.880Z,related,,template: declared but rewritten,not_related,false
+C076,miel,related,,,true,2026-10-04T22:00:13.607Z,related,,paragraphs: partial copy (1 source),related,true
+C077,miel,not_related,,,true,2026-10-04T22:00:15.800Z,not_related,,"meaning, not wording: q25",not_related,true
+C078,miel,not_related,,,true,2026-10-04T22:00:18.080Z,not_related,,control: no template relation (best < 0.1),not_related,true
+C079,miel,related,,,true,2026-10-04T22:00:20.816Z,related,,"template: declared, identical",related,true
+C080,miel,not_related,,,true,2026-10-04T22:00:24.001Z,not_related,,near miss: no template relation (best 0.1-0.5),not_related,true
+C081,miel,related,,,true,2026-10-04T22:00:31.040Z,related,,"template: declared, adapted",related,true
+C082,miel,not_related,,,true,2026-10-04T22:00:33.769Z,not_related,,creator prompt: full skeleton,not_related,true
+C083,miel,not_related,,,true,2026-10-04T22:00:37.017Z,not_related,,creator prompt: opener only,not_related,true
+C084,miel,not_related,,,true,2026-10-04T22:00:40.393Z,not_related,,"meaning, not wording: q25",not_related,true
+C085,miel,not_related,,,true,2026-10-04T22:00:42.409Z,not_related,,creator prompt: full skeleton,not_related,true
+C086,miel,related,,,true,2026-10-04T22:00:44.369Z,related,,cross-owner pair: siblings,related,true
+C087,miel,related,,,true,2026-10-04T22:00:48.521Z,related,,paragraphs: collage (strict or loose),related,true

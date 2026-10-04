@@ -2,7 +2,7 @@
 
     uv run python scripts/rq1_numbers.py
 
-Run after the analysis scripts (see README). It only reads stored results, plus GHAW-H for the
+Run after the analysis scripts and scripts/validation_agreement.py (see README). It only reads stored results, plus GHAW-H for the
 dataset counts, so the reported numbers can be traced and reproduced.
 
 Writes to results/rq1/:
@@ -252,6 +252,19 @@ def emoji(n: Numbers) -> None:
     n.add(s, "copies_all_inherited", int((w.added == "").sum()), "template copies with emoji that inherited all of them", rel(p), len(w))
 
 
+def validation(n: Numbers) -> None:
+    s = "validation (round 1)"
+    p = RES / "validation" / "round1_agreement.csv"
+    if not p.exists():
+        return
+    a = read(p).iloc[0]
+    n.add(s, "sample_cases", int(a.cases), "stratified sample of detected relations labeled by hand", rel(p))
+    n.add(s, "coders", int(a.coders), "human coders (agreement is coder vs. machine)", rel(p))
+    n.add(s, "compared", int(a.compared), "cases compared (excludes unsure and the display-error case)", rel(p))
+    n.add(s, "agree", int(a.agree), "first verdicts agreeing with the machine", rel(p), int(a.compared))
+    n.add(s, "cohen_kappa", float(a.cohen_kappa_vs_machine), "Cohen's kappa, coder vs. machine (binary related / not related)", rel(p))
+
+
 def main() -> None:
     OUT.mkdir(parents=True, exist_ok=True)
     df = load_snapshots()
@@ -263,6 +276,7 @@ def main() -> None:
     paragraphs(n)
     generator(n, df)
     emoji(n)
+    validation(n)
     out = n.frame()
     out.to_csv(OUT / "numbers.csv", index=False)
     pd.set_option("display.width", 220, "display.max_colwidth", 70, "display.max_rows", 300)

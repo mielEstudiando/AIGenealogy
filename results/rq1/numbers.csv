@@ -91,3 +91,8 @@ emoji use,versions_emoji_in_frontmatter,513,2757.0,0.1861,versions with an emoji
 emoji use,versions_emoji_in_code,441,2757.0,0.16,versions with an emoji in code,upstream/results/emoji_versions.csv
 emoji use,versions_emoji_in_heading,73,2757.0,0.0265,versions with an emoji in heading,upstream/results/emoji_versions.csv
 emoji use,copies_all_inherited,113,117.0,0.9658,template copies with emoji that inherited all of them,upstream/results/emoji_inheritance.csv
+validation (round 1),sample_cases,87,,,stratified sample of detected relations labeled by hand,results/validation/round1_agreement.csv
+validation (round 1),coders,1,,,human coders (agreement is coder vs. machine),results/validation/round1_agreement.csv
+validation (round 1),compared,85,,,cases compared (excludes unsure and the display-error case),results/validation/round1_agreement.csv
+validation (round 1),agree,78,85.0,0.9176,first verdicts agreeing with the machine,results/validation/round1_agreement.csv
+validation (round 1),cohen_kappa,0.832,,,"Cohen's kappa, coder vs. machine (binary related / not related)",results/validation/round1_agreement.csv

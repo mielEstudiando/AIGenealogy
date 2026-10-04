@@ -1,0 +1,17 @@
+stratum,machine_verdict,cases,agree,disagree,unsure
+control: no template relation (best < 0.1),not_related,3,3,0,0
+creator prompt: full skeleton,not_related,6,5,1,0
+creator prompt: opener only,not_related,4,4,0,0
+cross-owner pair: fork / direct / mixed,related,4,4,0,0
+cross-owner pair: siblings,related,6,6,0,0
+"meaning, not wording: q10",not_related,8,8,0,0
+"meaning, not wording: q25",not_related,4,4,0,0
+"meaning, not wording: q50",related,1,0,1,0
+near miss: no template relation (best 0.1-0.5),not_related,6,6,0,0
+paragraphs: collage (strict or loose),related,4,4,0,0
+paragraphs: partial copy (1 source),related,9,7,2,0
+template: declared but rewritten,not_related,7,3,3,1
+"template: declared, adapted",related,6,6,0,0
+"template: declared, identical",related,4,4,0,0
+"template: declared, near-identical",related,4,4,0,0
+template: undeclared copy,related,10,10,0,0

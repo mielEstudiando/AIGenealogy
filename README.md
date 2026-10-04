@@ -48,6 +48,7 @@ uv run python scripts/trace_evolution.py   # version-level evolution analysis ->
 uv run python upstream/attribute_parents.py # files vs. the upstream templates they relate to -> upstream/results/
 uv run python upstream/detect_scenarios.py  # partial copies, collages, AI-prompt skeleton -> upstream/results/
 uv run python upstream/emoji_tally.py       # emoji use by location, inherited or added -> upstream/results/
+uv run python scripts/validation_agreement.py # manual validation: agreement and kappa vs. the machine -> results/validation/
 uv run python scripts/rq1_numbers.py        # every reported RQ1 number + the data behind each table -> results/rq1/
 ```
 
@@ -60,6 +61,7 @@ uv run python scripts/rq1_numbers.py        # every reported RQ1 number + the da
 | `upstream/attribute_parents.py` | `upstream/results/` | Each file's closest earlier template, declared vs. undeclared copies, change at adoption, whether files follow template updates, siblings vs. direct copies |
 | `upstream/detect_scenarios.py` | `upstream/results/` | Paragraph reuse (partial copy, collage), similar-meaning pairs, gh-aw creator-prompt skeleton |
 | `upstream/emoji_tally.py` | `upstream/results/` | Emoji use by location, and whether copies inherited it from the template |
+| `validation_agreement.py` | `results/validation/round1_*.csv` | Agreement between manual labels (`validation/round1/`) and the automatic classification: overall, Cohen's kappa, per stratum |
 | `rq1_numbers.py` | `results/rq1/numbers.csv`, `results/rq1/table_*.csv` | Collects every number reported for RQ1, with denominator, description and source file, and the counts behind each table. Reads stored results only |
 | `trace_evolution.py` | `results/evolution/*.csv` | Evolution within each file history, earlier relatives across files (same repo / same owner / other owner), whether copies follow or drift from their relative |
 
@@ -78,6 +80,7 @@ RQ1 asks how GitHub Agentic Workflows instruction files are related to each othe
 | Divergent relation: gh-aw creator-prompt skeleton; similar-meaning pairs | `upstream/detect_scenarios.py` | `results/rq1/table_skeleton.csv`, `table_convergent_bands.csv` |
 | Evolution within a file and against earlier relatives | `explore_relations.py`, `trace_evolution.py` | `results/rq1/table_version_changes.csv`, `table_relative_tracking.csv` |
 | Emoji use (descriptive) | `upstream/emoji_tally.py` | `results/rq1/table_emoji_by_attribution.csv` |
+| Consistency check of the categories (manual validation) | `validation_agreement.py` | `results/validation/round1_agreement.csv`, `round1_by_stratum.csv` |
 
 The tables and figures in the course document are made by the authors from these files.
 
@@ -94,6 +97,20 @@ The tables and figures in the course document are made by the authors from these
 | Calibrated relation classification | partial: relation cutoff checked by hand on a small sample (see Thresholds) |
 | RQ1 numbers and table data (`results/rq1/`) | done (preliminary) |
 | RQ1 tables and figures for the document | made by the authors from `results/rq1/` |
+
+## Manual validation
+
+`validation/round1/` holds the first round of manual validation (2026-10-04):
+- **Sample:** `sample_cases.csv`, 87 detected relations drawn by stratum with seed 261004. Each row has the machine verdict.
+- **Labels:** `labels_coder1.csv`, one coder's verdicts.
+
+**Procedure:** the coder judged each case in a side-by-side comparison viewer, in blind mode, so the machine category was hidden. The coder's first verdict was recorded before the machine verdict was shown. The viewer itself is not part of this repository.
+
+**Exclusion:** case C073 is excluded, because the viewer showed an emptied template revision for it (a display error).
+
+**Result:** 78 of 85 compared cases agree with the machine (91.8%), Cohen's kappa 0.83.
+- The machine verdicts in this sample follow the categories *before* the recalibration that this round motivated (see Thresholds).
+- **Agreement between two human coders is still pending.**
 
 ## Thresholds
 

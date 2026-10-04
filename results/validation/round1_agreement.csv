@@ -1,0 +1,2 @@
+round,coders,cases,labeled,excluded,unsure,compared,agree,agreement,cohen_kappa_vs_machine,all_blind,changed_after_reveal
+1,1,87,87,1,1,85,78,0.9176,0.832,True,2
