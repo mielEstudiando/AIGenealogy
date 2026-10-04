@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+
+# Data (downloaded by scripts/download_data.py; archived in the Zenodo package)
+data/raw/*
+!data/raw/.gitkeep
+*.part
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
