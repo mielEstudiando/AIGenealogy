@@ -5,8 +5,8 @@ Replication package for a study of **relations between GitHub Agentic Workflows 
 > Status: **Stage 2, partial replication package.** It implements the full preliminary RQ1 analysis on GHAW-H v0.1.2: template relations, cross-owner relations, paragraph reuse, evolution and a first manual validation. Thresholds are provisional (see Thresholds); a second coder and the remaining threshold checks are pending.
 
 - GitHub: <https://github.com/mielEstudiando/AIGenealogy>
-- Zenodo DOI (this version): _TBD_
-- Repository version used for the submitted results: _TBD (tag or commit)_
+- Zenodo DOI (this version): <https://doi.org/10.5281/zenodo.23164121>
+- Repository version used for the submitted results: tag `v0.2.0-stage2`
 
 ## Research question
 
